@@ -1,0 +1,1385 @@
+﻿UID,INTERNAL_ID,NAME_FROM_ID,RARITY,NEW_RARITY,ELEMENTS,MAIN_MESH,ALL_MESHES,IS_PLACEHOLDER
+0,D_PLACEHOLDER_01,Placeholder 01,RARE,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_placeholder,dragon_placeholder|dragon_placeholder,true
+1,D_PLACEHOLDER_02,Placeholder 02,RARE,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_agave,dragon_agave_baby|dragon_agave,true
+2,D_PLACEHOLDER_03,Placeholder 03,RARE,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_agave,dragon_agave_baby|dragon_agave,true
+3,D_PLACEHOLDER_04,Placeholder 04,RARE,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_agave,dragon_agave_baby|dragon_agave,true
+4,D_PLACEHOLDER_05,Placeholder 05,RARE,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_agave,dragon_agave_baby|dragon_agave,true
+5,D_AGAVE,AGAVE,EPIC,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_agave,dragon_agave_baby|dragon_agave,false
+6,D_AGENT,AGENT,EPIC,EPIC,E_METAL|E_VOID|E_EARTH,dragon_agent,dragon_agent_baby|dragon_agent,false
+7,D_AGNES,AGNES,RARE,EPIC,E_FIRE|E_WATER|E_WIND,dragon_agnes,dragon_agnes_baby|dragon_agnes,false
+8,D_ALIEN,ALIEN,EPIC,EPIC,E_VOID|E_METAL|E_PLANT,dragon_alien,dragon_alien_baby|dragon_alien,false
+9,D_ARCHANGEL,ARCHANGEL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_ENERGY,dragon_archangel,dragon_archangel_baby|dragon_archangel,false
+10,D_ARMORED,ARMORED,UNCOMMON,RARE,E_METAL|E_EARTH,dragon_armored,dragon_armored_baby|dragon_armored,false
+11,D_ASH,ASH,EPIC,EPIC,E_FIRE|E_PLANT|E_WIND,dragon_ash,dragon_ash_baby|dragon_ash,false
+12,D_AURORA,AURORA,EPIC,EPIC,E_METAL|E_ENERGY|E_VOID,dragon_aurora,dragon_aurora_baby|dragon_aurora,false
+13,D_AUTUMN,AUTUMN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_SHADOW,dragon_autumn,dragon_autumn_baby|dragon_autumn,false
+14,D_BANANA,BANANA,EPIC,EPIC,E_PLANT|E_WATER|E_ENERGY,dragon_banana,dragon_banana_baby|dragon_banana,false
+15,D_BEE,BEE,UNCOMMON,RARE,E_FIRE|E_WIND,dragon_honey,dragon_honey_baby|dragon_honey,false
+16,D_BERRY,BERRY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_FIRE,dragon_berry,dragon_berry_baby|dragon_berry,false
+17,D_BLACK_ARMOR,BLACK ARMOR,EPIC,EPIC,E_EARTH|E_WIND|E_METAL,dragon_black_armor,dragon_black_armor_baby|dragon_black_armor,false
+18,D_BLUEFLAME,BLUEFLAME,EPIC,EPIC,E_WATER|E_VOID|E_FIRE,dragon_blueflame,dragon_blueflame_baby|dragon_blueflame,false
+19,D_BOILING,BOILING,COMMON,RARE,E_FIRE|E_WATER,dragon_boiling,dragon_boiling_baby|dragon_boiling,false
+20,D_BRICK,BRICK,UNCOMMON,RARE,E_ENERGY|E_EARTH,dragon_brick_boss,dragon_brick_baby|dragon_brick|dragon_brick_boss,false
+21,D_CANDY,CANDY,UNCOMMON,RARE,E_PLANT|E_WATER,dragon_candy,dragon_candy_baby|dragon_candy,false
+22,D_CLAY,CLAY,EPIC,EPIC,E_EARTH|E_WATER|E_ENERGY,dragon_clay_boss,dragon_clay_baby|dragon_clay|dragon_clay_boss,false
+23,D_CLOUD,CLOUD,UNCOMMON,RARE,E_WATER|E_WIND,dragon_cloud,dragon_cloud_baby|dragon_cloud,false
+24,D_COMET,COMET,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WIND,dragon_comet,dragon_comet_baby|dragon_comet,false
+25,D_CORAL,CORAL,EPIC,EPIC,E_METAL|E_PLANT|E_WATER,dragon_coral,dragon_coral_baby|dragon_coral,false
+26,D_COSMOS,COSMOS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_VOID,dragon_cosmos,dragon_cosmos_baby|dragon_cosmos,false
+27,D_CYBORG,CYBORG,UNCOMMON,RARE,E_METAL|E_PLANT,dragon_cyborg,dragon_cyborg_baby|dragon_cyborg,false
+28,D_DARK,DARK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WIND,dragon_darkmachine,dragon_darkmachine_baby|dragon_darkmachine,false
+29,D_DOOM,DOOM,UNCOMMON,RARE,E_VOID|E_ENERGY,dragon_doom,dragon_doom_baby|dragon_doom,false
+30,D_DRACULA,DRACULA,EPIC,EPIC,E_VOID|E_METAL|E_WIND,dragon_dracula,dragon_dracula_baby|dragon_dracula,false
+31,D_DUST,DUST,COMMON,RARE,E_WIND|E_EARTH,dragon_dust,dragon_dust_baby|dragon_dust,false
+32,D_EAGLE,EAGLE,EPIC,EPIC,E_WIND|E_METAL|E_VOID,dragon_eagle,dragon_eagle_baby|dragon_eagle,false
+33,D_EARTH,EARTH,COMMON,RARE,E_EARTH,dragon_earth,dragon_earth_baby|dragon_earth,false
+34,D_EEL,EEL,COMMON,RARE,E_WATER|E_ENERGY,dragon_eel,dragon_eel_baby|dragon_eel,false
+35,D_ELEMENTAL,ELEMENTAL,RARE,EPIC,E_EARTH|E_WATER|E_FIRE,dragon_elemental,dragon_elemental_baby|dragon_elemental,false
+36,D_EMERALD,EMERALD,EPIC,EPIC,E_PLANT|E_ENERGY|E_EARTH,dragon_emerald,dragon_emerald_baby|dragon_emerald,false
+37,D_ENERGY,ENERGY,COMMON,RARE,E_ENERGY,dragon_energy,dragon_energy_baby|dragon_energy,false
+38,D_FAUN,FAUN,EPIC,RARE,E_PLANT|E_EARTH,dragon_faun,dragon_faun_baby|dragon_faun,false
+39,D_FIRE,FIRE,COMMON,COMMON,E_FIRE,dragon_fire,dragon_fire_baby|dragon_fire,false
+40,D_FIRESTORM,FIRESTORM,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_VOID,dragon_firestorm,dragon_firestorm_baby|dragon_firestorm,false
+41,D_GEIGER,GEIGER,COMMON,RARE,E_EARTH|E_ENERGY,dragon_geiger,dragon_geiger_baby|dragon_geiger,false
+42,D_GEYSER,GEYSER,EPIC,EPIC,E_FIRE|E_WATER|E_ENERGY,dragon_geyser_boss,dragon_geyser_baby|dragon_geyser|dragon_geyser_boss,false
+43,D_GHOST,GHOST,EPIC,EPIC,E_WIND|E_VOID|E_METAL,dragon_ghost_boss,dragon_ghost_baby|dragon_ghost|dragon_ghost_boss,false
+44,D_GOLD_CROW,GOLD CROW,EPIC,EPIC,E_ENERGY|E_METAL|E_PLANT,dragon_goldencrow,dragon_goldencrow_baby|dragon_goldencrow,false
+45,D_GOLDEN,GOLDEN,RARE,RARE,E_FIRE|E_METAL,dragon_golden,dragon_golden_baby|dragon_golden,false
+46,D_GOLEM,GOLEM,EPIC,EPIC,E_EARTH|E_METAL|E_PLANT,dragon_golem_boss,dragon_golem_baby|dragon_golem|dragon_golem_boss,false
+47,D_HAMMERHEAD,HAMMERHEAD,EPIC,EPIC,E_WATER|E_METAL|E_VOID,dragon_hammerhead,dragon_hammerhead_baby|dragon_hammerhead,false
+48,D_HONEY,HONEY,COMMON,RARE,E_PLANT|E_ENERGY,dragon_wasp,dragon_wasp_baby|dragon_wasp,false
+49,D_ICE,ICE,COMMON,RARE,E_WIND|E_WATER,dragon_ice_boss,dragon_ice_baby|dragon_ice|dragon_ice_boss,false
+50,D_ICREAM,ICREAM,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_PLANT,dragon_icecream,dragon_icecream_baby|dragon_icecream,false
+51,D_IRONCAST,IRONCAST,EPIC,EPIC,E_METAL|E_FIRE|E_ENERGY,dragon_ironcast,dragon_ironcast_baby|dragon_ironcast,false
+52,D_JAWS,JAWS,UNCOMMON,RARE,E_VOID|E_WATER,dragon_jaws,dragon_jaws_baby|dragon_jaws,false
+53,D_JELLY,JELLY,EPIC,EPIC,E_VOID|E_ENERGY|E_WATER,dragon_jelly_boss,dragon_jelly_baby|dragon_jelly|dragon_jelly_boss,false
+54,D_LANTERN,LANTERN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_LIGHT,dragon_lantern,dragon_lantern_baby|dragon_lantern,false
+55,D_LAVA,LAVA,COMMON,RARE,E_EARTH|E_FIRE,dragon_lava,dragon_lava_baby|dragon_lava,false
+56,D_LEAF,LEAF,UNCOMMON,RARE,E_PLANT|E_WIND,dragon_leaf,dragon_leaf_baby|dragon_leaf,false
+57,D_LIGHTNING,LIGHTNING,RARE,RARE,E_ENERGY|E_WIND,dragon_lighting,dragon_lighting_baby|dragon_lighting,false
+58,D_LIQUIDFIRE,LIQUIDFIRE,RARE,EPIC,E_WATER|E_FIRE|E_PLANT,dragon_liquidfire,dragon_liquidfire_baby|dragon_liquidfire,false
+59,D_LITTLE_PRINCE,LITTLE PRINCE,EPIC,EPIC,E_WIND|E_METAL|E_WATER,dragon_little_prince,dragon_little_prince_baby|dragon_little_prince,false
+60,D_LOVE,LOVE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_LIGHT,dragon_love,dragon_love_baby|dragon_love,false
+61,D_LUCK,LUCK,EPIC,EPIC,E_WIND|E_PLANT|E_ENERGY,dragon_luck,dragon_luck_baby|dragon_luck,false
+62,D_LUMINO,LUMINO,COMMON,RARE,E_FIRE|E_VOID,dragon_lumino,dragon_lumino_baby|dragon_lumino,false
+63,D_LYNX,LYNX,RARE,EPIC,E_ENERGY|E_FIRE|E_EARTH,dragon_lynx,dragon_lynx_baby|dragon_lynx,false
+64,D_MACHINE,MACHINE,EPIC,EPIC,E_METAL|E_WIND|E_ENERGY,dragon_machine_boss,dragon_machine_baby|dragon_machine|dragon_machine_boss,false
+65,D_MAGNET,MAGNET,RARE,RARE,E_EARTH|E_VOID,dragon_magnet,dragon_magnet_baby|dragon_magnet,false
+66,D_MELON,MELON,COMMON,RARE,E_WATER|E_PLANT,dragon_melon_boss,dragon_melon_baby|dragon_melon|dragon_melon_boss,false
+67,D_MERCURY,MERCURY,RARE,RARE,E_METAL|E_WATER,dragon_mercury,dragon_mercury_baby|dragon_mercury,false
+68,D_METAL,METAL,COMMON,RARE,E_METAL,dragon_metal,dragon_metal_baby|dragon_metal,false
+69,D_METEOR,METEOR,UNCOMMON,RARE,E_ENERGY|E_FIRE,dragon_meteor,dragon_meteor_baby|dragon_meteor,false
+70,D_MINOTAUR,MINOTAUR,COMMON,RARE,E_EARTH|E_METAL,dragon_minotaur,dragon_minotaur_baby|dragon_minotaur,false
+71,D_MIST,MIST,COMMON,RARE,E_VOID|E_WIND,dragon_mist,dragon_mist_baby|dragon_mist,false
+72,D_METAL_SNAKE,METAL SNAKE,EPIC,EPIC,E_VOID|E_EARTH|E_ENERGY,dragon_machine_snake,dragon_machine_snake_baby|dragon_machine_snake,false
+73,D_MUD,MUD,UNCOMMON,RARE,E_EARTH|E_WATER,dragon_mud,dragon_mud_baby|dragon_mud,false
+74,D_MUTANT,MUTANT,EPIC,EPIC,E_PLANT|E_FIRE|E_ENERGY,dragon_mutant_boss,dragon_mutant_baby|dragon_mutant|dragon_mutant_boss,false
+75,D_NARWHALE,NARWHALE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_METAL,dragon_narwhale,dragon_narwhale_baby|dragon_narwhale,false
+76,D_NEMO,NEMO,RARE,EPIC,E_WATER|E_EARTH|E_WIND,dragon_nemo,dragon_nemo_baby|dragon_nemo,false
+77,D_NIGHTSHADE,NIGHTSHADE,COMMON,RARE,E_PLANT|E_VOID,dragon_nightshade,dragon_nightshade_baby|dragon_nightshade,false
+78,D_ORANGE,ORANGE,EPIC,EPIC,E_FIRE|E_PLANT|E_EARTH,dragon_orange,dragon_orange_baby|dragon_orange,false
+79,D_PALM,PALM,RARE,EPIC,E_PLANT|E_WIND|E_EARTH,dragon_palm,dragon_palm_baby|dragon_palm,false
+80,D_PHOENIX,PHOENIX,EPIC,EPIC,E_FIRE|E_ENERGY|E_VOID,dragon_phoenix_boss,dragon_phoenix_baby|dragon_phoenix|dragon_phoenix_boss,false
+81,D_PIXEL,PIXEL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_ENERGY,dragon_pixel,dragon_pixel_baby|dragon_pixel,false
+82,D_PIXIE,PIXIE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_PLANT,dragon_pixie,dragon_pixie_baby|dragon_pixie,false
+83,D_PLANET,PLANET,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_PLANT,dragon_planet,dragon_planet_baby|dragon_planet,false
+84,D_PLANT,PLANT,COMMON,RARE,E_PLANT,dragon_plant,dragon_plant_baby|dragon_plant,false
+85,D_PLASMA,PLASMA,COMMON,RARE,E_FIRE|E_ENERGY,dragon_plasma,dragon_plasma_baby|dragon_plasma,false
+86,D_POISONIVY,POISONIVY,EPIC,EPIC,E_VOID|E_PLANT|E_METAL,dragon_poisonivy,dragon_poisonivy_baby|dragon_poisonivy,false
+87,D_PRAIRIE,PRAIRIE,RARE,EPIC,E_EARTH|E_WIND|E_FIRE,dragon_prairie,dragon_prairie_baby|dragon_prairie,false
+88,D_PULSAR,PULSAR,EPIC,EPIC,E_FIRE|E_VOID|E_WIND,dragon_pulsar,dragon_pulsar_baby|dragon_pulsar,false
+89,D_RADIANT,RADIANT,EPIC,EPIC,E_VOID|E_METAL|E_ENERGY,dragon_radiant,dragon_radiant_baby|dragon_radiant,false
+90,D_RAGNAROK,RAGNAROK,EPIC,EPIC,E_METAL|E_VOID|E_FIRE,dragon_ragnarok,dragon_ragnarok_baby|dragon_ragnarok,false
+91,D_RAIN,RAIN,COMMON,RARE,E_WATER|E_VOID,dragon_rain,dragon_rain_baby|dragon_rain,false
+92,D_RAINBOW,RAINBOW,UNCOMMON,RARE,E_ENERGY|E_WATER,dragon_rainbow,dragon_rainbow_baby|dragon_rainbow,false
+93,D_RASTAFARI,RASTAFARI,RARE,EPIC,E_WIND|E_WATER|E_EARTH,dragon_rasta,dragon_rasta_baby|dragon_rasta,false
+94,D_RAZOR,RAZOR,UNCOMMON,RARE,E_METAL|E_WIND,dragon_razor,dragon_razor_baby|dragon_razor,false
+95,D_REDFLOWER,REDFLOWER,EPIC,EPIC,E_PLANT|E_FIRE|E_WATER,dragon_redflower,dragon_redflower_baby|dragon_redflower,false
+96,D_ROOT,ROOT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_EARTH,dragon_root,dragon_root_baby|dragon_root,false
+97,D_RUBY,RUBY,EPIC,EPIC,E_EARTH|E_ENERGY|E_FIRE,dragon_ruby,dragon_ruby_baby|dragon_ruby,false
+98,D_RUST,RUST,RARE,EPIC,E_METAL|E_WATER|E_EARTH,dragon_rust,dragon_rust_baby|dragon_rust,false
+99,D_SALAMANDER,SALAMANDER,UNCOMMON,RARE,E_FIRE|E_EARTH,dragon_salamander,dragon_salamander_baby|dragon_salamander,false
+100,D_SEED,SEED,COMMON,RARE,E_WIND|E_PLANT,dragon_seed,dragon_seed_baby|dragon_seed,false
+101,D_SHARD,SHARD,COMMON,RARE,E_VOID|E_METAL,dragon_shard,dragon_shard_baby|dragon_shard,false
+102,D_SIREN,SIREN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WATER,dragon_siren,dragon_siren_baby|dragon_siren,false
+103,D_SKELETON,SKELETON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_SHADOW,dragon_skeleton,dragon_skeleton_baby|dragon_skeleton,false
+104,D_SMOKE,SMOKE,COMMON,RARE,E_WIND|E_FIRE,dragon_smoke,dragon_smoke_baby|dragon_smoke,false
+105,D_SNOW,SNOW,COMMON,RARE,E_WATER|E_EARTH,dragon_snow,dragon_snow_baby|dragon_snow,false
+106,D_STORM,STORM,EPIC,EPIC,E_ENERGY|E_WIND|E_VOID,dragon_storm,dragon_storm_baby|dragon_storm,false
+107,D_SUNFLOWER,SUNFLOWER,RARE,RARE,E_FIRE|E_PLANT,dragon_sunflower,dragon_sunflower_baby|dragon_sunflower,false
+108,D_SWAMP,SWAMP,EPIC,EPIC,E_VOID|E_EARTH|E_PLANT,dragon_swamp,dragon_swamp_baby|dragon_swamp,false
+109,D_TESLA,TESLA,COMMON,RARE,E_ENERGY|E_METAL,dragon_tesla_boss,dragon_tesla_baby|dragon_tesla|dragon_tesla_boss,false
+110,D_THORN,THORN,UNCOMMON,RARE,E_VOID|E_PLANT,dragon_thorn,dragon_thorn_baby|dragon_thorn,false
+111,D_TIGER,TIGER,EPIC,EPIC,E_ENERGY|E_PLANT|E_FIRE,dragon_tiger,dragon_tiger_baby|dragon_tiger,false
+112,D_TITAN,TITAN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_EARTH,dragon_titan,dragon_titan_baby|dragon_titan,false
+113,D_TORNADO,TORNADO,COMMON,RARE,E_WIND|E_METAL,dragon_tornado,dragon_tornado_baby|dragon_tornado,false
+114,D_TOXIC,TOXIC,EPIC,EPIC,E_PLANT|E_ENERGY|E_VOID,dragon_toxic,dragon_toxic_baby|dragon_toxic,false
+115,D_TREE,TREE,COMMON,RARE,E_EARTH|E_PLANT,dragon_tree,dragon_tree_baby|dragon_tree,false
+116,D_TRIBAL,TRIBAL,RARE,EPIC,E_FIRE|E_EARTH|E_WIND,dragon_tribal,dragon_tribal_baby|dragon_tribal,false
+117,D_UV,UV,UNCOMMON,RARE,E_METAL|E_ENERGY,dragon_uv,dragon_uv_baby|dragon_uv,false
+118,D_VENOM,VENOM,COMMON,RARE,E_PLANT|E_METAL,dragon_venom,dragon_venom_baby|dragon_venom,false
+119,D_VOID,VOID,COMMON,RARE,E_VOID,dragon_void,dragon_void_baby|dragon_void,false
+120,D_VORTEX,VORTEX,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_ENERGY,dragon_vortex,dragon_vortex_baby|dragon_vortex,false
+121,D_WAR,WAR,COMMON,RARE,E_METAL|E_FIRE,dragon_war,dragon_war_baby|dragon_war,false
+122,D_WATER,WATER,COMMON,RARE,E_WATER,dragon_water,dragon_water_baby|dragon_water,false
+123,D_WEREWOLF,WEREWOLF,EPIC,EPIC,E_FIRE|E_EARTH|E_PLANT,dragon_werewolf,dragon_werewolf_baby|dragon_werewolf,false
+124,D_WHIRLPOOL,WHIRLPOOL,RARE,EPIC,E_EARTH|E_WATER|E_WIND,dragon_whirlpool,dragon_whirlpool_baby|dragon_whirlpool,false
+125,D_WIND,WIND,COMMON,COMMON,E_WIND,dragon_wind,dragon_wind_baby|dragon_wind,false
+126,D_WINTER,WINTER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_WIND,dragon_winter,dragon_winter_baby|dragon_winter,false
+127,D_WITCH,WITCH,COMMON,RARE,E_ENERGY|E_VOID,dragon_witch,dragon_witch_baby|dragon_witch,false
+128,D_YINGYANG,YINGYANG,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_LIGHT,dragon_yinyang,dragon_yinyang_baby|dragon_yinyang,false
+129,D_BUNNY,BUNNY,EPIC,EPIC,E_PLANT|E_EARTH|E_WATER,dragon_bunny,dragon_bunny_baby|dragon_bunny,false
+130,D_STEAMPUNK,STEAMPUNK,EPIC,EPIC,E_METAL|E_WIND|E_WATER,dragon_steampunk,dragon_steampunk_baby|dragon_steampunk,false
+131,D_TIME,TIME,RARE,RARE,E_EARTH|E_WIND,dragon_time,dragon_time_baby|dragon_time,false
+132,D_ORANGESTAR,ORANGESTAR,RARE,RARE,E_FIRE|E_EARTH,dragon_japan,dragon_japan_baby|dragon_japan,false
+133,D_PHARAOH,PHARAOH,EPIC,EPIC,E_VOID|E_EARTH|E_WIND,dragon_farao,dragon_farao_baby|dragon_farao,false
+134,D_HOMEWORLD,HOMEWORLD,EPIC,EPIC,E_PLANT|E_WATER|E_WIND,dragon_earthday,dragon_earthday_baby|dragon_earthday,false
+135,D_FOX_FAIRY,FOX FAIRY,EPIC,EPIC,E_WATER|E_EARTH|E_PLANT,dragon_foxfairy,dragon_foxfairy_baby|dragon_foxfairy,false
+136,D_COOKIE,COOKIE,RARE,EPIC,E_EARTH|E_FIRE|E_WATER,dragon_cookie,dragon_cookie_baby|dragon_cookie,false
+137,D_MONK,MONK,EPIC,EPIC,E_WIND|E_VOID|E_FIRE,dragon_monk,dragon_monk_baby|dragon_monk,false
+138,D_ROBOT,ROBOT,EPIC,EPIC,E_METAL|E_ENERGY|E_EARTH,dragon_robot,dragon_robot_baby|dragon_robot,false
+139,D_WIZARD,WIZARD,EPIC,EPIC,E_VOID|E_FIRE|E_WIND,dragon_wizard,dragon_wizard_baby|dragon_wizard,false
+140,D_ZOMBIE,ZOMBIE,EPIC,EPIC,E_EARTH|E_VOID|E_FIRE,dragon_zombie,dragon_zombie_baby|dragon_zombie,false
+141,D_TOY,TOY,EPIC,EPIC,E_ENERGY|E_METAL|E_WIND,dragon_toy,dragon_toy_baby|dragon_toy,false
+142,D_TORPEDO,TORPEDO,EPIC,EPIC,E_METAL|E_FIRE|E_WATER,dragon_torpedo,dragon_torpedo_baby|dragon_torpedo,false
+143,D_POP_ART,POP ART,RARE,RARE,E_WATER|E_FIRE,dragon_popart,dragon_popart_baby|dragon_popart,false
+144,D_KANGAROO,KANGAROO,EPIC,EPIC,E_WIND|E_FIRE|E_PLANT,dragon_kangaroo,dragon_kangaroo_baby|dragon_kangaroo,false
+145,D_MANGA,MANGA,RARE,RARE,E_WIND|E_VOID,dragon_manga,dragon_manga_baby|dragon_manga,false
+146,D_PEACOCK,PEACOCK,RARE,RARE,E_WIND|E_WATER,dragon_peacock,dragon_peacock_baby|dragon_peacock,false
+147,D_FARMER,FARMER,RARE,RARE,E_PLANT|E_EARTH,dragon_farmer,dragon_farmer_baby|dragon_farmer,false
+148,D_MEXICAN,MEXICAN,RARE,RARE,E_ENERGY|E_PLANT,dragon_mexican,dragon_mexican_baby|dragon_mexican,false
+149,D_MOTHER,MOTHER,EPIC,EPIC,E_PLANT|E_WIND|E_WATER,dragon_mothersday,dragon_mothersday_baby|dragon_mothersday,false
+150,D_UNCLE_SAM,UNCLE SAM,EPIC,EPIC,E_WIND|E_ENERGY|E_FIRE,dragon_unclesam,dragon_unclesam_baby|dragon_unclesam,false
+151,D_FOOTBALL,FOOTBALL,RARE,RARE,E_ENERGY|E_EARTH,dragon_football,dragon_football_baby|dragon_football,false
+152,D_GLADIATOR,GLADIATOR,RARE,RARE,E_VOID|E_FIRE,dragon_gladiator,dragon_gladiator_baby|dragon_gladiator,false
+153,D_WARLORD,WARLORD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_SHADOW,dragon_warlord,dragon_warlord_baby|dragon_warlord,false
+154,D_MYTHRILL,MYTHRILL,RARE,RARE,E_METAL|E_VOID,dragon_mitrhil,dragon_mitrhil_baby|dragon_mitrhil,false
+155,D_RUSSIAN,RUSSIAN,RARE,RARE,E_WATER|E_METAL,dragon_russian,dragon_russian_baby|dragon_russian,false
+156,D_MOONLIGHT,MOONLIGHT,EPIC,EPIC,E_VOID|E_WIND|E_ENERGY,dragon_moonlight,dragon_moonlight_baby|dragon_moonlight,false
+157,D_CHINESE_BOAT,CHINESE BOAT,RARE,EPIC,E_WATER|E_FIRE|E_WIND,dragon_chineseboat,dragon_chineseboat_baby|dragon_chineseboat,false
+158,D_BASKETBALL,BASKETBALL,EPIC,EPIC,E_WIND|E_EARTH|E_VOID,dragon_basketball,dragon_basketball_baby|dragon_basketball,false
+159,D_CAPNGOWN,CAPNGOWN,EPIC,EPIC,E_EARTH|E_PLANT|E_WIND,dragon_capngown,dragon_capngown_baby|dragon_capngown,false
+160,D_FATHER,FATHER,EPIC,EPIC,E_PLANT|E_EARTH|E_METAL,dragon_father,dragon_father_baby|dragon_father,false
+161,D_TENNIS,TENNIS,EPIC,EPIC,E_ENERGY|E_EARTH|E_FIRE,dragon_tennis,dragon_tennis_baby|dragon_tennis,false
+162,D_FIREWORK,FIREWORK,EPIC,EPIC,E_FIRE|E_METAL|E_ENERGY,dragon_firework,dragon_firework_baby|dragon_firework,false
+163,D_INDEPENDENCE_DAY,INDEPENDENCE DAY,EPIC,EPIC,E_METAL|E_ENERGY|E_FIRE,dragon_independenceday,dragon_independenceday_baby|dragon_independenceday,false
+164,D_FRENCH,FRENCH,RARE,RARE,E_WIND|E_ENERGY,dragon_cubist,dragon_cubist_baby|dragon_cubist,false
+165,D_BRAZIL,BRAZIL,RARE,RARE,E_PLANT|E_FIRE,dragon_brazil,dragon_brazil_baby|dragon_brazil,false
+166,D_NINJA,NINJA,UNCOMMON,RARE,E_FIRE|E_SHADOW,dragon_ninja,dragon_ninja_baby|dragon_ninja,false
+167,D_SUNBEAM,SUNBEAM,COMMON,RARE,E_LIGHT|E_FIRE,dragon_sunbeam,dragon_sunbeam_baby|dragon_sunbeam,false
+168,D_DARKMATTER,DARKMATTER,COMMON,RARE,E_SHADOW|E_ENERGY,dragon_darkmatter,dragon_darkmatter_baby|dragon_darkmatter,false
+169,D_SHADOW,SHADOW,COMMON,RARE,E_SHADOW,dragon_shadow,dragon_shadow_baby|dragon_shadow,false
+170,D_HELL,HELL,COMMON,RARE,E_SHADOW|E_FIRE,dragon_hell_boss,dragon_hell_baby|dragon_hell|dragon_hell_boss,false
+171,D_EMPEROR,EMPEROR,RARE,RARE,E_LIGHT|E_SHADOW,dragon_emperor,dragon_emperor_baby|dragon_emperor,false
+172,D_HAPPY,HAPPY,EPIC,EPIC,E_FIRE|E_WIND|E_ENERGY,dragon_happy,dragon_happy_baby|dragon_happy,false
+173,D_HORSEFISH,HORSEFISH,EPIC,EPIC,E_WATER|E_PLANT|E_FIRE,dragon_horsefish,dragon_horsefish_baby|dragon_horsefish,false
+174,D_XRAY,XRAY,COMMON,RARE,E_LIGHT|E_VOID,dragon_xray,dragon_xray_baby|dragon_xray,false
+175,D_HELLBREEZE,HELLBREEZE,COMMON,RARE,E_SHADOW|E_WIND,dragon_hellbreeze,dragon_hellbreeze_baby|dragon_hellbreeze,false
+176,D_LIGHT,LIGHT,COMMON,RARE,E_LIGHT,dragon_light,dragon_light_baby|dragon_light,false
+177,D_NIGHTMARE,NIGHTMARE,COMMON,RARE,E_SHADOW|E_VOID,dragon_nightmares,dragon_nightmares_baby|dragon_nightmares,false
+178,D_MUMMY,MUMMY,RARE,RARE,E_EARTH|E_SHADOW,dragon_mummy,dragon_mummy_baby|dragon_mummy,false
+179,D_PIRATE,PIRATE,COMMON,RARE,E_SHADOW|E_WATER,dragon_pirate,dragon_pirate_baby|dragon_pirate,false
+180,D_PABLO,PABLO,EPIC,EPIC,E_PLANT|E_WATER|E_EARTH,dragon_pablo,dragon_pablo_baby|dragon_pablo,false
+181,D_RIPTIDE,RIPTIDE,EPIC,EPIC,E_WATER|E_VOID|E_WIND,dragon_riptide,dragon_riptide_baby|dragon_riptide,false
+182,D_VOODOO,VOODOO,EPIC,EPIC,E_SHADOW|E_EARTH|E_PLANT,dragon_voodoo,dragon_voodoo_baby|dragon_voodoo,false
+183,D_MUSIC,MUSIC,COMMON,RARE,E_LIGHT|E_WIND,dragon_music,dragon_music_baby|dragon_music,false
+184,D_JUNGLE,JUNGLE,COMMON,RARE,E_LIGHT|E_PLANT,dragon_jungle,dragon_jungle_baby|dragon_jungle,false
+185,D_BEACH,BEACH,RARE,RARE,E_WATER|E_LIGHT,dragon_beach,dragon_beach_baby|dragon_beach,false
+186,D_MUSHROOM,MUSHROOM,COMMON,RARE,E_SHADOW|E_PLANT,dragon_mushroom,dragon_mushroom_baby|dragon_mushroom,false
+187,D_REAPER,REAPER,COMMON,RARE,E_SHADOW|E_METAL,dragon_reaper_boss,dragon_reaper_baby|dragon_reaper|dragon_reaper_boss,false
+188,D_ROCKSTAR,ROCKSTAR,EPIC,EPIC,E_SHADOW|E_ENERGY|E_FIRE,dragon_rockstar,dragon_rockstar_baby|dragon_rockstar,false
+189,D_CRUSADER,CRUSADER,COMMON,RARE,E_SHADOW|E_METAL,dragon_crusader,dragon_crusader_baby|dragon_crusader,false
+190,D_ROCKET,ROCKET,COMMON,RARE,E_LIGHT|E_ENERGY,dragon_rocket,dragon_rocket_baby|dragon_rocket,false
+191,D_ABYSS,ABYSS,EPIC,EPIC,E_SHADOW|E_VOID|E_WIND,dragon_abyss,dragon_abyss_baby|dragon_abyss,false
+192,D_BLACKMETAL,BLACKMETAL,RARE,RARE,E_METAL|E_SHADOW,dragon_blackmetal,dragon_blackmetal_baby|dragon_blackmetal,false
+193,D_WHITEDWARF,WHITEDWARF,COMMON,RARE,E_LIGHT|E_METAL,dragon_whitedwarf_boss,dragon_whitedwarf_baby|dragon_whitedwarf|dragon_whitedwarf_boss,false
+194,D_DARKQUEEN,DARKQUEEN,EPIC,EPIC,E_ENERGY|E_SHADOW|E_PLANT,dragon_darkqueen,dragon_darkqueen_baby|dragon_darkqueen,false
+195,D_FIREBALL,FIREBALL,UNCOMMON,RARE,E_FIRE|E_WIND,dragon_fireball,dragon_fireball_baby|dragon_fireball,false
+196,D_CRYSTAL,CRYSTAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_EARTH,dragon_crystal_boss,dragon_crystal_baby|dragon_crystal|dragon_crystal_boss,false
+197,D_ROUGE,ROUGE,COMMON,RARE,E_SHADOW|E_EARTH,dragon_rouge,dragon_rouge_baby|dragon_rouge,false
+198,D_HIGHLANDER,HIGHLANDER,EPIC,EPIC,E_EARTH|E_PLANT|E_METAL,dragon_highlander,dragon_highlander_baby|dragon_highlander,false
+199,D_STARDUST,STARDUST,EPIC,EPIC,E_SHADOW|E_LIGHT|E_VOID,dragon_stardust_boss,dragon_stardust_baby|dragon_stardust|dragon_stardust_boss,false
+200,D_TEMPEST,TEMPEST,EPIC,EPIC,E_WIND|E_WATER|E_ENERGY,dragon_tempest,dragon_tempest_baby|dragon_tempest,false
+201,D_STARFALL,STARFALL,EPIC,EPIC,E_VOID|E_SHADOW|E_LIGHT,dragon_starfall,dragon_starfall_baby|dragon_starfall,false
+202,D_SUMMER,SUMMER,COMMON,RARE,E_LIGHT|E_WATER,dragon_lightfish,dragon_lightfish_baby|dragon_lightfish,false
+203,D_YUKATA,YUKATA,EPIC,EPIC,E_PLANT|E_WATER|E_FIRE,dragon_yukata,dragon_yukata_baby|dragon_yukata,false
+204,D_CANADIAN,CANADIAN,EPIC,EPIC,E_PLANT|E_FIRE|E_EARTH,dragon_canadianday,dragon_canadianday_baby|dragon_canadianday,false
+205,D_SPIKEY,SPIKEY,COMMON,RARE,E_LIGHT|E_EARTH,dragon_spikey,dragon_spikey_baby|dragon_spikey,false
+206,D_FROSTBITE,FROSTBITE,EPIC,EPIC,E_SHADOW|E_WATER|E_WIND,dragon_frostbite,dragon_frostbite_baby|dragon_frostbite,false
+207,D_BRONZE,BRONZE,EPIC,EPIC,E_LIGHT|E_METAL|E_SHADOW,dragon_bronze,dragon_bronze_baby|dragon_bronze,false
+208,D_SHIELD,SHIELD,EPIC,EPIC,E_LIGHT|E_EARTH|E_PLANT,dragon_shield,dragon_shield_baby|dragon_shield,false
+209,D_SULFUR,SULFUR,RARE,RARE,E_FIRE|E_LIGHT,dragon_sulfur,dragon_sulfur_baby|dragon_sulfur,false
+210,D_PIGGYBANK,PIGGYBANK,EPIC,EPIC,E_FIRE|E_EARTH|E_METAL,dragon_piggybank,dragon_piggybank_baby|dragon_piggybank,false
+211,D_HIPPIE,HIPPIE,RARE,EPIC,E_WIND|E_LIGHT|E_PLANT,dragon_hippie,dragon_hippie_baby|dragon_hippie,false
+212,D_TRACHT,TRACHT,EPIC,EPIC,E_WATER|E_SHADOW|E_METAL,dragon_tracht,dragon_tracht_baby|dragon_tracht,false
+213,D_TEACHER,TEACHER,EPIC,EPIC,E_LIGHT|E_ENERGY|E_WATER,dragon_teacher,dragon_teacher_baby|dragon_teacher,false
+214,D_MIDAUTUMN,MIDAUTUMN,EPIC,EPIC,E_LIGHT|E_FIRE|E_WIND,dragon_midautumn,dragon_midautumn_baby|dragon_midautumn,false
+215,D_AMERICANFOOTBALL,AMERICANFOOTBALL,EPIC,EPIC,E_EARTH|E_SHADOW|E_PLANT,dragon_americanfootball,dragon_americanfootball_baby|dragon_americanfootball,false
+216,D_WORKER,WORKER,EPIC,EPIC,E_METAL|E_EARTH|E_SHADOW,dragon_worker,dragon_worker_baby|dragon_worker,false
+217,D_STUDENT,STUDENT,EPIC,EPIC,E_PLANT|E_EARTH|E_ENERGY,dragon_student,dragon_student_baby|dragon_student,false
+218,D_CHINAFLAG,CHINAFLAG,EPIC,EPIC,E_EARTH|E_FIRE|E_METAL,dragon_china_flag,dragon_china_flag_baby|dragon_china_flag,false
+219,D_CHEF,CHEF,EPIC,EPIC,E_METAL|E_FIRE|E_PLANT,dragon_chef,dragon_chef_baby|dragon_chef,false
+220,D_MOONRABBIT,MOONRABBIT,EPIC,EPIC,E_VOID|E_WATER|E_PLANT,dragon_china_bunny,dragon_china_bunny_baby|dragon_china_bunny,false
+221,D_PUMPKIN,PUMPKIN,EPIC,EPIC,E_PLANT|E_EARTH|E_FIRE,dragon_pumpkin,dragon_pumpkin_baby|dragon_pumpkin,false
+222,D_TURKEY,TURKEY,EPIC,EPIC,E_WIND|E_EARTH|E_WATER,dragon_turkey,dragon_turkey_baby|dragon_turkey,false
+223,D_FRANKENSTEINER,FRANKENSTEINER,EPIC,EPIC,E_EARTH|E_VOID|E_ENERGY,dragon_frankensteiner,dragon_frankensteiner_baby|dragon_frankensteiner,false
+224,D_TRICK_OR_TREAT,TRICK OR TREAT,RARE,RARE,E_VOID|E_SHADOW,dragon_trickortreat,dragon_trickortreat_baby|dragon_trickortreat,false
+225,D_MOVEMBER,MOVEMBER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_PLANT,dragon_movember,dragon_movember_baby|dragon_movember,false
+226,D_MECH,MECH,RARE,RARE,E_METAL|E_LIGHT,dragon_mech,dragon_mech_baby|dragon_mech,false
+227,D_SUBMARINE,SUBMARINE,RARE,RARE,E_WATER|E_SHADOW,dragon_submarine,dragon_submarine_baby|dragon_submarine,false
+228,D_BUTTERFLY,BUTTERFLY,EPIC,EPIC,E_ENERGY|E_LIGHT|E_PLANT,dragon_butterfly,dragon_butterfly_baby|dragon_butterfly,false
+229,D_DIAMOND,DIAMOND,EPIC,EPIC,E_ENERGY|E_LIGHT|E_EARTH,dragon_blackfriday,dragon_blackfriday_baby|dragon_blackfriday,false
+230,D_COMPUTER,COMPUTER,RARE,RARE,E_ENERGY|E_METAL,dragon_computer,dragon_computer_baby|dragon_computer,false
+231,D_HALLOWEEN3,HALLOWEEN3,EPIC,EPIC,E_VOID|E_WIND|E_EARTH,dragon_halloween3,dragon_halloween3_baby|dragon_halloween3,false
+232,D_PILGRIM,PILGRIM,RARE,RARE,E_EARTH|E_LIGHT,dragon_pilgrim,dragon_pilgrim_baby|dragon_pilgrim,false
+233,D_MIDNIGHT,MIDNIGHT,EPIC,EPIC,E_METAL|E_VOID|E_WATER,dragon_midnight,dragon_midnight_baby|dragon_midnight,false
+234,D_ELYXIR,ELYXIR,EPIC,EPIC,E_WATER|E_PLANT|E_WIND,dragon_elyxir,dragon_elyxir_baby|dragon_elyxir,false
+235,D_GUARDIAN,GUARDIAN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_LIGHT,dragon_guardian,dragon_guardian_baby|dragon_guardian,false
+236,D_MYSTIC,MYSTIC,RARE,EPIC,E_FIRE|E_WIND|E_EARTH,dragon_mystic_boss,dragon_mystic_baby|dragon_mystic|dragon_mystic_boss,false
+237,D_QUADWING,QUADWING,EPIC,EPIC,E_VOID|E_SHADOW|E_WIND,dragon_quadwing,dragon_quadwing_baby|dragon_quadwing,false
+238,D_TIKI,TIKI,EPIC,EPIC,E_LIGHT|E_ENERGY|E_FIRE,dragon_tiki,dragon_tiki_baby|dragon_tiki,false
+239,D_GIFT,GIFT,RARE,EPIC,E_WIND|E_WATER|E_FIRE,dragon_gingerbread,dragon_gingerbread_baby|dragon_gingerbread,false
+240,D_ELF,ELF,RARE,RARE,E_PLANT|E_LIGHT,dragon_elf,dragon_elf_baby|dragon_elf,false
+241,D_CHRISTMAS,CHRISTMAS,EPIC,EPIC,E_PLANT|E_LIGHT|E_ENERGY,dragon_christmastree,dragon_christmastree_baby|dragon_christmastree,false
+242,D_SANTA_CLAUS,SANTA CLAUS,EPIC,EPIC,E_FIRE|E_PLANT|E_LIGHT,dragon_santaclaus,dragon_santaclaus_baby|dragon_santaclaus,false
+243,D_HOLLY,HOLLY,EPIC,EPIC,E_PLANT|E_WIND|E_LIGHT,dragon_holly,dragon_holly_baby|dragon_holly,false
+244,D_NEWYEAR,NEWYEAR,EPIC,EPIC,E_SHADOW|E_LIGHT|E_ENERGY,dragon_newyear,dragon_newyear_baby|dragon_newyear,false
+245,D_ANNIVERSARY,ANNIVERSARY,EPIC,EPIC,E_ENERGY|E_WATER|E_PLANT,dragon_anniversary,dragon_anniversary_baby|dragon_anniversary,false
+246,D_ASSASIN,ASSASIN,UNCOMMON,RARE,E_VOID|E_METAL,dragon_assasin,dragon_assasin_baby|dragon_assasin,false
+247,D_CARNIVAL_1,CARNIVAL 1,EPIC,EPIC,E_FIRE|E_ENERGY|E_LIGHT,dragon_carnival,dragon_carnival_baby|dragon_carnival,false
+248,D_CHINESENEWYEAR,CHINESENEWYEAR,EPIC,EPIC,E_LIGHT|E_SHADOW|E_WIND,dragon_chinesenewyear,dragon_chinesenewyear_baby|dragon_chinesenewyear,false
+249,D_GOBLIN,GOBLIN,COMMON,RARE,E_EARTH|E_WIND,dragon_goblin,dragon_goblin_baby|dragon_goblin,false
+250,D_INDIGENOUS,INDIGENOUS,COMMON,RARE,E_FIRE|E_PLANT,dragon_indigenous,dragon_indigenous_baby|dragon_indigenous,false
+251,D_JINN,JINN,RARE,RARE,E_WATER|E_LIGHT,dragon_jinn,dragon_jinn_baby|dragon_jinn,false
+252,D_ROBOCHICKEN,ROBOCHICKEN,EPIC,EPIC,E_METAL|E_VOID|E_ENERGY,dragon_robotchicken,dragon_robotchicken_baby|dragon_robotchicken,false
+253,D_SAMURAI,SAMURAI,UNCOMMON,RARE,E_ENERGY|E_WIND,dragon_samurai,dragon_samurai_baby|dragon_samurai,false
+254,D_VALENTINE,VALENTINE,EPIC,EPIC,E_ENERGY|E_FIRE|E_WATER,dragon_cupido,dragon_cupido_baby|dragon_cupido,false
+255,D_WOMENSDAY,WOMENSDAY,EPIC,EPIC,E_LIGHT|E_FIRE|E_WATER,dragon_womensday,dragon_womensday_baby|dragon_womensday,false
+256,D_CHINESE_2,CHINESE 2,EPIC,EPIC,E_LIGHT|E_SHADOW|E_FIRE,dragon_chinesenewyear2,dragon_chinesenewyear2_baby|dragon_chinesenewyear2,false
+257,D_ASTRONAUT,ASTRONAUT,RARE,RARE,E_VOID|E_LIGHT,dragon_astronaut,dragon_astronaut_baby|dragon_astronaut,false
+258,D_JOKER,JOKER,EPIC,EPIC,E_FIRE|E_SHADOW|E_PLANT,dragon_joker,dragon_joker_baby|dragon_joker,false
+259,D_PANDA,PANDA,EPIC,EPIC,E_EARTH|E_PLANT|E_WATER,dragon_panda,dragon_panda_baby|dragon_panda,false
+260,D_EASTER_CHICKEN,EASTER CHICKEN,RARE,RARE,E_PLANT|E_WIND,dragon_easterchicken,dragon_easterchicken_baby|dragon_easterchicken,false
+261,D_SHAMROCK,SHAMROCK,EPIC,EPIC,E_METAL|E_FIRE|E_EARTH,dragon_shamrock,dragon_shamrock_baby|dragon_shamrock,false
+262,D_EGGENSTEIN,EGGENSTEIN,EPIC,EPIC,E_ENERGY|E_PLANT|E_WATER,dragon_easter2016,dragon_easter2016_baby|dragon_easter2016,false
+263,D_ECHO,ECHO,EPIC,EPIC,E_SHADOW|E_FIRE|E_WIND,dragon_echo,dragon_echo_baby|dragon_echo,false
+264,D_MOTHERSDAY_2,MOTHERSDAY 2,EPIC,EPIC,E_FIRE|E_PLANT|E_ENERGY,dragon_mothersday2,dragon_mothersday2_baby|dragon_mothersday2,false
+265,D_EARTHDAY_2,EARTHDAY 2,EPIC,EPIC,E_EARTH|E_PLANT|E_WATER,dragon_earthday2,dragon_earthday2_baby|dragon_earthday2,false
+266,D_DICE,DICE,EPIC,RARE,E_WIND|E_LIGHT,dragon_dice,dragon_dice_baby|dragon_dice,false
+267,D_CASTLE,CASTLE,EPIC,EPIC,E_EARTH|E_SHADOW|E_METAL,dragon_castletower,dragon_castletower_baby|dragon_castletower,false
+268,D_GREATGREEN,GREATGREEN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_PLANT,dragon_greatgreen,dragon_greatgreen_baby|dragon_greatgreen,false
+269,D_BLESSED,BLESSED,RARE,RARE,E_METAL|E_SHADOW,dragon_blessed,dragon_blessed_baby|dragon_blessed,false
+270,D_PLAYERONE,PLAYERONE,EPIC,EPIC,E_VOID|E_ENERGY|E_METAL,dragon_playerone,dragon_playerone_baby|dragon_playerone,false
+271,D_SENTINEL,SENTINEL,EPIC,EPIC,E_SHADOW|E_METAL|E_ENERGY,dragon_sentinel,dragon_sentinel_baby|dragon_sentinel,false
+272,D_UNICORN,UNICORN,EPIC,EPIC,E_LIGHT|E_WIND|E_EARTH,dragon_unicorn,dragon_unicorn_baby|dragon_unicorn,false
+273,D_SNOWLEOPARD,SNOWLEOPARD,EPIC,EPIC,E_ENERGY|E_WIND|E_EARTH,dragon_snowleopard,dragon_snowleopard_baby|dragon_snowleopard,false
+274,D_POLARBEAR,POLARBEAR,EPIC,EPIC,E_WIND|E_WATER|E_VOID,dragon_polarbear,dragon_polarbear_baby|dragon_polarbear,false
+275,D_GORILLA,GORILLA,EPIC,EPIC,E_PLANT|E_SHADOW|E_EARTH,dragon_gorilla,dragon_gorilla_baby|dragon_gorilla,false
+276,D_TURTLE,TURTLE,EPIC,EPIC,E_WATER|E_PLANT|E_ENERGY,dragon_seaturtle,dragon_seaturtle_baby|dragon_seaturtle,false
+277,D_ELEPHANT,ELEPHANT,EPIC,EPIC,E_EARTH|E_FIRE|E_WIND,dragon_elephant,dragon_elephant_baby|dragon_elephant,false
+278,D_RHINO,RHINO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_METAL,dragon_rhino,dragon_rhino_baby|dragon_rhino,false
+279,D_ORCA,ORCA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_VOID,dragon_whale,dragon_whale_baby|dragon_whale,false
+280,D_INDEPENDENCE_02,INDEPENDENCE 02,EPIC,EPIC,E_LIGHT|E_WIND|E_METAL,dragon_memorial,dragon_memorial_baby|dragon_memorial,false
+281,D_CHINESE_BOAT_02,CHINESE BOAT 02,EPIC,EPIC,E_METAL|E_FIRE|E_SHADOW,dragon_chineseboat2,dragon_chineseboat2_baby|dragon_chineseboat2,false
+282,D_FOOTBALL_02,FOOTBALL 02,EPIC,EPIC,E_EARTH|E_PLANT|E_FIRE,dragon_uefa2016,dragon_uefa2016_baby|dragon_uefa2016,false
+283,D_SPRING,SPRING,EPIC,EPIC,E_PLANT|E_WIND|E_FIRE,dragon_spring,dragon_spring_baby|dragon_spring,false
+284,D_CARDBOARD,CARDBOARD,EPIC,EPIC,E_WIND|E_WATER|E_METAL,dragon_cardboard,dragon_cardboard_baby|dragon_cardboard,false
+285,D_ANT,ANT,EPIC,EPIC,E_EARTH|E_ENERGY|E_VOID,dragon_ant,dragon_ant_baby|dragon_ant,false
+286,D_ORIGAMI,ORIGAMI,RARE,RARE,E_WIND|E_ENERGY,dragon_origami,dragon_origami_baby|dragon_origami,false
+287,D_DISCO,DISCO,EPIC,EPIC,E_VOID|E_ENERGY|E_FIRE,dragon_discoball,dragon_discoball_baby|dragon_discoball,false
+288,D_OWL,OWL,RARE,EPIC,E_WIND|E_EARTH|E_FIRE,dragon_owl,dragon_owl_baby|dragon_owl,false
+289,D_ICEBERG,ICEBERG,EPIC,EPIC,E_SHADOW|E_LIGHT|E_WIND,dragon_iceberg_boss,dragon_iceberg_baby|dragon_iceberg|dragon_iceberg_boss,false
+290,D_FIREFLY,FIREFLY,EPIC,EPIC,E_FIRE|E_LIGHT|E_VOID,dragon_firefly,dragon_firefly_baby|dragon_firefly,false
+291,D_DARKMECH,DARKMECH,EPIC,EPIC,E_VOID|E_METAL|E_EARTH,dragon_darkmecha_boss,dragon_darkmecha_baby|dragon_darkmecha|dragon_darkmecha_boss,false
+292,D_FOSIL,FOSIL,EPIC,EPIC,E_EARTH|E_LIGHT|E_WATER,dragon_fossil,dragon_fossil_baby|dragon_fossil,false
+293,D_BEETLE,BEETLE,EPIC,EPIC,E_FIRE|E_PLANT|E_METAL,dragon_beetle_boss,dragon_beetle_baby|dragon_beetle|dragon_beetle_boss,false
+294,D_COCKATOO,COCKATOO,EPIC,EPIC,E_PLANT|E_WIND|E_ENERGY,dragon_cockatoo,dragon_cockatoo_baby|dragon_cockatoo,false
+295,D_PLUSHIE,PLUSHIE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_FIRE,dragon_plushie,dragon_plushie_baby|dragon_plushie,false
+296,D_DEVIL,DEVIL,EPIC,EPIC,E_VOID|E_FIRE|E_EARTH,dragon_devil,dragon_devil_baby|dragon_devil,false
+297,D_DARKVINES,DARKVINES,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_ENERGY,dragon_darkvines,dragon_darkvines_baby|dragon_darkvines,false
+298,D_HYPOESTES,HYPOESTES,EPIC,EPIC,E_FIRE|E_VOID|E_EARTH,dragon_hypoestes,dragon_hypoestes_baby|dragon_hypoestes,false
+299,D_AMBER,AMBER,RARE,RARE,E_PLANT|E_FIRE,dragon_amber,dragon_amber_baby|dragon_amber,false
+300,D_CHIPPED,CHIPPED,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_EARTH,dragon_clippedstone,dragon_clippedstone_baby|dragon_clippedstone,false
+301,D_SUPERHERO,SUPERHERO,EPIC,EPIC,E_ENERGY|E_EARTH|E_WATER,dragon_superhero,dragon_superhero_baby|dragon_superhero,false
+302,D_ARMADILLO,ARMADILLO,EPIC,EPIC,E_EARTH|E_PLANT|E_FIRE,dragon_armadillo,dragon_armadillo_baby|dragon_armadillo,false
+303,D_WOLF,WOLF,EPIC,EPIC,E_SHADOW|E_PLANT|E_VOID,dragon_wolf,dragon_wolf_baby|dragon_wolf,false
+304,D_SUMO,SUMO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_LIGHT,dragon_sumo,dragon_sumo_baby|dragon_sumo,false
+305,D_SANDCASTLE,SANDCASTLE,RARE,RARE,E_LIGHT|E_FIRE,dragon_sandcastle,dragon_sandcastle_baby|dragon_sandcastle,false
+306,D_SWIMMER,SWIMMER,EPIC,EPIC,E_WATER|E_WIND|E_SHADOW,dragon_swimmer,dragon_swimmer_baby|dragon_swimmer,false
+307,D_WINNER,WINNER,EPIC,EPIC,E_LIGHT|E_PLANT|E_METAL,dragon_winner,dragon_winner_baby|dragon_winner,false
+308,D_TORCH,TORCH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_FIRE,dragon_olympicflame,dragon_olympicflame_baby|dragon_olympicflame,false
+309,D_OLYMPIC,OLYMPIC,EPIC,EPIC,E_METAL|E_ENERGY|E_WIND,dragon_boxer,dragon_boxer_baby|dragon_boxer,false
+310,D_LADYBUG,LADYBUG,RARE,RARE,E_PLANT|E_FIRE,dragon_ladybug,dragon_ladybug_baby|dragon_ladybug,false
+311,D_CHAMELEON,CHAMELEON,EPIC,EPIC,E_WATER|E_PLANT|E_LIGHT,dragon_chameleon,dragon_chameleon_baby|dragon_chameleon,false
+312,D_RAM,RAM,EPIC,EPIC,E_SHADOW|E_METAL|E_EARTH,dragon_ram,dragon_ram_baby|dragon_ram,false
+313,D_PERFUME,PERFUME,EPIC,EPIC,E_ENERGY|E_WATER|E_FIRE,dragon_perfume,dragon_perfume_baby|dragon_perfume,false
+314,D_POISON,POISON,RARE,RARE,E_PLANT|E_SHADOW,dragon_poison,dragon_poison_baby|dragon_poison,false
+315,D_PINEAPPLE,PINEAPPLE,EPIC,EPIC,E_WATER|E_PLANT|E_EARTH,dragon_pineapple,dragon_pineapple_baby|dragon_pineapple,false
+316,D_YARN,YARN,EPIC,EPIC,E_WIND|E_ENERGY|E_LIGHT,dragon_yarn,dragon_yarn_baby|dragon_yarn,false
+317,D_DEEPSEA,DEEPSEA,EPIC,EPIC,E_WATER|E_VOID|E_SHADOW,dragon_deepsea,dragon_deepsea_baby|dragon_deepsea,false
+318,D_ESKIMO,ESKIMO,EPIC,EPIC,E_WIND|E_WATER|E_METAL,dragon_eskimo,dragon_eskimo_baby|dragon_eskimo,false
+319,D_SUNSHINE,SUNSHINE,EPIC,EPIC,E_METAL|E_ENERGY|E_LIGHT,dragon_sunshine,dragon_sunshine_baby|dragon_sunshine,false
+320,D_BRUNHILDA,BRUNHILDA,EPIC,EPIC,E_FIRE|E_VOID|E_ENERGY,dragon_brunhilda,dragon_brunhilda_baby|dragon_brunhilda,false
+321,D_PINATA,PINATA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WIND,dragon_pinata,dragon_pinata_baby|dragon_pinata,false
+322,D_CHEERLEADER,CHEERLEADER,EPIC,EPIC,E_ENERGY|E_FIRE|E_WIND,dragon_cheerleader,dragon_cheerleader_baby|dragon_cheerleader,false
+323,D_PENCIL,PENCIL,EPIC,EPIC,E_WIND|E_EARTH|E_PLANT,dragon_pencil,dragon_pencil_baby|dragon_pencil,false
+324,D_SCIENCE,SCIENCE,EPIC,EPIC,E_VOID|E_PLANT|E_ENERGY,dragon_science,dragon_science_baby|dragon_science,false
+325,D_SCHOOLBUS,SCHOOLBUS,EPIC,EPIC,E_LIGHT|E_EARTH|E_METAL,dragon_schoolbus,dragon_schoolbus_baby|dragon_schoolbus,false
+326,D_HAG,HAG,EPIC,EPIC,E_PLANT|E_VOID|E_WIND,dragon_hag,dragon_hag_baby|dragon_hag,false
+327,D_COAL,COAL,EPIC,EPIC,E_FIRE|E_SHADOW|E_ENERGY,dragon_coal,dragon_coal_baby|dragon_coal,false
+328,D_SCARECROW,SCARECROW,EPIC,EPIC,E_EARTH|E_PLANT|E_VOID,dragon_scarecrow,dragon_scarecrow_baby|dragon_scarecrow,false
+329,D_DROWNED,DROWNED,EPIC,EPIC,E_WATER|E_VOID|E_PLANT,dragon_drownedbride,dragon_drownedbride_baby|dragon_drownedbride,false
+330,D_ANTLER,ANTLER,RARE,RARE,E_EARTH|E_LIGHT,dragon_antler,dragon_antler_baby|dragon_antler,false
+331,D_2NDANNIVERSARY,2NDANNIVERSARY,EPIC,EPIC,E_FIRE|E_WATER|E_LIGHT,dragon_anniversary2,dragon_anniversary2_baby|dragon_anniversary2,false
+332,D_OLD,OLD,EPIC,EPIC,E_EARTH|E_FIRE|E_VOID,dragon_old,dragon_old_baby|dragon_old,false
+333,D_NEWYEAR2,NEWYEAR2,EPIC,EPIC,E_ENERGY|E_METAL|E_VOID,dragon_newyear2,dragon_newyear2_baby|dragon_newyear2,false
+334,D_HAZMAT,HAZMAT,RARE,RARE,E_PLANT|E_SHADOW,dragon_hazmat,dragon_hazmat_baby|dragon_hazmat,false
+335,D_CHRISTMASANGEL,CHRISTMASANGEL,EPIC,EPIC,E_LIGHT|E_PLANT|E_EARTH,dragon_christmasangel,dragon_christmasangel_baby|dragon_christmasangel,false
+336,D_SNOWMAN,SNOWMAN,EPIC,EPIC,E_WIND|E_WATER|E_LIGHT,dragon_snowman,dragon_snowman_baby|dragon_snowman,false
+337,D_SHAGGY,SHAGGY,EPIC,EPIC,E_WIND|E_WATER|E_SHADOW,dragon_shaggy,dragon_shaggy_baby|dragon_shaggy,false
+338,D_ROLLERSKATE,ROLLERSKATE,RARE,EPIC,E_WATER|E_WIND|E_EARTH,dragon_rollerskate,dragon_rollerskate_baby|dragon_rollerskate,false
+339,D_KNIGHT,KNIGHT,UNCOMMON,RARE,E_METAL|E_ENERGY,dragon_knight,dragon_knight_baby|dragon_knight,false
+340,D_BURNING,BURNING,EPIC,EPIC,E_FIRE|E_VOID|E_SHADOW,dragon_burning_spirit,dragon_burning_spirit_baby|dragon_burning_spirit,false
+341,D_RUNESTONE,RUNESTONE,RARE,RARE,E_EARTH|E_FIRE,dragon_runestone,dragon_runestone_baby|dragon_runestone,false
+342,D_ORC,ORC,RARE,EPIC,E_EARTH|E_WIND|E_FIRE,dragon_orc_boss,dragon_orc_baby|dragon_orc|dragon_orc_boss,false
+343,D_MAGIC,MAGIC,EPIC,EPIC,E_VOID|E_WATER|E_ENERGY,dragon_magic,dragon_magic_baby|dragon_magic,false
+344,D_HAMBURGER,HAMBURGER,EPIC,EPIC,E_PLANT|E_ENERGY|E_FIRE,dragon_hamburger,dragon_hamburger_baby|dragon_hamburger,false
+345,D_VALENTINE02,VALENTINE02,EPIC,EPIC,E_WIND|E_LIGHT|E_FIRE,dragon_valentine2017,dragon_valentine2017_baby|dragon_valentine2017,false
+346,D_CHINESELANTERN,CHINESELANTERN,EPIC,EPIC,E_EARTH|E_WATER|E_PLANT,dragon_lantern2017,dragon_lantern2017_baby|dragon_lantern2017,false
+347,D_PRESENT,PRESENT,EPIC,EPIC,E_ENERGY|E_EARTH|E_LIGHT,dragon_present,dragon_present_baby|dragon_present,false
+348,D_STPATRICK,STPATRICK,EPIC,EPIC,E_PLANT|E_LIGHT|E_EARTH,dragon_stpatrick,dragon_stpatrick_baby|dragon_stpatrick,false
+349,D_ARMORY,ARMORY,EPIC,EPIC,E_METAL|E_EARTH|E_FIRE,dragon_armory,dragon_armory_baby|dragon_armory,false
+350,D_KINGDOM,KINGDOM,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_LIGHT,dragon_kingdom_boss,dragon_kingdom_baby|dragon_kingdom|dragon_kingdom_boss,false
+351,D_PLUMBING,PLUMBING,EPIC,EPIC,E_WATER|E_EARTH|E_ENERGY,dragon_plumbing,dragon_plumbing_baby|dragon_plumbing,false
+352,D_GARGOYLE,GARGOYLE,RARE,RARE,E_METAL|E_SHADOW,dragon_gargoyle,dragon_gargoyle_baby|dragon_gargoyle,false
+353,D_APOCALYPSE,APOCALYPSE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_SHADOW,dragon_apocalypse_angel,dragon_apocalypse_angel_baby|dragon_apocalypse_angel,false
+354,D_CAT,CAT,EPIC,EPIC,E_WIND|E_VOID|E_PLANT,dragon_cat,dragon_cat_baby|dragon_cat,false
+355,D_WOMENSDAY02,WOMENSDAY02,EPIC,EPIC,E_FIRE|E_ENERGY|E_WIND,dragon_womensday2017,dragon_womensday2017_baby|dragon_womensday2017,false
+356,D_FOOLSDAY,FOOLSDAY,EPIC,EPIC,E_WATER|E_ENERGY|E_FIRE,dragon_foolday,dragon_foolday_baby|dragon_foolday,false
+357,D_CHERRY02,CHERRY02,EPIC,EPIC,E_FIRE|E_LIGHT|E_PLANT,dragon_cherry_blossom,dragon_cherry_blossom_baby|dragon_cherry_blossom,false
+358,D_EASTER_COCO,EASTER COCO,EPIC,EPIC,E_EARTH|E_SHADOW|E_LIGHT,dragon_easterrabbit,dragon_easterrabbit_baby|dragon_easterrabbit,false
+359,D_EASTER_LAMB,EASTER LAMB,EPIC,EPIC,E_FIRE|E_PLANT|E_WATER,dragon_sheep,dragon_sheep_baby|dragon_sheep,false
+360,D_EASTER_EGG,EASTER EGG,EPIC,EPIC,E_WIND|E_PLANT|E_EARTH,dragon_easteregg,dragon_easteregg_baby|dragon_easteregg,false
+361,D_BLACKHOLE,BLACKHOLE,EPIC,EPIC,E_FIRE|E_ENERGY|E_SHADOW,dragon_black_hole,dragon_black_hole_baby|dragon_black_hole,false
+362,D_MOSAIC,MOSAIC,EPIC,EPIC,E_WIND|E_ENERGY|E_EARTH,dragon_mosaic,dragon_mosaic_baby|dragon_mosaic,false
+363,D_GRASS,GRASS,EPIC,EPIC,E_WATER|E_EARTH|E_LIGHT,dragon_grass,dragon_grass_baby|dragon_grass,false
+364,D_DUMMY,DUMMY,EPIC,EPIC,E_ENERGY|E_LIGHT|E_FIRE,dragon_crashdummy,dragon_crashdummy_baby|dragon_crashdummy,false
+365,D_PATRON,PATRON,EPIC,EPIC,E_EARTH|E_VOID|E_WIND,dragon_simple,dragon_simple_baby|dragon_simple,false
+366,D_BRICKS,BRICKS,EPIC,EPIC,E_LIGHT|E_WATER|E_PLANT,dragon_bricks,dragon_bricks_baby|dragon_bricks,false
+367,D_XYLOPHONE,XYLOPHONE,EPIC,EPIC,E_EARTH|E_METAL|E_FIRE,dragon_xylophone,dragon_xylophone_baby|dragon_xylophone,false
+368,D_SAC,SAC,RARE,RARE,E_WIND|E_SHADOW,dragon_sac,dragon_sac_baby|dragon_sac,false
+369,D_MEMORIAL,MEMORIAL,EPIC,EPIC,E_WATER|E_LIGHT|E_WIND,dragon_memorialday2017,dragon_memorialday2017_baby|dragon_memorialday2017,false
+370,D_PATRIOT,PATRIOT,EPIC,EPIC,E_WIND|E_ENERGY|E_METAL,dragon_independenceday2017,dragon_independenceday2017_baby|dragon_independenceday2017,false
+371,D_GREATWHITE,GREATWHITE,EPIC,EPIC,E_LIGHT|E_SHADOW|E_ENERGY,dragon_independenceday2,dragon_independenceday2_baby|dragon_independenceday2,false
+372,D_BOAT,BOAT,EPIC,EPIC,E_WATER|E_FIRE|E_LIGHT,dragon_boatfestival2017,dragon_boatfestival2017_baby|dragon_boatfestival2017,false
+373,D_BLACKBERRY,BLACKBERRY,EPIC,EPIC,E_SHADOW|E_PLANT|E_ENERGY,dragon_blackberry,dragon_blackberry_baby|dragon_blackberry,false
+374,D_MARTIAN,MARTIAN,EPIC,EPIC,E_LIGHT|E_VOID|E_FIRE,dragon_simple2,dragon_simple2_baby|dragon_simple2,false
+375,D_TREASUE,TREASUE,RARE,RARE,E_VOID|E_EARTH,dragon_treasure,dragon_treasure_baby|dragon_treasure,false
+376,D_CAPTAIN,CAPTAIN,EPIC,EPIC,E_ENERGY|E_VOID|E_METAL,dragon_captain,dragon_captain_baby|dragon_captain,false
+377,D_CHIEF,CHIEF,UNCOMMON,RARE,E_VOID|E_ENERGY,dragon_chief,dragon_chief_baby|dragon_chief,false
+378,D_EARTHQUAKE,EARTHQUAKE,RARE,EPIC,E_EARTH|E_WATER|E_FIRE,dragon_earthquake,dragon_earthquake_baby|dragon_earthquake,false
+379,D_FIREHAWK,FIREHAWK,EPIC,EPIC,E_FIRE|E_SHADOW|E_LIGHT,dragon_armored_firehawk,dragon_armored_firehawk_baby|dragon_armored_firehawk,false
+380,D_SUMMERTIME,SUMMERTIME,EPIC,EPIC,E_LIGHT|E_WATER|E_EARTH,dragon_summer,dragon_summer_baby|dragon_summer,false
+381,D_CIRCUS,CIRCUS,EPIC,EPIC,E_WIND|E_PLANT|E_FIRE,dragon_circustent,dragon_circustent_baby|dragon_circustent,false
+382,D_VULTURE,VULTURE,EPIC,EPIC,E_ENERGY|E_SHADOW|E_WIND,dragon_dragon7,dragon_dragon7_baby|dragon_dragon7,false
+383,D_POSEIDON,POSEIDON,DIVINE,SUPREME,E_DIVINE|E_WATER|E_VOID,dragon_poseidon,dragon_poseidon_baby|dragon_poseidon,false
+384,D_HEPHAESTUS,HEPHAESTUS,DIVINE,SUPREME,E_DIVINE|E_FIRE|E_METAL,dragon_hephaestus,dragon_hephaestus_baby|dragon_hephaestus,false
+385,D_ZEUS,ZEUS,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_ENERGY,dragon_zeus,dragon_zeus_baby|dragon_zeus,false
+386,D_HYPNOS,HYPNOS,DIVINE,SUPREME,E_DIVINE|E_VOID|E_WIND,dragon_hypnos,dragon_hypnos_baby|dragon_hypnos,false
+387,D_APHRODITE,APHRODITE,DIVINE,SUPREME,E_DIVINE|E_FIRE|E_WATER,dragon_aphrodite,dragon_aphrodite_baby|dragon_aphrodite,false
+388,D_ARES,ARES,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_METAL,dragon_ares,dragon_ares_baby|dragon_ares,false
+389,D_HERMES,HERMES,DIVINE,SUPREME,E_DIVINE|E_WIND|E_PLANT,dragon_hermes,dragon_hermes_baby|dragon_hermes,false
+390,D_HADES,HADES,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_EARTH,dragon_hades,dragon_hades_baby|dragon_hades,false
+391,D_APOLLO,APOLLO,DIVINE,SUPREME,E_DIVINE|E_FIRE|E_PLANT,dragon_apollon,dragon_apollon_baby|dragon_apollon,false
+392,D_DYONYSOS,DYONYSOS,EPIC,EPIC,E_PLANT|E_FIRE|E_VOID,dragon_dyonusos,dragon_dyonusos_baby|dragon_dyonusos,false
+393,D_PERSEPHONE,PERSEPHONE,EPIC,EPIC,E_WIND|E_PLANT|E_WATER,dragon_persehpone,dragon_persehpone_baby|dragon_persehpone,false
+394,D_ARCHDEVIL,ARCHDEVIL,EPIC,EPIC,E_SHADOW|E_VOID|E_FIRE,dragon_devil2,dragon_devil2_baby|dragon_devil2,false
+395,D_COFFEE,COFFEE,RARE,RARE,E_SHADOW|E_PLANT,dragon_coffee,dragon_coffee_baby|dragon_coffee,false
+396,D_LEVIATHAN,LEVIATHAN,RARE,EPIC,E_WATER|E_WIND|E_FIRE,dragon_leviathan,dragon_leviathan_baby|dragon_leviathan,false
+397,D_SCORCHED,SCORCHED,EPIC,EPIC,E_LIGHT|E_FIRE|E_SHADOW,dragon_simple3,dragon_simple3_baby|dragon_simple3,false
+398,D_QUICKSILVER,QUICKSILVER,RARE,RARE,E_WATER|E_METAL,dragon_quicksilver,dragon_quicksilver_baby|dragon_quicksilver,false
+399,D_GRYPHON,GRYPHON,EPIC,EPIC,E_WIND|E_VOID|E_EARTH,dragon_gryphon,dragon_gryphon_baby|dragon_gryphon,false
+400,D_SCARAB,SCARAB,EPIC,EPIC,E_VOID|E_ENERGY|E_EARTH,dragon_scarab,dragon_scarab_baby|dragon_scarab,false
+401,D_SUNSET,SUNSET,EPIC,EPIC,E_VOID|E_FIRE|E_PLANT,dragon_sunset,dragon_sunset_baby|dragon_sunset,false
+402,D_MEDUSA,MEDUSA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_PLANT,dragon_medusa,dragon_medusa_baby|dragon_medusa,false
+403,D_EYEBALL,EYEBALL,EPIC,EPIC,E_VOID|E_SHADOW|E_WATER,dragon_eyeball,dragon_eyeball_baby|dragon_eyeball,false
+404,D_LAMUERTE,LAMUERTE,EPIC,EPIC,E_EARTH|E_VOID|E_PLANT,dragon_la_muerte,dragon_la_muerte_baby|dragon_la_muerte,false
+405,D_BONES,BONES,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_VOID,dragon_bone,dragon_bone_baby|dragon_bone,false
+406,D_SNOWQUEEN,SNOWQUEEN,EPIC,EPIC,E_LIGHT|E_WATER|E_SHADOW,dragon_snow_queen,dragon_snow_queen_baby|dragon_snow_queen,false
+407,D_BELL,BELL,EPIC,EPIC,E_PLANT|E_METAL|E_EARTH,dragon_bell,dragon_bell_baby|dragon_bell,false
+408,D_CANDYCANE,CANDYCANE,EPIC,EPIC,E_LIGHT|E_PLANT|E_FIRE,dragon_candy_cane,dragon_candy_cane_baby|dragon_candy_cane,false
+409,D_MARSHMALLOW,MARSHMALLOW,EPIC,EPIC,E_WATER|E_ENERGY|E_WIND,dragon_marshmallow,dragon_marshmallow_baby|dragon_marshmallow,false
+410,D_SPRITE,SPRITE,EPIC,EPIC,E_WATER|E_WIND|E_PLANT,dragon_sprite,dragon_sprite_baby|dragon_sprite,false
+411,D_CATERPILLAR,CATERPILLAR,EPIC,EPIC,E_EARTH|E_PLANT|E_ENERGY,dragon_caterpillar,dragon_caterpillar_baby|dragon_caterpillar,false
+412,D_AVOCADO,AVOCADO,RARE,RARE,E_PLANT|E_EARTH,dragon_avocado,dragon_avocado_baby|dragon_avocado,false
+413,D_VIBRANT,VIBRANT,EPIC,EPIC,E_FIRE|E_LIGHT|E_WATER,dragon_vibrant,dragon_vibrant_baby|dragon_vibrant,false
+414,D_SNOWFAIRY,SNOWFAIRY,EPIC,EPIC,E_VOID|E_WATER|E_WIND,dragon_snow_fairy,dragon_snow_fairy_baby|dragon_snow_fairy,false
+415,D_WINTEROLYMPICS,WINTEROLYMPICS,EPIC,EPIC,E_SHADOW|E_WATER|E_FIRE,dragon_winter_olympics,dragon_winter_olympics_baby|dragon_winter_olympics,false
+416,D_PROFESSOR,PROFESSOR,EPIC,EPIC,E_EARTH|E_VOID|E_LIGHT,dragon_professor,dragon_professor_baby|dragon_professor,false
+417,D_BANANA_GHOST,BANANA GHOST,EPIC,EPIC,E_SHADOW|E_ENERGY|E_WATER,dragon_banana_ghost,dragon_banana_ghost_baby|dragon_banana_ghost,false
+418,D_NEZHA,NEZHA,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_WATER,dragon_nezha,dragon_nezha_baby|dragon_nezha,false
+419,D_TAI_YI_ZHEN_REN,TAI YI ZHEN REN,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_SHADOW,dragon_taiyi_zhenren,dragon_taiyi_zhenren_baby|dragon_taiyi_zhenren,false
+420,D_ERLANG_SHEN,ERLANG SHEN,DIVINE,SUPREME,E_DIVINE|E_METAL|E_VOID,dragon_erlangshen,dragon_erlangshen_baby|dragon_erlangshen,false
+421,D_HOU_YI,HOU YI,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_METAL,dragon_houyi,dragon_houyi_baby|dragon_houyi,false
+422,D_CHANGE,CHANGE,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_ENERGY,dragon_change,dragon_change_baby|dragon_change,false
+423,D_PANGU,PANGU,DIVINE,SUPREME,E_DIVINE|E_PLANT|E_EARTH,dragon_pangu,dragon_pangu_baby|dragon_pangu,false
+424,D_RED_TALON,RED TALON,EPIC,EPIC,E_FIRE|E_WIND|E_LIGHT,dragon_redtalon,dragon_redtalon_baby|dragon_redtalon,false
+425,D_TERRACOTTA,TERRACOTTA,EPIC,EPIC,E_EARTH|E_WATER|E_METAL,dragon_terracotta,dragon_terracotta_baby|dragon_terracotta,false
+426,D_CHANGELING,CHANGELING,RARE,RARE,E_VOID|E_SHADOW,dragon_changeling,dragon_changeling_baby|dragon_changeling,false
+427,D_GLAMOROUS,GLAMOROUS,EPIC,EPIC,E_VOID|E_FIRE|E_WATER,dragon_glamorous,dragon_glamorous_baby|dragon_glamorous,false
+428,D_PANSY_FLOWER,PANSY FLOWER,EPIC,EPIC,E_PLANT|E_WIND|E_VOID,dragon_pansy,dragon_pansy_baby|dragon_pansy,false
+429,D_BAMBOO,BAMBOO,RARE,RARE,E_WATER|E_PLANT,dragon_bamboo,dragon_bamboo_baby|dragon_bamboo,false
+430,D_HOLOWING,HOLOWING,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WIND,dragon_holowing,dragon_holowing_baby|dragon_holowing,false
+431,D_GUANDI,GUANDI,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_FIRE,dragon_guandi,dragon_guandi_baby|dragon_guandi,false
+432,D_PETAL,PETAL,EPIC,EPIC,E_LIGHT|E_WIND|E_FIRE,dragon_simple_11,dragon_simple_11_baby|dragon_simple_11,false
+433,D_PRINCESS,PRINCESS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_ENERGY,dragon_princess,dragon_princess_baby|dragon_princess,false
+434,D_FLUTTERBY,FLUTTERBY,EPIC,EPIC,E_WIND|E_ENERGY|E_VOID,dragon_simple_10,dragon_simple_10_baby|dragon_simple_10,false
+435,D_WRAITH,WRAITH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_FIRE,dragon_wraith,dragon_wraith_baby|dragon_wraith,false
+436,D_BONSAI,BONSAI,EPIC,EPIC,E_PLANT|E_VOID|E_WATER,dragon_bonsai,dragon_bonsai_baby|dragon_bonsai,false
+437,D_PITAYA,PITAYA,EPIC,EPIC,E_LIGHT|E_PLANT|E_WIND,dragon_pitaya,dragon_pitaya_baby|dragon_pitaya,false
+438,D_IRONFIRE,IRONFIRE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_METAL,dragon_ironfire,dragon_ironfire_baby|dragon_ironfire,false
+439,D_YELLOWPINK,YELLOWPINK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_PLANT,dragon_yellowpink,dragon_yellowpink_baby|dragon_yellowpink,false
+440,D_AXOLOTL,AXOLOTL,EPIC,EPIC,E_WATER|E_EARTH|E_SHADOW,dragon_axolotl,dragon_axolotl_baby|dragon_axolotl,false
+441,D_ROCK,ROCK,EPIC,EPIC,E_EARTH|E_PLANT|E_LIGHT,dragon_rock,dragon_rock_baby|dragon_rock,false
+442,D_BUBBLE,BUBBLE,EPIC,EPIC,E_LIGHT|E_WATER|E_ENERGY,dragon_bubble,dragon_bubble_baby|dragon_bubble,false
+443,D_PUZZLE,PUZZLE,EPIC,EPIC,E_EARTH|E_WATER|E_VOID,dragon_puzzle,dragon_puzzle_baby|dragon_puzzle,false
+444,D_GODFATHER,GODFATHER,EPIC,EPIC,E_SHADOW|E_METAL|E_WIND,dragon_maffia,dragon_maffia_baby|dragon_maffia,false
+445,D_MASK,MASK,RARE,EPIC,E_WIND|E_FIRE|E_WATER,dragon_mask,dragon_mask_baby|dragon_mask,false
+446,D_REFEREE,REFEREE,RARE,RARE,E_EARTH|E_PLANT,dragon_referee,dragon_referee_baby|dragon_referee,false
+447,D_NEON,NEON,EPIC,EPIC,E_SHADOW|E_LIGHT|E_FIRE,dragon_neon,dragon_neon_baby|dragon_neon,false
+448,D_WARDEN,WARDEN,EPIC,EPIC,E_PLANT|E_FIRE|E_EARTH,dragon_campaign01,dragon_campaign01_baby|dragon_campaign01,false
+449,D_DOOMSDAY,DOOMSDAY,EPIC,EPIC,E_ENERGY|E_WIND|E_VOID,dragon_industria_alma,dragon_industria_alma_baby|dragon_industria_alma,false
+450,D_DARKFIRE,DARKFIRE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WIND,dragon_crystalvoid,dragon_crystalvoid_baby|dragon_crystalvoid,false
+451,D_EDGE,EDGE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_LIGHT,dragon_ice_and_light,dragon_ice_and_light_baby|dragon_ice_and_light,false
+452,D_CARAMEL_CRUST,CARAMEL CRUST,EPIC,EPIC,E_ENERGY|E_VOID|E_WATER,dragon_caramel_crust,dragon_caramel_crust_baby|dragon_caramel_crust,false
+453,D_BLUDGEON,BLUDGEON,EPIC,EPIC,E_FIRE|E_WIND|E_METAL,dragon_just,dragon_just_baby|dragon_just,false
+454,D_CHERUB,CHERUB,EPIC,EPIC,E_WATER|E_SHADOW|E_PLANT,dragon_eastern_griffin,dragon_eastern_griffin_baby|dragon_eastern_griffin,false
+455,D_FURNACE,FURNACE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_SHADOW,dragon_iron_furnace,dragon_iron_furnace_baby|dragon_iron_furnace,false
+456,D_FIRSETAR,FIRSETAR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_ENERGY,dragon_firestar,dragon_firestar_baby|dragon_firestar,false
+457,D_OSIRIS,OSIRIS,DIVINE,SUPREME,E_DIVINE|E_WATER|E_SHADOW,dragon_osiris,dragon_osiris_baby|dragon_osiris,false
+458,D_ISIS,ISIS,DIVINE,SUPREME,E_DIVINE|E_WIND|E_FIRE,dragon_isis,dragon_isis_baby|dragon_isis,false
+459,D_ANUBIS,ANUBIS,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_VOID,dragon_anubis,dragon_anubis_baby|dragon_anubis,false
+460,D_RA,RA,DIVINE,SUPREME,E_DIVINE|E_FIRE|E_LIGHT,dragon_ra,dragon_ra_baby|dragon_ra,false
+461,D_SETH,SETH,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_PLANT,dragon_seth,dragon_seth_baby|dragon_seth,false
+462,D_HATHOR,HATHOR,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_LIGHT,dragon_godess_hathor,dragon_godess_hathor_baby|dragon_godess_hathor,false
+463,D_APEP,APEP,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_WIND,dragon_apep,dragon_apep_baby|dragon_apep,false
+464,D_BUSH,BUSH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WATER,dragon_bush,dragon_bush_baby|dragon_bush,false
+465,D_EVIL_CROCODILE,EVIL CROCODILE,EPIC,EPIC,E_WATER|E_METAL|E_PLANT,dragon_evil_crocodile,dragon_evil_crocodile_baby|dragon_evil_crocodile,false
+466,D_EGYPTIAN_PET,EGYPTIAN PET,RARE,RARE,E_WIND|E_EARTH,dragon_egyptian_pet,dragon_egyptian_pet_baby|dragon_egyptian_pet,false
+467,D_CAT_STATUE,CAT STATUE,EPIC,EPIC,E_EARTH|E_SHADOW|E_ENERGY,dragon_cat_statue,dragon_cat_statue_baby|dragon_cat_statue,false
+468,D_CLEOPATRA,CLEOPATRA,EPIC,EPIC,E_FIRE|E_VOID|E_LIGHT,dragon_cleopatra,dragon_cleopatra_baby|dragon_cleopatra,false
+469,D_FENNEC,FENNEC,EPIC,EPIC,E_EARTH|E_ENERGY|E_WIND,dragon_fennec,dragon_fennec_baby|dragon_fennec,false
+470,D_HIPPO,HIPPO,EPIC,EPIC,E_WATER|E_VOID|E_LIGHT,dragon_hippo,dragon_hippo_baby|dragon_hippo,false
+471,D_GAZELLE,GAZELLE,RARE,RARE,E_WIND|E_LIGHT,dragon_gazelle,dragon_gazelle_baby|dragon_gazelle,false
+472,D_EXPLORER,EXPLORER,RARE,RARE,E_PLANT|E_WATER,dragon_explorer,dragon_explorer_baby|dragon_explorer,false
+473,D_LOKI,LOKI,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_PLANT,dragon_loki,dragon_loki_baby|dragon_loki,false
+474,D_FRIGG,FRIGG,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_WIND,dragon_frigg,dragon_frigg_baby|dragon_frigg,false
+475,D_THOR,THOR,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_METAL,dragon_thor,dragon_thor_baby|dragon_thor,false
+476,D_HEIMDALL,HEIMDALL,DIVINE,SUPREME,E_DIVINE|E_FIRE|E_VOID,dragon_heimdall,dragon_heimdall_baby|dragon_heimdall,false
+477,D_ODIN,ODIN,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_SHADOW,dragon_odin,dragon_odin_baby|dragon_odin,false
+478,D_FREYJA,FREYJA,DIVINE,SUPREME,E_DIVINE|E_PLANT|E_WIND,dragon_freya,dragon_freya_baby|dragon_freya,false
+479,D_HEL,HEL,EPIC,EPIC,E_VOID|E_SHADOW|E_WIND,dragon_hel,dragon_hel_baby|dragon_hel,false
+480,D_VALKYRE,VALKYRE,EPIC,EPIC,E_METAL|E_WIND|E_SHADOW,dragon_valkyre,dragon_valkyre_baby|dragon_valkyre,false
+481,D_NIDHOGG,NIDHOGG,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_PLANT,dragon_nidhoog,dragon_nidhoog_baby|dragon_nidhoog,false
+482,D_RATATOSKR,RATATOSKR,EPIC,EPIC,E_ENERGY|E_PLANT|E_EARTH,dragon_ratatoskr,dragon_ratatoskr_baby|dragon_ratatoskr,false
+483,D_EIKTHYNIR,EIKTHYNIR,EPIC,EPIC,E_SHADOW|E_PLANT|E_WATER,dragon_elkthyrnir,dragon_elkthyrnir_baby|dragon_elkthyrnir,false
+484,D_FENRIR,FENRIR,EPIC,EPIC,E_FIRE|E_EARTH|E_VOID,dragon_fenrir,dragon_fenrir_baby|dragon_fenrir,false
+485,D_JORMUNGADR,JORMUNGADR,EPIC,EPIC,E_METAL|E_PLANT|E_WATER,dragon_jormungadr,dragon_jormungadr_baby|dragon_jormungadr,false
+486,D_ELKHUND,ELKHUND,RARE,RARE,E_VOID|E_WATER,dragon_elkhound,dragon_elkhound_baby|dragon_elkhound,false
+487,D_NORDIC_PRINCESS,NORDIC PRINCESS,RARE,RARE,E_PLANT|E_METAL,dragon_nordic_princess,dragon_nordic_princess_baby|dragon_nordic_princess,false
+488,D_FALL,FALL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_PLANT,dragon_autumn_leafs,dragon_autumn_leafs_baby|dragon_autumn_leafs,false
+489,D_CHESTNUT,CHESTNUT,EPIC,EPIC,E_PLANT|E_EARTH|E_WATER,dragon_chestnut,dragon_chestnut_baby|dragon_chestnut,false
+490,D_RAINCOAT,RAINCOAT,EPIC,EPIC,E_WATER|E_EARTH|E_LIGHT,dragon_raincoat,dragon_raincoat_baby|dragon_raincoat,false
+491,D_FUTSANLOON,FUTSANLOON,EPIC,EPIC,E_EARTH|E_VOID|E_ENERGY,dragon_futsanloon,dragon_futsanloon_baby|dragon_futsanloon,false
+492,D_BLUEGOLD,BLUEGOLD,EPIC,EPIC,E_WIND|E_SHADOW|E_LIGHT,dragon_bluegold,dragon_bluegold_baby|dragon_bluegold,false
+493,D_HARVEST,HARVEST,EPIC,EPIC,E_PLANT|E_EARTH|E_LIGHT,dragon_harvest,dragon_harvest_baby|dragon_harvest,false
+494,D_DIESEL_PUNK,DIESEL PUNK,EPIC,EPIC,E_FIRE|E_METAL|E_ENERGY,dragon_diesel_punk,dragon_diesel_punk_baby|dragon_diesel_punk,false
+495,D_SCALE,SCALE,EPIC,EPIC,E_FIRE|E_SHADOW|E_EARTH,dragon_scale,dragon_scale_baby|dragon_scale,false
+496,D_COCONUT,COCONUT,EPIC,EPIC,E_EARTH|E_LIGHT|E_PLANT,dragon_coconutcarbon,dragon_coconutcarbon_baby|dragon_coconutcarbon,false
+497,D_LASER,LASER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_LIGHT,dragon_lazer,dragon_lazer_baby|dragon_lazer,false
+498,D_JUNKYARD,JUNKYARD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_SHADOW,dragon_junkyard_badass,dragon_junkyard_badass_baby|dragon_junkyard_badass,false
+499,D_MAJTESTIC,MAJTESTIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_METAL,dragon_majestic_female,dragon_majestic_female_baby|dragon_majestic_female,false
+500,D_HERBALIST,HERBALIST,EPIC,EPIC,E_PLANT|E_LIGHT|E_WATER,dragon_herbalist,dragon_herbalist_baby|dragon_herbalist,false
+501,D_RIBBON,RIBBON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_PLANT,dragon_ribbon,dragon_ribbon_baby|dragon_ribbon,false
+502,D_WMERCHANT,WMERCHANT,EPIC,EPIC,E_WIND|E_FIRE|E_WATER,dragon_merchant,dragon_merchant_baby|dragon_merchant,false
+503,D_AMAZON,AMAZON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_PLANT,dragon_amazon,dragon_amazon_baby|dragon_amazon,false
+504,D_LEGION,LEGION,EPIC,EPIC,E_METAL|E_FIRE|E_ENERGY,dragon_legionary,dragon_legionary_baby|dragon_legionary,false
+505,D_SKULLY,SKULLY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_SHADOW,dragon_skully,dragon_skully_baby|dragon_skully,false
+506,D_SANDSHADE,SANDSHADE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_FIRE,dragon_sandshade,dragon_sandshade_baby|dragon_sandshade,false
+507,D_ICICLE,ICICLE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_LIGHT,dragon_icicle,dragon_icicle_baby|dragon_icicle,false
+508,D_DARK_ICE,DARK ICE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_METAL,dragon_dark_ice,dragon_dark_ice_baby|dragon_dark_ice,false
+509,D_MULLED_WINE,MULLED WINE,EPIC,EPIC,E_FIRE|E_WATER|E_PLANT,dragon_cinnamon,dragon_cinnamon_baby|dragon_cinnamon,false
+510,D_SNOW_GLOBE,SNOW GLOBE,EPIC,EPIC,E_WIND|E_LIGHT|E_PLANT,dragon_snow_globe,dragon_snow_globe_baby|dragon_snow_globe,false
+511,D_VIOLIN,VIOLIN,EPIC,EPIC,E_ENERGY|E_WIND|E_METAL,dragon_dark_violin,dragon_dark_violin_baby|dragon_dark_violin,false
+512,D_SNOWFLAKE,SNOWFLAKE,EPIC,EPIC,E_WATER|E_LIGHT|E_EARTH,dragon_snowflake,dragon_snowflake_baby|dragon_snowflake,false
+513,D_FROZEN_LIGHT,FROZEN LIGHT,EPIC,EPIC,E_VOID|E_ENERGY|E_METAL,dragon_frozen_light,dragon_frozen_light_baby|dragon_frozen_light,false
+514,D_SUCCUBE,SUCCUBE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_SHADOW,dragon_succube_boss,dragon_succube_baby|dragon_succube|dragon_succube_boss,false
+515,D_ARIES,ARIES,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_WIND,dragon_aries,dragon_aries_baby|dragon_aries,false
+516,D_PINECONE,PINECONE,RARE,RARE,E_PLANT|E_METAL,dragon_pine_cone,dragon_pine_cone_baby|dragon_pine_cone,false
+517,D_SNOWFEATHER,SNOWFEATHER,EPIC,EPIC,E_WIND|E_VOID|E_LIGHT,dragon_snow_feather,dragon_snow_feather_baby|dragon_snow_feather,false
+518,D_4THANNIVERSARY,4THANNIVERSARY,EPIC,EPIC,E_FIRE|E_WATER|E_LIGHT,dragon_anniversary_2018,dragon_anniversary_2018_baby|dragon_anniversary_2018,false
+519,D_GREENSNAKE,GREENSNAKE,EPIC,EPIC,E_METAL|E_PLANT|E_WIND,dragon_green_snake,dragon_green_snake_baby|dragon_green_snake,false
+520,D_PIGGY,PIGGY,EPIC,EPIC,E_FIRE|E_METAL|E_LIGHT,dragon_piggy,dragon_piggy_baby|dragon_piggy,false
+521,D_CAVE,CAVE,RARE,EPIC,E_METAL|E_SHADOW|E_WIND,dragon_cave,dragon_cave_baby|dragon_cave,false
+522,D_HARPY,HARPY,EPIC,EPIC,E_FIRE|E_WIND|E_EARTH,dragon_harpy,dragon_harpy_baby|dragon_harpy,false
+523,D_LIME,LIME,EPIC,EPIC,E_PLANT|E_WATER|E_ENERGY,dragon_lime,dragon_lime_baby|dragon_lime,false
+524,D_BEGONIA,BEGONIA,EPIC,EPIC,E_EARTH|E_PLANT|E_ENERGY,dragon_begonia,dragon_begonia_baby|dragon_begonia,false
+525,D_SILVER,SILVER,EPIC,EPIC,E_METAL|E_LIGHT|E_FIRE,dragon_silver,dragon_silver_baby|dragon_silver,false
+526,D_COPPER,COPPER,UNCOMMON,RARE,E_WATER|E_FIRE,dragon_copper,dragon_copper_baby|dragon_copper,false
+527,D_TAURUS,TAURUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_FIRE,dragon_zodiac_taurus,dragon_zodiac_taurus_baby|dragon_zodiac_taurus,false
+528,D_LOVEPOTION,LOVEPOTION,EPIC,EPIC,E_FIRE|E_WATER|E_ENERGY,dragon_love_potion,dragon_love_potion_baby|dragon_love_potion,false
+529,D_SEAWEED,SEAWEED,EPIC,EPIC,E_SHADOW|E_PLANT|E_WATER,dragon_seaweed,dragon_seaweed_baby|dragon_seaweed,false
+530,D_CHERRY,CHERRY,EPIC,EPIC,E_WIND|E_SHADOW|E_PLANT,dragon_cherry,dragon_cherry_baby|dragon_cherry,false
+531,D_COSTUME,COSTUME,EPIC,EPIC,E_METAL|E_VOID|E_WIND,dragon_costume,dragon_costume_baby|dragon_costume,false
+532,D_LAVENDER,LAVENDER,RARE,RARE,E_PLANT|E_VOID,dragon_lavender,dragon_lavender_baby|dragon_lavender,false
+533,D_TURQUOISE,TURQUOISE,EPIC,EPIC,E_METAL|E_WATER|E_LIGHT,dragon_turquoise,dragon_turquoise_baby|dragon_turquoise,false
+534,D_SCIFIZEUS,SCIFIZEUS,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_METAL,dragon_chrono_zeus,dragon_chrono_zeus_baby|dragon_chrono_zeus,false
+535,D_SCIFIAPHRODITE,SCIFIAPHRODITE,DIVINE,SUPREME,E_DIVINE|E_PLANT|E_LIGHT,dragon_chrono_aphrodite,dragon_chrono_aphrodite_baby|dragon_chrono_aphrodite,false
+536,D_SCIFIHADES,SCIFIHADES,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_WIND,dragon_chronos_hades,dragon_chronos_hades_baby|dragon_chronos_hades,false
+537,D_FUTURISTIC,FUTURISTIC,EPIC,EPIC,E_LIGHT|E_FIRE|E_METAL,dragon_futuristic,dragon_futuristic_baby|dragon_futuristic,false
+538,D_ALIENRUNES,ALIENRUNES,RARE,RARE,E_EARTH|E_ENERGY,dragon_alien_runes,dragon_alien_runes_baby|dragon_alien_runes,false
+539,D_SCIFLY,SCIFLY,EPIC,EPIC,E_ENERGY|E_SHADOW|E_WIND,dragon_sci_fly,dragon_sci_fly_baby|dragon_sci_fly,false
+540,D_LEMON,LEMON,RARE,RARE,E_WIND|E_FIRE,dragon_lemon,dragon_lemon_baby|dragon_lemon,false
+541,D_QUEEN,QUEEN,EPIC,EPIC,E_ENERGY|E_METAL|E_LIGHT,dragon_queen,dragon_queen_baby|dragon_queen,false
+542,D_GEMINI_A,GEMINI A,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_METAL,dragon_zodiac_gemini,dragon_zodiac_gemini_baby|dragon_zodiac_gemini,false
+543,D_GEMINI_B,GEMINI B,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_EARTH,dragon_zodiac_gemini_blue,dragon_zodiac_gemini_blue_baby|dragon_zodiac_gemini_blue,false
+544,D_CANCER,CANCER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_SHADOW,dragon_zodiac_cancer,dragon_zodiac_cancer_baby|dragon_zodiac_cancer,false
+545,D_JADE,JADE,EPIC,EPIC,E_EARTH|E_PLANT|E_LIGHT,dragon_jade,dragon_jade_baby|dragon_jade,false
+546,D_BLUEBERRY,BLUEBERRY,EPIC,EPIC,E_PLANT|E_SHADOW|E_VOID,dragon_blueberry,dragon_blueberry_baby|dragon_blueberry,false
+547,D_JELLYFISH,JELLYFISH,EPIC,EPIC,E_WATER|E_ENERGY|E_SHADOW,dragon_jellyfish,dragon_jellyfish_baby|dragon_jellyfish,false
+548,D_PAINT,PAINT,EPIC,EPIC,E_VOID|E_WATER|E_PLANT,dragon_paint,dragon_paint_baby|dragon_paint,false
+549,D_GARNET,GARNET,RARE,RARE,E_EARTH|E_FIRE,dragon_garnet,dragon_garnet_baby|dragon_garnet,false
+550,D_COWBOY,COWBOY,EPIC,EPIC,E_FIRE|E_WIND|E_METAL,dragon_cowboy,dragon_cowboy_baby|dragon_cowboy,false
+551,D_INDEPENDENCE_V2,INDEPENDENCE V2,RARE,RARE,E_WIND|E_LIGHT,dragon_independence_v2,dragon_independence_v2_baby|dragon_independence_v2,false
+552,D_DEEPSPACE,DEEPSPACE,EPIC,EPIC,E_VOID|E_WIND|E_LIGHT,dragon_deep_space,dragon_deep_space_baby|dragon_deep_space,false
+553,D_WOODWITCH,WOODWITCH,EPIC,EPIC,E_ENERGY|E_SHADOW|E_WATER,dragon_wood_witch,dragon_wood_witch_baby|dragon_wood_witch,false
+554,D_DAWN,DAWN,EPIC,EPIC,E_LIGHT|E_FIRE|E_METAL,dragon_dawn,dragon_dawn_baby|dragon_dawn,false
+555,D_STEELBULL,STEELBULL,EPIC,EPIC,E_METAL|E_EARTH|E_FIRE,dragon_steel_bull,dragon_steel_bull_baby|dragon_steel_bull,false
+556,D_WARBEAR,WARBEAR,EPIC,EPIC,E_PLANT|E_WATER|E_METAL,dragon_war_bear,dragon_war_bear_baby|dragon_war_bear,false
+557,D_LUMIPLANT,LUMIPLANT,EPIC,EPIC,E_VOID|E_ENERGY|E_PLANT,dragon_lumpilant,dragon_lumpilant_baby|dragon_lumpilant,false
+558,D_CHRONO_PANGU,CHRONO PANGU,DIVINE,SUPREME,E_DIVINE|E_PLANT|E_METAL,dragon_chrono_pangu,dragon_chrono_pangu_baby|dragon_chrono_pangu,false
+559,D_CHRONO_ERLANG_SHEN,CHRONO ERLANG SHEN,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_WIND,dragon_chrono_erlang_shen,dragon_chrono_erlang_shen_baby|dragon_chrono_erlang_shen,false
+560,D_CHRONO_NEZHA,CHRONO NEZHA,DIVINE,SUPREME,E_DIVINE|E_VOID|E_PLANT,dragon_chrono_nezha,dragon_chrono_nezha_baby|dragon_chrono_nezha,false
+561,D_COLOSSUS,COLOSSUS,EPIC,EPIC,E_METAL|E_EARTH|E_WIND,dragon_colossus,dragon_colossus_baby|dragon_colossus,false
+562,D_JADE_WARRIOR,JADE WARRIOR,EPIC,EPIC,E_SHADOW|E_PLANT|E_VOID,dragon_jade_warrior,dragon_jade_warrior_baby|dragon_jade_warrior,false
+563,D_PLATE,PLATE,RARE,RARE,E_FIRE|E_VOID,dragon_plate,dragon_plate_baby|dragon_plate,false
+564,D_ALOE_L,ALOE L,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_ENERGY,dragon_aloe,dragon_aloe_baby|dragon_aloe,false
+565,D_GLASS_L,GLASS L,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_PLANT,dragon_glass,dragon_glass_baby|dragon_glass,false
+566,D_CARMINE_L,CARMINE L,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_METAL,dragon_carmine,dragon_carmine_baby|dragon_carmine,false
+567,D_LEO,LEO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_LIGHT,dragon_zodiac_leo,dragon_zodiac_leo_baby|dragon_zodiac_leo,false
+568,D_SINGULARITY,SINGULARITY,EPIC,EPIC,E_VOID|E_SHADOW|E_ENERGY,dragon_singularity,dragon_singularity_baby|dragon_singularity,false
+569,D_CACTUS,CACTUS,EPIC,EPIC,E_PLANT|E_FIRE|E_WIND,dragon_cactus,dragon_cactus_baby|dragon_cactus,false
+570,D_AGATE,AGATE,EPIC,EPIC,E_METAL|E_PLANT|E_VOID,dragon_agate,dragon_agate_baby|dragon_agate,false
+571,D_IVORY,IVORY,EPIC,EPIC,E_LIGHT|E_FIRE|E_EARTH,dragon_ivory,dragon_ivory_baby|dragon_ivory,false
+572,D_HYENA,HYENA,RARE,RARE,E_SHADOW|E_FIRE,dragon_hyena,dragon_hyena_baby|dragon_hyena,false
+573,D_HORNBILL,HORNBILL,EPIC,EPIC,E_WIND|E_PLANT|E_EARTH,dragon_hornbill,dragon_hornbill_baby|dragon_hornbill,false
+574,D_HEROIC,HEROIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_VOID,dragon_heroic,dragon_heroic_baby|dragon_heroic,false
+575,D_FROST_FLAME,FROST FLAME,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_METAL,dragon_frost_flame,dragon_frost_flame_baby|dragon_frost_flame,false
+576,D_GREEN_RIFT,GREEN RIFT,EPIC,EPIC,E_ENERGY|E_SHADOW|E_PLANT,dragon_green_rift,dragon_green_rift_baby|dragon_green_rift,false
+577,D_GREEN_STONE,GREEN STONE,RARE,RARE,E_METAL|E_PLANT,dragon_green_stone,dragon_green_stone_baby|dragon_green_stone,false
+578,D_LIGHT_WING,LIGHT WING,EPIC,EPIC,E_LIGHT|E_VOID|E_METAL,dragon_light_wing,dragon_light_wing_baby|dragon_light_wing,false
+579,D_ROYAL,ROYAL,EPIC,EPIC,E_EARTH|E_ENERGY|E_SHADOW,dragon_royal,dragon_royal_baby|dragon_royal,false
+580,D_CHRONO_APEP,CHRONO APEP,DIVINE,SUPREME,E_DIVINE|E_PLANT|E_WATER,dragon_chrono_apep,dragon_chrono_apep_baby|dragon_chrono_apep,false
+581,D_CHRONO_ISIS,CHRONO ISIS,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_VOID,dragon_chrono_isis,dragon_chrono_isis_baby|dragon_chrono_isis,false
+582,D_CHRONO_SETH,CHRONO SETH,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_FIRE,dragon_chrono_seth,dragon_chrono_seth_baby|dragon_chrono_seth,false
+583,D_BIONIC,BIONIC,RARE,RARE,E_METAL|E_WIND,dragon_bionic,dragon_bionic_baby|dragon_bionic,false
+584,D_FROST,FROST,EPIC,EPIC,E_WIND|E_WATER|E_ENERGY,dragon_frost,dragon_frost_baby|dragon_frost,false
+585,D_WYRM,WYRM,EPIC,EPIC,E_PLANT|E_ENERGY|E_VOID,dragon_wyrm,dragon_wyrm_baby|dragon_wyrm,false
+586,D_VIRGO,VIRGO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_SHADOW,dragon_virgo,dragon_virgo_baby|dragon_virgo,false
+587,D_LIBRA,LIBRA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_VOID,dragon_zodiac_libra,dragon_zodiac_libra_baby|dragon_zodiac_libra,false
+588,D_SCORPIO,SCORPIO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_FIRE,dragon_zodiac_scorpio,dragon_zodiac_scorpio_baby|dragon_zodiac_scorpio,false
+589,D_ZODIAC_DIVINE,ZODIAC DIVINE,DIVINE,SUPREME,E_DIVINE|E_METAL|E_WIND,dragon_zodiac_divine,dragon_zodiac_divine_baby|dragon_zodiac_divine,false
+590,D_NEBULA,NEBULA,EPIC,EPIC,E_LIGHT|E_ENERGY|E_VOID,dragon_nebula,dragon_nebula_baby|dragon_nebula,false
+591,D_SCARF,SCARF,EPIC,EPIC,E_LIGHT|E_ENERGY|E_WIND,dragon_scarf,dragon_scarf_baby|dragon_scarf,false
+592,D_ROCKY,ROCKY,RARE,RARE,E_WIND|E_METAL,dragon_rocky,dragon_rocky_baby|dragon_rocky,false
+593,D_TREE_BARK,TREE BARK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_PLANT,dragon_tree_bark,dragon_tree_bark_baby|dragon_tree_bark,false
+594,D_CHINESE_LION_MALE,CHINESE LION MALE,EPIC,EPIC,E_FIRE|E_EARTH|E_ENERGY,dragon_chinese_male,dragon_chinese_male_baby|dragon_chinese_male,false
+595,D_CHINESE_LION_FEMALE,CHINESE LION FEMALE,EPIC,EPIC,E_ENERGY|E_PLANT|E_WIND,dragon_chinese_female,dragon_chinese_female_baby|dragon_chinese_female,false
+596,D_RED_THROAT,RED THROAT,EPIC,EPIC,E_SHADOW|E_METAL|E_VOID,dragon_red_throat,dragon_red_throat_baby|dragon_red_throat,false
+597,D_GOLDY,GOLDY,EPIC,EPIC,E_ENERGY|E_METAL|E_WATER,dragon_goldy,dragon_goldy_baby|dragon_goldy,false
+598,D_ICE_ROCK,ICE ROCK,EPIC,EPIC,E_WATER|E_WIND|E_SHADOW,dragon_ice_rock,dragon_ice_rock_baby|dragon_ice_rock,false
+599,D_SILVER_NOSE,SILVER NOSE,EPIC,EPIC,E_WIND|E_EARTH|E_METAL,dragon_silvernose,dragon_silvernose_baby|dragon_silvernose,false
+600,D_CHERRY_ICE,CHERRY ICE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_METAL,dragon_cherry_ice,dragon_cherry_ice_baby|dragon_cherry_ice,false
+601,D_AVALANCHE,AVALANCHE,EPIC,EPIC,E_EARTH|E_WATER|E_SHADOW,dragon_avalanche,dragon_avalanche_baby|dragon_avalanche,false
+602,D_SNUGGLE,SNUGGLE,RARE,RARE,E_LIGHT|E_VOID,dragon_snuggle,dragon_snuggle_baby|dragon_snuggle,false
+603,D_COMETESQUE,COMETESQUE,EPIC,EPIC,E_METAL|E_ENERGY|E_WATER,dragon_cometesque,dragon_cometesque_baby|dragon_cometesque,false
+604,D_MARSH,MARSH,EPIC,EPIC,E_PLANT|E_VOID|E_LIGHT,dragon_marsh,dragon_marsh_baby|dragon_marsh,false
+605,D_CHIRPY,CHIRPY,EPIC,EPIC,E_EARTH|E_LIGHT|E_WIND,dragon_chirpy,dragon_chirpy_baby|dragon_chirpy,false
+606,D_GREENY,GREENY,RARE,RARE,E_VOID|E_PLANT,dragon_greeny,dragon_greeny_baby|dragon_greeny,false
+607,D_NEON_LIZARD,NEON LIZARD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_VOID,dragon_neon_lizard,dragon_neon_lizard_baby|dragon_neon_lizard,false
+608,D_WATERLILY,WATERLILY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_PLANT,dragon_waterlily,dragon_waterlily_baby|dragon_waterlily,false
+609,D_RED_FEATHER,RED FEATHER,EPIC,EPIC,E_WIND|E_FIRE|E_SHADOW,dragon_red_feather,dragon_red_feather_baby|dragon_red_feather,false
+610,D_ZODIAC_SAGITTARIUS,ZODIAC SAGITTARIUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_FIRE,dragon_zodiac_sagittarius,dragon_zodiac_sagittarius_baby|dragon_zodiac_sagittarius,false
+611,D_ZODIAC_CAPRICORN,ZODIAC CAPRICORN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_WATER,dragon_zodiac_capricorn,dragon_zodiac_capricorn_baby|dragon_zodiac_capricorn,false
+612,D_BOG,BOG,EPIC,EPIC,E_SHADOW|E_PLANT|E_LIGHT,dragon_bog,dragon_bog_baby|dragon_bog,false
+613,D_ANCIENT_DIVINE_FIRE,ANCIENT DIVINE FIRE,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_FIRE,dragon_ancient_divine_fire,dragon_ancient_divine_fire_baby|dragon_ancient_divine_fire,false
+614,D_ANCIENT_FIRE_EARTH,ANCIENT FIRE EARTH,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_EARTH,dragon_ancient_fire_earth,dragon_ancient_fire_earth_baby|dragon_ancient_fire_earth,false
+615,D_ANCIENT_FIRE_WATER,ANCIENT FIRE WATER,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_WATER,dragon_ancient_fire_water,dragon_ancient_fire_water_baby|dragon_ancient_fire_water,false
+616,D_ANCIENT_FIRE_ENERGY,ANCIENT FIRE ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_ENERGY,dragon_ancient_fire_energy,dragon_ancient_fire_energy_baby|dragon_ancient_fire_energy,false
+617,D_ANCIENT_FIRE_SHADOW,ANCIENT FIRE SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_SHADOW,dragon_ancient_fire_shadow,dragon_ancient_fire_shadow_baby|dragon_ancient_fire_shadow,false
+618,D_BRIGHT,BRIGHT,EPIC,EPIC,E_WATER|E_LIGHT|E_FIRE,dragon_bright,dragon_bright_baby|dragon_bright,false
+619,D_MARLY,MARLY,EPIC,EPIC,E_EARTH|E_WIND|E_LIGHT,dragon_marly,dragon_marly_baby|dragon_marly,false
+620,D_FLAME,FLAME,RARE,RARE,E_ENERGY|E_FIRE,dragon_flame,dragon_flame_baby|dragon_flame,false
+621,D_RIVER,RIVER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_VOID,dragon_river,dragon_river_baby|dragon_river,false
+622,D_SLUSHY,SLUSHY,RARE,RARE,E_METAL|E_FIRE,dragon_slushy,dragon_slushy_baby|dragon_slushy,false
+623,D_RED_HORN,RED HORN,EPIC,EPIC,E_VOID|E_METAL|E_FIRE,dragon_red_horn,dragon_red_horn_baby|dragon_red_horn,false
+624,D_ZODIAC_PISCES,ZODIAC PISCES,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_LIGHT,dragon_zodiac_pisces,dragon_zodiac_pisces_baby|dragon_zodiac_pisces,false
+625,D_MOOSE,MOOSE,EPIC,EPIC,E_WIND|E_PLANT|E_SHADOW,dragon_moose,dragon_moose_baby|dragon_moose,false
+626,D_ARCANE,ARCANE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_ENERGY,dragon_arcane,dragon_arcane_baby|dragon_arcane,false
+627,D_LOYAL,LOYAL,EPIC,EPIC,E_LIGHT|E_WIND|E_WATER,dragon_loyal,dragon_loyal_baby|dragon_loyal,false
+628,D_GENTLE,GENTLE,EPIC,EPIC,E_PLANT|E_ENERGY|E_METAL,dragon_gentle,dragon_gentle_baby|dragon_gentle,false
+629,D_GALAXY,GALAXY,EPIC,EPIC,E_SHADOW|E_FIRE|E_METAL,dragon_galaxy,dragon_galaxy_baby|dragon_galaxy,false
+630,D_ZODIAC_AQUARIUS,ZODIAC AQUARIUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_VOID,dragon_zodiac_aquarius,dragon_zodiac_aquarius_baby|dragon_zodiac_aquarius,false
+631,D_ANNIVERSARY5,ANNIVERSARY5,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_ENERGY,dragon_2019_anniversary,dragon_2019_anniversary_baby|dragon_2019_anniversary,false
+632,D_GLITTER,GLITTER,EPIC,EPIC,E_EARTH|E_LIGHT|E_FIRE,dragon_glitter,dragon_glitter_baby|dragon_glitter,false
+633,D_RAT,RAT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WATER,chinese_newyear_rat,chinese_newyear_rat_baby|chinese_newyear_rat,false
+634,D_DEER_TURTLE,DEER TURTLE,EPIC,EPIC,E_WATER|E_SHADOW|E_EARTH,dragon_chinese_turtle,dragon_chinese_turtle_baby|dragon_chinese_turtle,false
+635,D_VALENTINE03,VALENTINE03,EPIC,EPIC,E_FIRE|E_LIGHT|E_EARTH,dragon_valentines_day_2019,dragon_valentines_day_2019_baby|dragon_valentines_day_2019,false
+636,D_MANDALA,MANDALA,RARE,RARE,E_EARTH|E_METAL,dragon_mandala,dragon_mandala_baby|dragon_mandala,false
+637,D_TARNISH,TARNISH,EPIC,EPIC,E_VOID|E_EARTH|E_WATER,dragon_tarnish_adult,dragon_tarnish_baby|dragon_tarnish_adult,false
+638,D_CYBER_DANGER,CYBER DANGER,EPIC,EPIC,E_SHADOW|E_ENERGY|E_METAL,dragon_cyber_danger,dragon_cyber_danger_baby|dragon_cyber_danger,false
+639,D_LASER_HAMMER,LASER HAMMER,RARE,RARE,E_METAL|E_LIGHT,dragon_laser_hammer,dragon_laser_hammer_baby|dragon_laser_hammer,false
+640,D_KIBER,KIBER,EPIC,EPIC,E_PLANT|E_METAL|E_EARTH,dragon_kiber,dragon_kiber_baby|dragon_kiber,false
+641,D_COPPER_ORE,COPPER ORE,EPIC,EPIC,E_ENERGY|E_EARTH|E_WATER,dragon_copper_ore,dragon_copper_ore_baby|dragon_copper_ore,false
+642,D_STEEL_EMBER,STEEL EMBER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WIND,dragon_steel_ember,dragon_steel_ember_baby|dragon_steel_ember,false
+643,D_ANCIENT_METAL_PLANT,ANCIENT METAL PLANT,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_PLANT,dragon_ancient_metal_plant,dragon_ancient_metal_plant_baby|dragon_ancient_metal_plant,false
+644,D_ANCIENT_METAL_SHADOW,ANCIENT METAL SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_SHADOW,dragon_ancient_metal_shadow,dragon_ancient_metal_shadow_baby|dragon_ancient_metal_shadow,false
+645,D_ANCIENT_METAL_WIND,ANCIENT METAL WIND,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_WIND,dragon_ancient_metal_wind,dragon_ancient_metal_wind_baby|dragon_ancient_metal_wind,false
+646,D_ANCIENT_DIVINE_METAL,ANCIENT DIVINE METAL,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_METAL,dragon_ancient_divine_metal,dragon_ancient_divine_metal_baby|dragon_ancient_divine_metal,false
+647,D_CINEMA,CINEMA,EPIC,EPIC,E_VOID|E_LIGHT|E_EARTH,dragon_cinema,dragon_cinema_baby|dragon_cinema,false
+648,D_HISTORICAL,HISTORICAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_PLANT,dragon_historical,dragon_historical_baby|dragon_historical,false
+649,D_NOIR,NOIR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_METAL,dragon_noir,dragon_noir_baby|dragon_noir,false
+650,D_GLOWING_FLOWER_PINK,GLOWING FLOWER PINK,EPIC,EPIC,E_PLANT|E_FIRE|E_ENERGY,dragon_glowing_flower_pink,dragon_glowing_flower_pink_baby|dragon_glowing_flower_pink,false
+651,D_GLOWING_FLOWER_BLUE,GLOWING FLOWER BLUE,EPIC,EPIC,E_WIND|E_PLANT|E_LIGHT,dragon_glowing_flower_blue,dragon_glowing_flower_blue_baby|dragon_glowing_flower_blue,false
+652,D_MEADOW,MEADOW,EPIC,EPIC,E_VOID|E_EARTH|E_PLANT,dragon_meadow,dragon_meadow_baby|dragon_meadow,false
+653,D_CARAMEL,CARAMEL,EPIC,EPIC,E_WIND|E_FIRE|E_ENERGY,dragon_caramel_cream,dragon_caramel_cream_baby|dragon_caramel_cream,false
+654,D_CHRONO_LOKI,CHRONO LOKI,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_FIRE,dragon_chrono_loki,dragon_chrono_loki_baby|dragon_chrono_loki,false
+655,D_CHRONO_FRIGG,CHRONO FRIGG,DIVINE,SUPREME,E_DIVINE|E_FIRE|E_EARTH,dragon_chrono_frigg,dragon_chrono_frigg_baby|dragon_chrono_frigg,false
+656,D_CHRONO_ODIN,CHRONO ODIN,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_LIGHT,dragon_chrono_odin,dragon_chrono_odin_baby|dragon_chrono_odin,false
+657,D_DATA,DATA,EPIC,EPIC,E_FIRE|E_VOID|E_METAL,dragon_data,dragon_data_baby|dragon_data,false
+658,D_DIGITAL_RUIN,DIGITAL RUIN,EPIC,EPIC,E_ENERGY|E_EARTH|E_WIND,dragon_digital_ruin,dragon_digital_ruin_baby|dragon_digital_ruin,false
+659,D_NEO_BONE,NEO BONE,RARE,EPIC,E_LIGHT|E_PLANT|E_SHADOW,dragon_neo_bone,dragon_neo_bone_baby|dragon_neo_bone,false
+660,D_IRIDESCENT,IRIDESCENT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_VOID,dragon_iridescent,dragon_iridescent_baby|dragon_iridescent,false
+661,D_COCKEREL,COCKEREL,EPIC,EPIC,E_WIND|E_SHADOW|E_FIRE,dragon_cockerel,dragon_cockerel_baby|dragon_cockerel,false
+662,D_COBALT,COBALT,EPIC,EPIC,E_WIND|E_LIGHT|E_VOID,dragon_cobalt,dragon_cobalt_baby|dragon_cobalt,false
+663,D_FAMILIAR,FAMILIAR,EPIC,EPIC,E_PLANT|E_ENERGY|E_SHADOW,dragon_familiar,dragon_familiar_baby|dragon_familiar,false
+664,D_SWEET,SWEET,EPIC,EPIC,E_LIGHT|E_PLANT|E_WATER,dragon_sweet,dragon_sweet_baby|dragon_sweet,false
+665,D_ALGAE,ALGAE,EPIC,EPIC,E_WATER|E_PLANT|E_VOID,dragon_algae,dragon_algae_baby|dragon_algae,false
+666,D_CARTOON,CARTOON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WATER,dragon_cartoon,dragon_cartoon_baby|dragon_cartoon,false
+667,D_POST_APOCALYPSE,POST APOCALYPSE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_EARTH,dragon_post_apocalypse,dragon_post_apocalypse_baby|dragon_post_apocalypse,false
+668,D_REWARD,REWARD,EPIC,EPIC,E_METAL|E_LIGHT|E_WIND,dragon_reward,dragon_reward_baby|dragon_reward,false
+669,D_ALPINE,ALPINE,EPIC,EPIC,E_EARTH|E_WATER|E_SHADOW,dragon_alpine,dragon_alpine_baby|dragon_alpine,false
+670,D_MUSICAL,MUSICAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_SHADOW,dragon_musical,dragon_musical_baby|dragon_musical,false
+671,D_HORROR,HORROR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_VOID,dragon_horror_movie,dragon_horror_movie_baby|dragon_horror_movie,false
+672,D_MOTH,MOTH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WIND,dragon_moth,dragon_moth_baby|dragon_moth,false
+673,D_REGAL,REGAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_METAL,dragon_regal,dragon_regal_baby|dragon_regal,false
+674,D_SPIKE_TAIL,SPIKE TAIL,UNCOMMON,RARE,E_WIND|E_EARTH,dragon_spike_tail,dragon_spike_tail_baby|dragon_spike_tail,false
+675,D_ANCIENT_WATER_LIGHT,ANCIENT WATER LIGHT,ANCIENT,SUPREME,E_ANCIENT|E_WATER|E_LIGHT,dragon_ancient_water_light,dragon_ancient_water_light_baby|dragon_ancient_water_light,false
+676,D_ANCIENT_WATER_ENERGY,ANCIENT WATER ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_WATER|E_ENERGY,dragon_ancient_water_energy,dragon_ancient_water_energy_baby|dragon_ancient_water_energy,false
+677,D_ANCIENT_WATER_EARTH,ANCIENT WATER EARTH,ANCIENT,SUPREME,E_ANCIENT|E_WATER|E_EARTH,dragon_ancient_water_earth,dragon_ancient_water_earth_baby|dragon_ancient_water_earth,false
+678,D_ANCIENT_WATER_DIVINE,ANCIENT WATER DIVINE,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_WATER,dragon_ancient_divine_water,dragon_ancient_divine_water_baby|dragon_ancient_divine_water,false
+679,D_RASCALE,RASCALE,RARE,RARE,E_WATER|E_VOID,dragon_rascale,dragon_rascale_baby|dragon_rascale,false
+680,D_YELLOW_CROWN,YELLOW CROWN,EPIC,EPIC,E_WATER|E_METAL|E_ENERGY,dragon_yellow_crown,dragon_yellow_crown_baby|dragon_yellow_crown,false
+681,D_TROPIC,TROPIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_EARTH,dragon_tropic,dragon_tropic_baby|dragon_tropic,false
+682,D_DEEP_LIGHT,DEEP LIGHT,EPIC,EPIC,E_LIGHT|E_WATER|E_VOID,dragon_deep_light,dragon_deep_light_baby|dragon_deep_light,false
+683,D_COCONUT_BLAST,COCONUT BLAST,EPIC,EPIC,E_WIND|E_PLANT|E_ENERGY,dragon_coconut,dragon_coconut_baby|dragon_coconut,false
+684,D_FORTUNE,FORTUNE,EPIC,EPIC,E_METAL|E_PLANT|E_ENERGY,dragon_fortune,dragon_fortune_baby|dragon_fortune,false
+685,D_BROMELIA,BROMELIA,EPIC,EPIC,E_PLANT|E_WIND|E_SHADOW,dragon_bromelia,dragon_bromelia_baby|dragon_bromelia,false
+686,D_AUTUMN_FRUIT,AUTUMN FRUIT,EPIC,EPIC,E_PLANT|E_FIRE|E_SHADOW,dragon_autumn_fruit,dragon_autumn_fruit_baby|dragon_autumn_fruit,false
+687,D_CYAN_TAIL,CYAN TAIL,EPIC,EPIC,E_EARTH|E_FIRE|E_SHADOW,dragon_cyantail,dragon_cyantail_baby|dragon_cyantail,false
+688,D_SEA_SLUG,SEA SLUG,EPIC,EPIC,E_METAL|E_WATER|E_SHADOW,dragon_seaslug,dragon_seaslug_baby|dragon_seaslug,false
+689,D_SPOTTED,SPOTTED,EPIC,EPIC,E_LIGHT|E_VOID|E_WIND,dragon_spotted,dragon_spotted_baby|dragon_spotted,false
+690,D_FAIRY_DUST,FAIRY DUST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WIND,dragon_fairy_dust,dragon_fairy_dust_baby|dragon_fairy_dust,false
+691,D_CLERIC,CLERIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_LIGHT,dragon_cleric,dragon_cleric_baby|dragon_cleric,false
+692,D_WARLOCK,WARLOCK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WIND,dragon_warlock,dragon_warlock_baby|dragon_warlock,false
+693,D_MAYAN,MAYAN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_FIRE,dragon_mayan,dragon_mayan_baby|dragon_mayan,false
+694,D_MARINE,MARINE,EPIC,EPIC,E_WATER|E_SHADOW|E_FIRE,dragon_marine,dragon_marine_baby|dragon_marine,false
+695,D_ORANGE_THROAT,ORANGE THROAT,EPIC,EPIC,E_PLANT|E_FIRE|E_SHADOW,dragon_orange_throat,dragon_orange_throat_baby|dragon_orange_throat,false
+696,D_MINERAL,MINERAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_WIND,dragon_mineral,dragon_mineral_baby|dragon_mineral,false
+697,D_IRON_BLADE,IRON BLADE,EPIC,EPIC,E_FIRE|E_WATER|E_EARTH,dragon_iron_blade,dragon_iron_blade_baby|dragon_iron_blade,false
+698,D_CHRONO_POSEIDON,CHRONO POSEIDON,DIVINE,SUPREME,E_DIVINE|E_WATER|E_ENERGY,dragon_chrono_poseidon,dragon_chrono_poseidon_baby|dragon_chrono_poseidon,false
+699,D_CHRONO_CHANGE,CHRONO CHANGE,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_FIRE,dragon_chrono_change,dragon_chrono_change_baby|dragon_chrono_change,false
+700,D_CHRONO_OSIRIS,CHRONO OSIRIS,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_WATER,dragon_chrono_osiris,dragon_chrono_osiris_baby|dragon_chrono_osiris,false
+701,D_CHRONO_ULTIMATE,CHRONO ULTIMATE,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_VOID,dragon_chrono_ultimate,dragon_chrono_ultimate_baby|dragon_chrono_ultimate,false
+702,D_MOUNTAIN_LORD,MOUNTAIN LORD,EPIC,EPIC,E_SHADOW|E_EARTH|E_ENERGY,dragon_mountain_lord,dragon_mountain_lord_baby|dragon_mountain_lord,false
+703,D_PURPLE_ARMOR,PURPLE ARMOR,EPIC,EPIC,E_VOID|E_ENERGY|E_LIGHT,dragon_purple_armor,dragon_purple_armor_baby|dragon_purple_armor,false
+704,D_REEF,REEF,EPIC,EPIC,E_FIRE|E_PLANT|E_VOID,dragon_reef,dragon_reef_baby|dragon_reef,false
+705,D_OOZE,OOZE,EPIC,EPIC,E_WATER|E_LIGHT|E_ENERGY,dragon_ooze_boss,dragon_ooze_baby|dragon_ooze|dragon_ooze_boss,false
+706,D_DEATH_KNIGHT,DEATH KNIGHT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_ENERGY,dragon_death_knight,dragon_death_knight_baby|dragon_death_knight,false
+707,D_SINISTER,SINISTER,EPIC,EPIC,E_EARTH|E_ENERGY|E_METAL,dragon_sinister,dragon_sinister_baby|dragon_sinister,false
+708,D_PORCUPINE,PORCUPINE,EPIC,EPIC,E_VOID|E_METAL|E_SHADOW,dragon_porcupine,dragon_porcupine_baby|dragon_porcupine,false
+709,D_TUCAN,TUCAN,EPIC,EPIC,E_ENERGY|E_WIND|E_LIGHT,dragon_tucan,dragon_tucan_baby|dragon_tucan,false
+710,D_FIRE_MAGE,FIRE MAGE,EPIC,EPIC,E_METAL|E_FIRE|E_WIND,dragon_fire_mage,dragon_fire_mage_baby|dragon_fire_mage,false
+711,D_GLACIER,GLACIER,EPIC,EPIC,E_WATER|E_METAL|E_EARTH,dragon_glacier,dragon_glacier_baby|dragon_glacier,false
+712,D_BERRY_FROST,BERRY FROST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_WATER,dragon_berry_frost,dragon_berry_frost_baby|dragon_berry_frost,false
+713,D_THIEF,THIEF,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_EARTH,dragon_thief,dragon_thief_baby|dragon_thief,false
+714,D_DRUID,DRUID,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WIND,dragon_druid,dragon_druid_baby|dragon_druid,false
+715,D_STOCKING,STOCKING,EPIC,EPIC,E_ENERGY|E_FIRE|E_SHADOW,dragon_stocking,dragon_stocking_baby|dragon_stocking,false
+716,D_SWEATER,SWEATER,EPIC,EPIC,E_PLANT|E_EARTH|E_SHADOW,dragon_sweater,dragon_sweater_baby|dragon_sweater,false
+717,D_ANCIENT_LIGHT_DIVINE,ANCIENT LIGHT DIVINE,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_LIGHT,dragon_ancient_light_divine,dragon_ancient_light_divine_baby|dragon_ancient_light_divine,false
+718,D_ANCIENT_LIGHT_EARTH,ANCIENT LIGHT EARTH,ANCIENT,SUPREME,E_ANCIENT|E_LIGHT|E_EARTH,dragon_ancient_light_earth,dragon_ancient_light_earth_baby|dragon_ancient_light_earth,false
+719,D_ANCIENT_LIGHT_METAL,ANCIENT LIGHT METAL,ANCIENT,SUPREME,E_ANCIENT|E_LIGHT|E_METAL,dragon_ancient_light_metal,dragon_ancient_light_metal_baby|dragon_ancient_light_metal,false
+720,D_ANCIENT_LIGHT_SHADOW,ANCIENT LIGHT SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_LIGHT|E_SHADOW,dragon_ancient_light_shadow,dragon_ancient_light_shadow_baby|dragon_ancient_light_shadow,false
+721,D_AMPHIBIAN,AMPHIBIAN,EPIC,EPIC,E_LIGHT|E_ENERGY|E_EARTH,dragon_amphibian,dragon_amphibian_baby|dragon_amphibian,false
+722,D_FONDANT,FONDANT,RARE,RARE,E_ENERGY|E_LIGHT,dragon_fondant,dragon_fondant_baby|dragon_fondant,false
+723,D_SOFT,SOFT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_LIGHT,dragon_soft,dragon_soft_baby|dragon_soft,false
+724,D_INDIGO,INDIGO,EPIC,EPIC,E_SHADOW|E_LIGHT|E_WATER,dragon_indigo,dragon_indigo_baby|dragon_indigo,false
+725,D_CHALLENGER,CHALLENGER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_FIRE,dragon_challenger,dragon_challenger_baby|dragon_challenger,false
+726,D_RANGER,RANGER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_VOID,dragon_ranger,dragon_ranger_baby|dragon_ranger,false
+727,D_BOUNTY_HUNTER,BOUNTY HUNTER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_SHADOW,dragon_bounty_hunter,dragon_bounty_hunter_baby|dragon_bounty_hunter,false
+728,D_DREAM_CATCHER,DREAM CATCHER,EPIC,EPIC,E_SHADOW|E_LIGHT|E_EARTH,dragon_dream_catcher,dragon_dream_catcher_baby|dragon_dream_catcher,false
+729,D_SUNSPOT,SUNSPOT,EPIC,EPIC,E_EARTH|E_LIGHT|E_METAL,dragon_sunspot,dragon_sunspot_baby|dragon_sunspot,false
+730,D_6TH_ANNIVERSARY,6TH ANNIVERSARY,EPIC,EPIC,E_LIGHT|E_FIRE|E_ENERGY,dragon_6th_anniversary,dragon_6th_anniversary_baby|dragon_6th_anniversary,false
+731,D_ICE_PENGUIN,ICE PENGUIN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_SHADOW,dragon_ice_penguin,dragon_ice_penguin_baby|dragon_ice_penguin,false
+732,D_ORACLE,ORACLE,EPIC,EPIC,E_ENERGY|E_METAL|E_WATER,dragon_oracle,dragon_oracle_baby|dragon_oracle,false
+733,D_SNAKE_SKIN,SNAKE SKIN,EPIC,EPIC,E_SHADOW|E_PLANT|E_WATER,dragon_snake_skin,dragon_snake_skin_baby|dragon_snake_skin,false
+734,D_ORCHID,ORCHID,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_EARTH,dragon_orchid,dragon_orchid_baby|dragon_orchid,false
+735,D_ANCIENT_DIVINE_PLANT,ANCIENT DIVINE PLANT,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_PLANT,dragon_ancient_divine_plant,dragon_ancient_divine_plant_baby|dragon_ancient_divine_plant,false
+736,D_ANCIENT_PLANT_VOID,ANCIENT PLANT VOID,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_VOID,dragon_ancient_plant_void,dragon_ancient_plant_void_baby|dragon_ancient_plant_void,false
+737,D_ANCIENT_PLANT_WATER,ANCIENT PLANT WATER,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_WATER,dragon_ancient_plant_water,dragon_ancient_plant_water_baby|dragon_ancient_plant_water,false
+738,D_ANCIENT_PLANT_FIRE,ANCIENT PLANT FIRE,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_FIRE,dragon_ancient_plant_fire,dragon_ancient_plant_fire_baby|dragon_ancient_plant_fire,false
+739,D_NORTH,NORTH,EPIC,EPIC,E_METAL|E_PLANT|E_SHADOW,dragon_north,dragon_north_baby|dragon_north,false
+740,D_PEACH,PEACH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_PLANT,dragon_peach,dragon_peach_baby|dragon_peach,false
+741,D_OX,OX,EPIC,EPIC,E_LIGHT|E_ENERGY|E_METAL,dragon_ox,dragon_ox_baby|dragon_ox,false
+742,D_MINT_CHOCOLATE,MINT CHOCOLATE,EPIC,EPIC,E_PLANT|E_WIND|E_METAL,dragon_mint_chocolate,dragon_mint_chocolate_baby|dragon_mint_chocolate,false
+743,D_THE_FOOL,THE FOOL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_METAL,dragon_the_fool,dragon_the_fool_baby|dragon_the_fool,false
+744,D_THE_EMPEROR,THE EMPEROR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_FIRE,dragon_the_emperor,dragon_the_emperor_baby|dragon_the_emperor,false
+745,D_ASTROLOGIST,ASTROLOGIST,EPIC,EPIC,E_ENERGY|E_LIGHT|E_VOID,dragon_astrologist,dragon_astrologist_baby|dragon_astrologist,false
+746,D_DIVINE_PALADIN,DIVINE PALADIN,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_ENERGY,dragon_holy_paladin,dragon_holy_paladin_baby|dragon_holy_paladin,false
+747,D_HAIRSPIKE,HAIRSPIKE,EPIC,EPIC,E_WATER|E_VOID|E_EARTH,dragon_hairspike,dragon_hairspike_baby|dragon_hairspike,false
+748,D_MALEFICENT,MALEFICENT,EPIC,EPIC,E_SHADOW|E_FIRE|E_EARTH,dragon_maleficent,dragon_maleficent_baby|dragon_maleficent,false
+749,D_SPICY,SPICY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_FIRE,dragon_spicy,dragon_spicy_baby|dragon_spicy,false
+750,D_ROSE_CRYSTAL,ROSE CRYSTAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_METAL,dragon_rose_crystal,dragon_rose_crystal_baby|dragon_rose_crystal,false
+751,D_SPRING_2021_FILLER_01,SPRING 2021 FILLER 01,EPIC,EPIC,E_METAL|E_LIGHT|E_EARTH,dragon_spring_2021_filler_01,dragon_spring_2021_filler_01_baby|dragon_spring_2021_filler_01,false
+752,D_SPRING_2021_FILLER_02,SPRING 2021 FILLER 02,EPIC,EPIC,E_WIND|E_LIGHT|E_WATER,dragon_stump,dragon_stump_baby|dragon_stump,false
+753,D_THE_EMPRESS,THE EMPRESS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_LIGHT,dragon_the_emperess,dragon_the_emperess_baby|dragon_the_emperess,false
+754,D_THE_MAGICIAN,THE MAGICIAN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_WATER,dragon_the_magician,dragon_the_magician_baby|dragon_the_magician,false
+755,D_ORB,ORB,EPIC,EPIC,E_VOID|E_METAL|E_LIGHT,dragon_orb,dragon_orb_baby|dragon_orb,false
+756,D_VETERAN,VETERAN,EPIC,EPIC,E_WIND|E_METAL|E_PLANT,dragon_veteran,dragon_veteran_baby|dragon_veteran,false
+757,D_EXOPLANET,EXOPLANET,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_ENERGY,dragon_exoplanet,dragon_exoplanet_baby|dragon_exoplanet,false
+758,D_HOOF,HOOF,EPIC,EPIC,E_FIRE|E_EARTH|E_SHADOW,dragon_hoof,dragon_hoof_baby|dragon_hoof,false
+759,D_FOREST_WARRIOR,FOREST WARRIOR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_PLANT,dragon_forest_warrior,dragon_forest_warrior_baby|dragon_forest_warrior,false
+760,D_TREESTONE,TREESTONE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_WATER,dragon_treestone,dragon_treestone_baby|dragon_treestone,false
+761,D_PEANUT_BUTTER,PEANUT BUTTER,EPIC,EPIC,E_WIND|E_LIGHT|E_ENERGY,dragon_peanut_butter_jelly,dragon_peanut_butter_jelly_baby|dragon_peanut_butter_jelly,false
+762,D_CULTIST,CULTIST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_EARTH,dragon_cultist,dragon_cultist_baby|dragon_cultist,false
+763,D_LONGWANG,LONGWANG,DIVINE,SUPREME,E_DIVINE|E_WATER|E_WIND,dragon_longwang,dragon_longwang_baby|dragon_longwang,false
+764,D_FREYR,FREYR,DIVINE,SUPREME,E_DIVINE|E_WATER|E_LIGHT,dragon_freyr,dragon_freyr_baby|dragon_freyr,false
+765,D_PORCELAIN,PORCELAIN,EPIC,EPIC,E_WIND|E_FIRE|E_METAL,dragon_porcelain,dragon_porcelain_baby|dragon_porcelain,false
+766,D_GREYHORN,GREYHORN,EPIC,EPIC,E_METAL|E_FIRE|E_SHADOW,dragon_greyhorn,dragon_greyhorn_baby|dragon_greyhorn,false
+767,D_FYORD,FYORD,EPIC,EPIC,E_WATER|E_WIND|E_VOID,dragon_fyord,dragon_fyord_baby|dragon_fyord,false
+768,D_SHINOBI,SHINOBI,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_SHADOW,dragon_shinobi,dragon_shinobi_baby|dragon_shinobi,false
+769,D_ANCIENT_DIVINE_EARTH,ANCIENT DIVINE EARTH,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_EARTH,dragon_ancient_divine_earth,dragon_ancient_divine_earth_baby|dragon_ancient_divine_earth,false
+770,D_ANCIENT_EARTH_METAL,ANCIENT EARTH METAL,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_METAL,dragon_ancient_earth_metal,dragon_ancient_earth_metal_baby|dragon_ancient_earth_metal,false
+771,D_ANCIENT_EARTH_SHADOW,ANCIENT EARTH SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_SHADOW,dragon_ancient_earth_shadow,dragon_ancient_earth_shadow_baby|dragon_ancient_earth_shadow,false
+772,D_ANCIENT_EARTH_WIND,ANCIENT EARTH WIND,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_WIND,dragon_ancient_earth_wind,dragon_ancient_earth_wind_baby|dragon_ancient_earth_wind,false
+773,D_MOTLEY,MOTLEY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WIND,dragon_motley,dragon_motley_baby|dragon_motley,false
+774,D_WARTHOG,WARTHOG,EPIC,EPIC,E_ENERGY|E_EARTH|E_METAL,dragon_warthog,dragon_warthog_baby|dragon_warthog,false
+775,D_REPTILE,REPTILE,EPIC,EPIC,E_SHADOW|E_EARTH|E_WATER,dragon_reptile,dragon_reptile_baby|dragon_reptile,false
+776,D_SKUNK,SKUNK,EPIC,EPIC,E_EARTH|E_PLANT|E_SHADOW,dragon_skunk,dragon_skunk_baby|dragon_skunk,false
+777,D_THE_DEVIL,THE DEVIL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_VOID,dragon_the_devil,dragon_the_devil_baby|dragon_the_devil,false
+778,D_THE_HIEROPHANT,THE HIEROPHANT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_METAL,dragon_hierophant,dragon_hierophant_baby|dragon_hierophant,false
+779,D_FIREFLY_BAT,FIREFLY BAT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_ENERGY,dragon_firefly_bat,dragon_firefly_bat_baby|dragon_firefly_bat,false
+780,D_NURSE,NURSE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_WATER,dragon_nurse,dragon_nurse_baby|dragon_nurse,false
+781,D_GARDENER,GARDENER,EPIC,EPIC,E_ENERGY|E_LIGHT|E_PLANT,dragon_gardener,dragon_gardener_baby|dragon_gardener,false
+782,D_CHEESECAKE,CHEESECAKE,EPIC,EPIC,E_WIND|E_LIGHT|E_EARTH,dragon_cheesecake,dragon_cheesecake_baby|dragon_cheesecake,false
+783,D_LADY,LADY,EPIC,EPIC,E_WATER|E_METAL|E_FIRE,dragon_lady,dragon_lady_baby|dragon_lady,false
+784,D_PUNK,PUNK,EPIC,EPIC,E_PLANT|E_VOID|E_FIRE,dragon_punk,dragon_punk_baby|dragon_punk,false
+785,D_MANTIS,MANTIS,EPIC,EPIC,E_VOID|E_PLANT|E_LIGHT,dragon_mantis,dragon_mantis_baby|dragon_mantis,false
+786,D_SPECTRAL_SNAKE,SPECTRAL SNAKE,EPIC,EPIC,E_ENERGY|E_SHADOW|E_VOID,dragon_spectral_snake,dragon_spectral_snake_baby|dragon_spectral_snake,false
+787,D_COCKATRICE,COCKATRICE,EPIC,EPIC,E_SHADOW|E_WIND|E_EARTH,dragon_cockatrice,dragon_cockatrice_baby|dragon_cockatrice,false
+788,D_ORANGE_CRAB,ORANGE CRAB,EPIC,EPIC,E_FIRE|E_METAL|E_SHADOW,dragon_orange_crab,dragon_orange_crab_baby|dragon_orange_crab,false
+789,D_ROYAL_BLUE,ROYAL BLUE,EPIC,EPIC,E_WIND|E_WATER|E_LIGHT,dragon_royal_blue,dragon_royal_blue_baby|dragon_royal_blue,false
+790,D_SNAIL_FISH,SNAIL FISH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_EARTH,dragon_snail_fish,dragon_snail_fish_baby|dragon_snail_fish,false
+791,D_FARFALLA,FARFALLA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_ENERGY,dragon_farfalla,dragon_farfalla_baby|dragon_farfalla,false
+792,D_KINGFISH,KINGFISH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WATER,dragon_kingfish,dragon_kingfish_baby|dragon_kingfish,false
+793,D_BRIGAND,BRIGAND,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_EARTH,dragon_brigand,dragon_brigand_baby|dragon_brigand,false
+794,D_THE_MOON,THE MOON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_LIGHT,dragon_the_moon,dragon_the_moon_baby|dragon_the_moon,false
+795,D_THE_SUN,THE SUN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_FIRE,dragon_the_sun,dragon_the_sun_baby|dragon_the_sun,false
+796,D_STELLAR,STELLAR,EPIC,EPIC,E_LIGHT|E_VOID|E_SHADOW,dragon_stellar,dragon_stellar_baby|dragon_stellar,false
+797,D_AZURE,AZURE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WATER,dragon_azure,dragon_azure_baby|dragon_azure,false
+798,D_HONEYCOMB,HONEYCOMB,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_EARTH,dragon_honeycomb,dragon_honeycomb_baby|dragon_honeycomb,false
+799,D_FLUORESCENT,FLUORESCENT,EPIC,EPIC,E_VOID|E_SHADOW|E_FIRE,dragon_fluorescent,dragon_fluorescent_baby|dragon_fluorescent,false
+800,D_UNDERLORD,UNDERLORD,EPIC,EPIC,E_ENERGY|E_VOID|E_FIRE,dragon_underlord,dragon_underlord_baby|dragon_underlord,false
+801,D_SCALE_ARMOR,SCALE ARMOR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_METAL,dragon_scale_armor,dragon_scale_armor_baby|dragon_scale_armor,false
+802,D_LUDUAN,LUDUAN,EPIC,EPIC,E_WATER|E_LIGHT|E_METAL,dragon_luduan,dragon_luduan_baby|dragon_luduan,false
+803,D_COMMANDER,COMMANDER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_EARTH,dragon_commander,dragon_commander_baby|dragon_commander,false
+804,D_GRANITE,GRANITE,EPIC,EPIC,E_FIRE|E_WATER|E_EARTH,dragon_granite,dragon_granite_baby|dragon_granite,false
+805,D_TIGER_FISH,TIGER FISH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_WATER,dragon_tiger_fish,dragon_tiger_fish_baby|dragon_tiger_fish,false
+806,D_OCEANIC,OCEANIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WATER,dragon_oceanic,dragon_oceanic_baby|dragon_oceanic,false
+807,D_HELLISH,HELLISH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WATER,dragon_hellish,dragon_hellish_baby|dragon_hellish,false
+808,D_ARTEMIS,ARTEMIS,DIVINE,SUPREME,E_DIVINE|E_SHADOW|E_WATER,dragon_artemis,dragon_artemis_baby|dragon_artemis,false
+809,D_NUT,NUT,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_LIGHT,dragon_nut,dragon_nut_baby|dragon_nut,false
+810,D_CYCLOPS,CYCLOPS,EPIC,EPIC,E_EARTH|E_METAL|E_VOID,dragon_cyclops,dragon_cyclops_baby|dragon_cyclops,false
+811,D_PYRAMID,PYRAMID,EPIC,EPIC,E_LIGHT|E_EARTH|E_FIRE,dragon_pyramid,dragon_pyramid_baby|dragon_pyramid,false
+812,D_FLAME_LILY,FLAME LILY,EPIC,EPIC,E_PLANT|E_FIRE|E_METAL,dragon_flame_lily,dragon_flame_lily_baby|dragon_flame_lily,false
+813,D_BLACK_PUMA,BLACK PUMA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_WIND,dragon_black_puma,dragon_black_puma_baby|dragon_black_puma,false
+814,D_THE_STAR,THE STAR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_ENERGY,dragon_the_star,dragon_the_star_baby|dragon_the_star,false
+815,D_THE_TOWER,THE TOWER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_ENERGY,dragon_the_tower,dragon_the_tower_baby|dragon_the_tower,false
+816,D_UNDYING,UNDYING,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_ENERGY,dragon_undying,dragon_undying_baby|dragon_undying,false
+817,D_FROST_ETEMENTAL,FROST ETEMENTAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WATER,dragon_frost_elemental,dragon_frost_elemental_baby|dragon_frost_elemental,false
+818,D_FALLEN,FALLEN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_SHADOW,dragon_fallen_beta,dragon_fallen_beta_baby|dragon_fallen_beta,false
+819,D_RAVAGER,RAVAGER,EPIC,EPIC,E_METAL|E_EARTH|E_WATER,dragon_ravager,dragon_ravager_baby|dragon_ravager,false
+820,D_ANTI_BULLYING,ANTI BULLYING,EPIC,EPIC,E_WIND|E_METAL|E_LIGHT,dragon_anti_bullying,dragon_anti_bullying_baby|dragon_anti_bullying,false
+821,D_ANCIENT_DIVINE_SHADOW,ANCIENT DIVINE SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_SHADOW,dragon_ancient_divine_shadow,dragon_ancient_divine_shadow_baby|dragon_ancient_divine_shadow,false
+822,D_ANCIENT_SHADOW_WIND,ANCIENT SHADOW WIND,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_WIND,dragon_ancient_shadow_wind,dragon_ancient_shadow_wind_baby|dragon_ancient_shadow_wind,false
+823,D_ANCIENT_SHADOW_PLANT,ANCIENT SHADOW PLANT,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_PLANT,dragon_ancient_shadow_plant,dragon_ancient_shadow_plant_baby|dragon_ancient_shadow_plant,false
+824,D_ANCIENT_SHADOW_VOID,ANCIENT SHADOW VOID,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_VOID,dragon_ancient_shadow_void,dragon_ancient_shadow_void_baby|dragon_ancient_shadow_void,false
+825,D_NEO_BERSERKER,NEO BERSERKER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_SHADOW,dragon_neo_berserker_shadow,dragon_neo_berserker_shadow_baby|dragon_neo_berserker_shadow,false
+826,D_WORG,WORG,EPIC,EPIC,E_SHADOW|E_METAL|E_WATER,dragon_worg,dragon_worg_baby|dragon_worg,false
+827,D_SILHOUETTE,SILHOUETTE,EPIC,EPIC,E_SHADOW|E_LIGHT|E_METAL,dragon_silhouette,dragon_silhouette_baby|dragon_silhouette,false
+828,D_FLYING_PIG,FLYING PIG,EPIC,EPIC,E_PLANT|E_METAL|E_LIGHT,dragon_flying_pig,dragon_flying_pig_baby|dragon_flying_pig,false
+829,D_AMATERASU,AMATERASU,DIVINE,SUPREME,E_DIVINE|E_WIND|E_LIGHT,dragon_amaterasu,dragon_amaterasu_baby|dragon_amaterasu,false
+830,D_KOLIADA,KOLIADA,DIVINE,SUPREME,E_DIVINE|E_WATER|E_METAL,dragon_koliada,dragon_koliada_baby|dragon_koliada,false
+831,D_CHAKRA,CHAKRA,EPIC,EPIC,E_WIND|E_ENERGY|E_SHADOW,dragon_chakra,dragon_chakra_baby|dragon_chakra,false
+832,D_KPOP,KPOP,EPIC,EPIC,E_VOID|E_WATER|E_LIGHT,dragon_kpop_m,dragon_kpop_m_baby|dragon_kpop_m,false
+833,D_GATO,GATO,EPIC,EPIC,E_METAL|E_SHADOW|E_ENERGY,dragon_gato,dragon_gato_baby|dragon_gato,false
+834,D_HERMIT,HERMIT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_EARTH,dragon_hermit,dragon_hermit_baby|dragon_hermit,false
+835,D_HIGH_PRIESTESS,HIGH PRIESTESS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WATER,dragon_the_high_priestess,dragon_the_high_priestess_baby|dragon_the_high_priestess,false
+836,D_ICICLE_MALE,ICICLE MALE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_FIRE,dragon_icicle_male,dragon_icicle_male_baby|dragon_icicle_male,false
+837,D_ICICLE_FEMALE,ICICLE FEMALE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_EARTH,dragon_icicle_female,dragon_icicle_female_baby|dragon_icicle_female,false
+838,D_7TH_BIRTHDAY,7TH BIRTHDAY,EPIC,EPIC,E_PLANT|E_METAL|E_SHADOW,dragon_cotton_candy,dragon_cotton_candy_baby|dragon_cotton_candy,false
+839,D_TIGER_CNY,TIGER CNY,EPIC,EPIC,E_FIRE|E_WATER|E_VOID,dragon_cny_2022_tiger,dragon_cny_2022_tiger_baby|dragon_cny_2022_tiger,false
+840,D_CHOCOLATE,CHOCOLATE,EPIC,EPIC,E_LIGHT|E_EARTH|E_VOID,dragon_chocolate,dragon_chocolate_baby|dragon_chocolate,false
+841,D_KOREAN,KOREAN,EPIC,EPIC,E_VOID|E_WATER|E_LIGHT,dragon_korean,dragon_korean_baby|dragon_korean,false
+842,D_POO_EMOJI,POO EMOJI,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WATER,dragon_poo_emoji,dragon_poo_emoji_baby|dragon_poo_emoji,false
+843,D_PRIDE,PRIDE,EPIC,EPIC,E_EARTH|E_LIGHT|E_ENERGY,dragon_pride,dragon_pride_baby|dragon_pride,false
+844,D_SUSHI,SUSHI,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_ENERGY,dragon_sushi,dragon_sushi_baby|dragon_sushi,false
+845,D_YULE_LOG,YULE LOG,EPIC,EPIC,E_FIRE|E_PLANT|E_SHADOW,dragon_yule_log,dragon_yule_log_baby|dragon_yule_log,false
+846,D_ANCIENT_WIND_DIVINE,ANCIENT WIND DIVINE,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_WIND,dragon_ancient_wind_divine_breeze,dragon_ancient_wind_divine_breeze_baby|dragon_ancient_wind_divine_breeze,false
+847,D_ANCIENT_WIND_FIRE,ANCIENT WIND FIRE,ANCIENT,SUPREME,E_ANCIENT|E_WIND|E_FIRE,dragon_ancient_wind_fire,dragon_ancient_wind_fire_baby|dragon_ancient_wind_fire,false
+848,D_ANCIENT_WIND_VOID,ANCIENT WIND VOID,ANCIENT,SUPREME,E_ANCIENT|E_WIND|E_VOID,dragon_ancient_wind_void,dragon_ancient_wind_void_baby|dragon_ancient_wind_void,false
+849,D_ANCIENT_WIND_PLANT,ANCIENT WIND PLANT,ANCIENT,SUPREME,E_ANCIENT|E_WIND|E_PLANT,dragon_ancient_wind_plant,dragon_ancient_wind_plant_baby|dragon_ancient_wind_plant,false
+850,D_GOD_OF_NATURE,GOD OF NATURE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_PLANT,dragon_ancient_spirit,dragon_ancient_spirit_baby|dragon_ancient_spirit,false
+851,D_PINK,PINK,EPIC,EPIC,E_WIND|E_EARTH|E_SHADOW,dragon_pink_horns,dragon_pink_horns_baby|dragon_pink_horns,false
+852,D_ICE_CRYSTAL,ICE CRYSTAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_METAL,dragon_ice_crystal,dragon_ice_crystal_baby|dragon_ice_crystal,false
+853,D_JADE_DEVIL,JADE DEVIL,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_PLANT,dragon_jade_devil,dragon_jade_devil_baby|dragon_jade_devil,false
+854,D_FLUORESCENT_BLUE,FLUORESCENT BLUE,PRIMAL,LEGENDARY,E_PRIMAL|E_VOID|E_METAL,dragon_fluorescent_blue,dragon_fluorescent_blue_baby|dragon_fluorescent_blue,false
+855,D_CRYSTAL_BALL,CRYSTAL BALL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WATER,dragon_crystal_ball,dragon_crystal_ball_baby|dragon_crystal_ball,false
+856,D_SEER,SEER,DIVINE,SUPREME,E_DIVINE|E_METAL|E_LIGHT,dragon_tarot_seer,dragon_tarot_seer_baby|dragon_tarot_seer,false
+857,D_ARYA,ARYA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_EARTH,dragon_arya,dragon_arya_baby|dragon_arya,false
+858,D_WOMENSDAY_2022,WOMENSDAY 2022,EPIC,EPIC,E_VOID|E_WATER|E_FIRE,dragon_womensday_2022,dragon_womensday_2022_baby|dragon_womensday_2022,false
+859,D_VALENTINE_2022,VALENTINE 2022,EPIC,EPIC,E_ENERGY|E_WATER|E_METAL,dragon_valentine_2022,dragon_valentine_2022_baby|dragon_valentine_2022,false
+860,D_RED_JAW,RED JAW,PRIMAL,LEGENDARY,E_PRIMAL|E_FIRE|E_EARTH,dragon_red_jaw,dragon_red_jaw_baby|dragon_red_jaw,false
+861,D_BRIGID,BRIGID,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_WIND,dragon_brigid,dragon_brigid_baby|dragon_brigid,false
+862,D_YUM_KAAX,YUM KAAX,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_PLANT,dragon_yum_kaax,dragon_yum_kaax_baby|dragon_yum_kaax,false
+863,D_WATER_FLOWER,WATER FLOWER,EPIC,EPIC,E_PLANT|E_WATER|E_LIGHT,dragon_water_flower,dragon_water_flower_baby|dragon_water_flower,false
+864,D_MAYA_TOTEM,MAYA TOTEM,EPIC,EPIC,E_EARTH|E_METAL|E_SHADOW,dragon_maya_totem,dragon_maya_totem_baby|dragon_maya_totem,false
+865,D_FABERGE,FABERGE,EPIC,EPIC,E_ENERGY|E_FIRE|E_METAL,dragon_faberge,dragon_faberge_baby|dragon_faberge,false
+866,D_SPACE_SUIT,SPACE SUIT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_ENERGY,dragon_space_suit,dragon_space_suit_baby|dragon_space_suit,false
+867,D_RELIC,RELIC,EPIC,EPIC,E_WIND|E_PLANT|E_LIGHT,dragon_relic,dragon_relic_baby|dragon_relic,false
+868,D_ORANGE_VIPER,ORANGE VIPER,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_WIND,dragon_orange_viper,dragon_orange_viper_baby|dragon_orange_viper,false
+869,D_NED,NED,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_WATER,dragon_ned,dragon_ned_baby|dragon_ned,false
+870,D_HOGWIN,HOGWIN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_LIGHT,dragon_hogwin,dragon_hogwin_baby|dragon_hogwin,false
+871,D_ACADEMY,ACADEMY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_METAL,dragon_academy,dragon_academy_baby|dragon_academy,false
+872,D_DUNKELVIKING,DUNKELVIKING,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WIND,dragon_dunkelviking,dragon_dunkelviking_baby|dragon_dunkelviking,false
+873,D_BLAZING_SPORE,BLAZING SPORE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_LIGHT,dragon_blazing_spore,dragon_blazing_spore_baby|dragon_blazing_spore,false
+874,D_ANCIENT_DIVINE_ENERGY,ANCIENT DIVINE ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_ENERGY,dragon_ancient_divine_energy,dragon_ancient_divine_energy_baby|dragon_ancient_divine_energy,false
+875,D_ANCIENT_ENERGY_LIGHT,ANCIENT ENERGY LIGHT,ANCIENT,SUPREME,E_ANCIENT|E_ENERGY|E_LIGHT,dragon_ancient_energy_light,dragon_ancient_energy_light_baby|dragon_ancient_energy_light,false
+876,D_ANCIENT_ENERGY_EARTH,ANCIENT ENERGY EARTH,ANCIENT,SUPREME,E_ANCIENT|E_ENERGY|E_EARTH,dragon_ancient_energy_earth,dragon_ancient_energy_earth_baby|dragon_ancient_energy_earth,false
+877,D_ANCIENT_ENERGY_METAL,ANCIENT ENERGY METAL,ANCIENT,SUPREME,E_ANCIENT|E_ENERGY|E_METAL,dragon_ancient_energy_metal,dragon_ancient_energy_metal_baby|dragon_ancient_energy_metal,false
+878,D_DYNAMO,DYNAMO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_METAL,dragon_dynamo,dragon_dynamo_baby|dragon_dynamo,false
+879,D_WATER_CORAL_F,WATER CORAL F,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_PLANT,dragon_water_coral_f,dragon_water_coral_f_baby|dragon_water_coral_f,false
+880,D_WATER_CORAL_M,WATER CORAL M,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_ENERGY,dragon_water_coral_m,dragon_water_coral_m_baby|dragon_water_coral_m,false
+881,D_OLAF,OLAF,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_METAL,dragon_olaf,dragon_olaf_baby|dragon_olaf,false
+882,D_BRANT,BRANT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_ENERGY,dragon_brant,dragon_brant_baby|dragon_brant,false
+883,D_DRAKKAR,DRAKKAR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_WATER,dragon_drakkar,dragon_drakkar_baby|dragon_drakkar,false
+884,D_USA_2022,USA 2022,EPIC,EPIC,E_LIGHT|E_WIND|E_ENERGY,dragon_usa_2022,dragon_usa_2022_baby|dragon_usa_2022,false
+885,D_ADVENTURER,ADVENTURER,EPIC,EPIC,E_EARTH|E_WIND|E_ENERGY,dragon_adventurer,dragon_adventurer_baby|dragon_adventurer,false
+886,D_CAT_EEL,CAT EEL,EPIC,EPIC,E_WATER|E_ENERGY|E_LIGHT,dragon_cat_eel,dragon_cat_eel_baby|dragon_cat_eel,false
+887,D_MOBY_DICK,MOBY DICK,EPIC,EPIC,E_VOID|E_WATER|E_EARTH,dragon_moby_dick,dragon_moby_dick_baby|dragon_moby_dick,false
+888,D_WATER_WAVE,WATER WAVE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_SHADOW,dragon_water_wave,dragon_water_wave_baby|dragon_water_wave,false
+889,D_AQUATIC,AQUATIC,EPIC,EPIC,E_PLANT|E_ENERGY|E_WATER,dragon_aquatic,dragon_aquatic_baby|dragon_aquatic,false
+890,D_EMERALD_PHANTOM,EMERALD PHANTOM,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_FIRE,dragon_emerald_phantom,dragon_emerald_phantom_baby|dragon_emerald_phantom,false
+891,D_VERMILLION_WINGS,VERMILLION WINGS,PRIMAL,LEGENDARY,E_PRIMAL|E_ENERGY|E_WIND,dragon_vermillion_wings,dragon_vermillion_wings_baby|dragon_vermillion_wings,false
+892,D_SUNBATH,SUNBATH,EPIC,EPIC,E_WATER|E_WIND|E_METAL,dragon_sunbath,dragon_sunbath_baby|dragon_sunbath,false
+893,D_HORUS,HORUS,DIVINE,SUPREME,E_DIVINE|E_WIND|E_SHADOW,dragon_horus,dragon_horus_baby|dragon_horus,false
+894,D_AME_NO_UZUME,AME NO UZUME,DIVINE,SUPREME,E_DIVINE|E_WATER|E_EARTH,dragon_ame_no_uzume,dragon_ame_no_uzume_baby|dragon_ame_no_uzume,false
+895,D_UNDERWORLD_EMISSARY,UNDERWORLD EMISSARY,EPIC,EPIC,E_WATER|E_ENERGY|E_VOID,dragon_underworld_emissary,dragon_underworld_emissary_baby|dragon_underworld_emissary,false
+896,D_ONI,ONI,EPIC,EPIC,E_VOID|E_FIRE|E_METAL,dragon_oni,dragon_oni_baby|dragon_oni,false
+897,D_GOLDEN_THORNS,GOLDEN THORNS,EPIC,EPIC,E_LIGHT|E_PLANT|E_ENERGY,dragon_golden_thorns,dragon_golden_thorns_baby|dragon_golden_thorns,false
+898,D_DARK_MENACE,DARK MENACE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_EARTH,dragon_dark_menace,dragon_dark_menace_baby|dragon_dark_menace,false
+899,D_MAYA_POLAR_BEAR,MAYA POLAR BEAR,PRIMAL,LEGENDARY,E_PRIMAL|E_WIND|E_METAL,dragon_maya_polar_bear,dragon_maya_polar_bear_baby|dragon_maya_polar_bear,false
+900,D_JUNIPER_THE_FOX,JUNIPER THE FOX,PRIMAL,LEGENDARY,E_PRIMAL|E_FIRE|E_ENERGY,dragon_juniper_the_fox,dragon_juniper_the_fox_baby|dragon_juniper_the_fox,false
+901,D_MAXINE_CORGI,MAXINE CORGI,PRIMAL,LEGENDARY,E_PRIMAL|E_EARTH|E_PLANT,dragon_maxine_corgi,dragon_maxine_corgi_baby|dragon_maxine_corgi,false
+902,D_BACK_TO_SCHOOL_2022,BACK TO SCHOOL 2022,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_FIRE,dragon_back_to_school_2022,dragon_back_to_school_2022_baby|dragon_back_to_school_2022,false
+903,D_AFRICAN_WARRIOR,AFRICAN WARRIOR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_EARTH,dragon_african_warrior,dragon_african_warrior_baby|dragon_african_warrior,false
+904,D_MELVIN,MELVIN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_PLANT,dragon_melvin,dragon_melvin_baby|dragon_melvin,false
+905,D_OTTO,OTTO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_ENERGY,dragon_otto,dragon_otto_baby|dragon_otto,false
+906,D_GUNHILDA,GUNHILDA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_FIRE,dragon_gunhilda,dragon_gunhilda_baby|dragon_gunhilda,false
+907,D_ATHENA,ATHENA,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_FIRE,dragon_athena,dragon_athena_baby|dragon_athena,false
+908,D_ANCIENT_DIVINE_VOID,ANCIENT DIVINE VOID,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_VOID,dragon_ancient_divine_void,dragon_ancient_divine_void_baby|dragon_ancient_divine_void,false
+909,D_ANCIENT_VOID_FIRE,ANCIENT VOID FIRE,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_FIRE,dragon_ancient_void_fire,dragon_ancient_void_fire_baby|dragon_ancient_void_fire,false
+910,D_ANCIENT_VOID_WATER,ANCIENT VOID WATER,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_WATER,dragon_ancient_void_water,dragon_ancient_void_water_baby|dragon_ancient_void_water,false
+911,D_ANCIENT_VOID_ENERGY,ANCIENT VOID ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_ENERGY,dragon_ancient_void_energy,dragon_ancient_void_energy_baby|dragon_ancient_void_energy,false
+912,D_SHADOW_METAL,SHADOW METAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_METAL,dragon_shadow_metal,dragon_shadow_metal_baby|dragon_shadow_metal,false
+913,D_SERAF,SERAF,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_VOID,dragon_seraf,dragon_seraf_baby|dragon_seraf,false
+914,D_MAGNUS_CORNU,MAGNUS CORNU,PRIMAL,LEGENDARY,E_PRIMAL|E_METAL|E_EARTH,dragon_magnus_cornu,dragon_magnus_cornu_baby|dragon_magnus_cornu,false
+915,D_ANCIENT_FROST,ANCIENT FROST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_FIRE,dragon_ancient_frost,dragon_ancient_frost_baby|dragon_ancient_frost,false
+916,D_ANCIENT_EARTH_ENERGY,ANCIENT EARTH ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_ENERGY,dragon_ancient_earth_energy,dragon_ancient_earth_energy_baby|dragon_ancient_earth_energy,false
+917,D_COSMIC_TENTACLE,COSMIC TENTACLE,RARE,EPIC,E_SHADOW|E_VOID|E_EARTH,dragon_cosmic_tentacle,dragon_cosmic_tentacle_baby|dragon_cosmic_tentacle,false
+918,D_VOID_VIPER,VOID VIPER,RARE,EPIC,E_VOID|E_WIND|E_PLANT,dragon_void_viper,dragon_void_viper_baby|dragon_void_viper,false
+919,D_KRAMPUS,KRAMPUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_SHADOW,dragon_krampus,dragon_krampus_baby|dragon_krampus,false
+920,D_DEER_LIGHTS,DEER LIGHTS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_PLANT,dragon_deer_lights,dragon_deer_lights_baby|dragon_deer_lights,false
+921,D_HEINRICH,HEINRICH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_VOID,dragon_heinrich,dragon_heinrich_baby|dragon_heinrich,false
+922,D_MARKET,MARKET,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WATER,dragon_market,dragon_market_baby|dragon_market,false
+923,D_BLUE_DUST,BLUE DUST,DIVINE,SUPREME,E_DIVINE|E_ENERGY|E_FIRE,dragon_blue_dust,dragon_blue_dust_baby|dragon_blue_dust,false
+924,D_RATHORN,RATHORN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_EARTH,dragon_rathorn,dragon_rathorn_baby|dragon_rathorn,false
+925,D_ARMORED_GHOST,ARMORED GHOST,TYRANT,SUPREME,E_TYRANT|E_LIGHT|E_WIND,dragon_armored_ghost,dragon_armored_ghost_baby|dragon_armored_ghost,false
+926,D_EXSPIRAVIT,EXSPIRAVIT,TYRANT,SUPREME,E_TYRANT|E_LIGHT|E_SHADOW,dragon_exspiravit,dragon_exspiravit_baby|dragon_exspiravit,false
+927,D_TYRANNUS,TYRANNUS,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_LIGHT,dragon_tyrannus,dragon_tyrannus_baby|dragon_tyrannus,false
+928,D_PRISMA,PRISMA,TYRANT,SUPREME,E_TYRANT|E_LIGHT|E_VOID,dragon_prisma,dragon_prisma_baby|dragon_prisma,false
+929,D_AUREUM_LUMEN,AUREUM LUMEN,TYRANT,SUPREME,E_TYRANT|E_LIGHT|E_ENERGY,dragon_aureum_lumen,dragon_aureum_lumen_baby|dragon_aureum_lumen,false
+930,D_WISH,WISH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_SHADOW,dragon_wish,dragon_wish_baby|dragon_wish,false
+931,D_SABERTOOTH,SABERTOOTH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_EARTH,dragon_sabertooth,dragon_sabertooth_baby|dragon_sabertooth,false
+932,D_8TH_BIRTHDAY,8TH BIRTHDAY,PRIMAL,LEGENDARY,E_PRIMAL|E_METAL|E_ENERGY,dragon_8th_birthday,dragon_8th_birthday_baby|dragon_8th_birthday,false
+933,D_FLOS_VIRGO,FLOS VIRGO,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_LIGHT,dragon_flos_virgo,dragon_flos_virgo_baby|dragon_flos_virgo,false
+934,D_FERRIS_WHEEL,FERRIS WHEEL,EPIC,EPIC,E_ENERGY|E_METAL|E_EARTH,dragon_ferris_wheel,dragon_ferris_wheel_baby|dragon_ferris_wheel,false
+935,D_FROZEN_CORAL,FROZEN CORAL,EPIC,EPIC,E_PLANT|E_WATER|E_VOID,dragon_frozen_coral,dragon_frozen_coral_baby|dragon_frozen_coral,false
+936,D_PRIME_FROST,PRIME FROST,EPIC,EPIC,E_EARTH|E_WATER|E_LIGHT,dragon_prime_frost,dragon_prime_frost_baby|dragon_prime_frost,false
+937,D_ATRAMENTUM,ATRAMENTUM,RARE,EPIC,E_SHADOW|E_FIRE|E_ENERGY,dragon_atramentum,dragon_atramentum_baby|dragon_atramentum,false
+938,D_WATER_RABIT,WATER RABIT,EPIC,EPIC,E_WATER|E_WIND|E_LIGHT,dragon_water_rabit,dragon_water_rabit_baby|dragon_water_rabit,false
+939,D_ELIZA,ELIZA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WIND,dragon_eliza,dragon_eliza_baby|dragon_eliza,false
+940,D_MISHIYO,MISHIYO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_VOID,dragon_mishiyo,dragon_mishiyo_baby|dragon_mishiyo,false
+941,D_LI_MING,LI MING,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_FIRE,dragon_li_ming,dragon_li_ming_baby|dragon_li_ming,false
+942,D_CRYSTALLUM,CRYSTALLUM,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_VOID,dragon_crystallum,dragon_crystallum_baby|dragon_crystallum,false
+943,D_ANCIENT_SHADOW_METAL,ANCIENT SHADOW METAL,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_METAL,dragon_ancient_shadow_metal,dragon_ancient_shadow_metal_baby|dragon_ancient_shadow_metal,false
+944,D_PURPURA_EQUES,PURPURA EQUES,EPIC,EPIC,E_VOID|E_WATER|E_SHADOW,dragon_purpura_eques,dragon_purpura_eques_baby|dragon_purpura_eques,false
+945,D_CENTURION,CENTURION,EPIC,EPIC,E_METAL|E_EARTH|E_ENERGY,dragon_centurion,dragon_centurion_baby|dragon_centurion,false
+946,D_JADE_MONK,JADE MONK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WATER,dragon_jade_monk,dragon_jade_monk_baby|dragon_jade_monk,false
+947,D_RENEGADE,RENEGADE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_FIRE,dragon_renegade,dragon_renegade_baby|dragon_renegade,false
+948,D_BLAZING_SHADOW,BLAZING SHADOW,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_ENERGY,dragon_blazing_shadow,dragon_blazing_shadow_baby|dragon_blazing_shadow,false
+949,D_VALENTINES_DAY_2023,VALENTINES DAY 2023,EPIC,EPIC,E_LIGHT|E_VOID|E_PLANT,dragon_valentines_day_2023,dragon_valentines_day_2023_baby|dragon_valentines_day_2023,false
+950,D_MAGENTA,MAGENTA,RARE,EPIC,E_WIND|E_METAL|E_ENERGY,dragon_magenta,dragon_magenta_baby|dragon_magenta,false
+951,D_TYRANT_INVENTOR,TYRANT INVENTOR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_METAL,dragon_tyrant_inventor,dragon_tyrant_inventor_baby|dragon_tyrant_inventor,false
+952,D_VIDEA_LACERTA,VIDEA LACERTA,PRIMAL,LEGENDARY,E_PRIMAL|E_EARTH|E_LIGHT,dragon_videa_lacerta,dragon_videa_lacerta_baby|dragon_videa_lacerta,false
+953,D_VIRIDI_SIMIA,VIRIDI SIMIA,PRIMAL,LEGENDARY,E_PRIMAL|E_ENERGY|E_SHADOW,dragon_viridi_simia,dragon_viridi_simia_baby|dragon_viridi_simia,false
+954,D_WOMANS_DAY_2023,WOMANS DAY 2023,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_LIGHT,dragon_womans_day_2023,dragon_womans_day_2023_baby|dragon_womans_day_2023,false
+955,D_FROZEN_SHADOW_ELEMENTAL,FROZEN SHADOW ELEMENTAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WATER,dragon_frozen_shadow_elemental,dragon_frozen_shadow_elemental_baby|dragon_frozen_shadow_elemental,false
+956,D_RAINBOW_FLOWER,RAINBOW FLOWER,EPIC,EPIC,E_PLANT|E_EARTH|E_WIND,dragon_rainbow_flower,dragon_rainbow_flower_baby|dragon_rainbow_flower,false
+957,D_LEPRECHAUN,LEPRECHAUN,EPIC,EPIC,E_LIGHT|E_WIND|E_PLANT,dragon_leprechaun,dragon_leprechaun_baby|dragon_leprechaun,false
+958,D_CANIS_AUREUS,CANIS AUREUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_ENERGY,dragon_canis_aureus,dragon_canis_aureus_baby|dragon_canis_aureus,false
+959,D_MELTED_METAL,MELTED METAL,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_FIRE,dragon_melted_metal,dragon_melted_metal_baby|dragon_melted_metal,false
+960,D_TYRANT_SOLAR,TYRANT SOLAR,TYRANT,SUPREME,E_TYRANT|E_FIRE|E_VOID,dragon_tyrant_solar,dragon_tyrant_solar_baby|dragon_tyrant_solar,false
+961,D_TYRANT_LAVA_LAMP,TYRANT LAVA LAMP,TYRANT,SUPREME,E_TYRANT|E_FIRE|E_LIGHT,dragon_tyrant_lava_lamp,dragon_tyrant_lava_lamp_baby|dragon_tyrant_lava_lamp,false
+962,D_TYRANT_BURNING_WOOD,TYRANT BURNING WOOD,TYRANT,SUPREME,E_TYRANT|E_FIRE|E_PLANT,dragon_tyrant_burning_wood,dragon_tyrant_burning_wood_baby|dragon_tyrant_burning_wood,false
+963,D_TYRANT_WHITE_FLAME,TYRANT WHITE FLAME,TYRANT,SUPREME,E_TYRANT|E_FIRE|E_ENERGY,dragon_tyrant_white_flame,dragon_tyrant_white_flame_baby|dragon_tyrant_white_flame,false
+964,D_CIPACTLI,CIPACTLI,TYRANT,SUPREME,E_TYRANT|E_EARTH|E_PLANT,dragon_cipactli,dragon_cipactli_baby|dragon_cipactli,false
+965,D_BLUE_GOLD,BLUE GOLD,EPIC,EPIC,E_WATER|E_METAL|E_LIGHT,dragon_blue_gold,dragon_blue_gold_baby|dragon_blue_gold,false
+966,D_CRYSTAL_GORILLA,CRYSTAL GORILLA,EPIC,EPIC,E_ENERGY|E_VOID|E_PLANT,dragon_crystal_gorilla,dragon_crystal_gorilla_baby|dragon_crystal_gorilla,false
+967,D_ROBIN_HOOD,ROBIN HOOD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_METAL,dragon_robin_hood,dragon_robin_hood_baby|dragon_robin_hood,false
+968,D_FIREFIGHTER,FIREFIGHTER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_FIRE,dragon_firefighter,dragon_firefighter_baby|dragon_firefighter,false
+969,D_BLAZING_TOXIC,BLAZING TOXIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_VOID,dragon_blazing_toxic,dragon_blazing_toxic_baby|dragon_blazing_toxic,false
+970,D_BLUEBEARD,BLUEBEARD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WIND,dragon_bluebeard,dragon_bluebeard_baby|dragon_bluebeard,false
+971,D_HOODED_HONEYCOMB,HOODED HONEYCOMB,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_LIGHT,dragon_hooded_honeycomb,dragon_hooded_honeycomb_baby|dragon_hooded_honeycomb,false
+972,D_UMBRA_PRIMUS,UMBRA PRIMUS,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_WIND,dragon_umbra_primus,dragon_umbra_primus_baby|dragon_umbra_primus,false
+973,D_PRIMAL_GREEN_SNAKE,PRIMAL GREEN SNAKE,PRIMAL,LEGENDARY,E_PRIMAL|E_ENERGY|E_PLANT,dragon_primal_green_snake,dragon_primal_green_snake_baby|dragon_primal_green_snake,false
+974,D_MOTHERS_DAY_2023,MOTHERS DAY 2023,EPIC,EPIC,E_LIGHT|E_WATER|E_WIND,dragon_mothers_day_2023,dragon_mothers_day_2023_baby|dragon_mothers_day_2023,false
+975,D_WAR_CHIEF,WAR CHIEF,EPIC,EPIC,E_EARTH|E_METAL|E_WIND,dragon_war_chief,dragon_war_chief_baby|dragon_war_chief,false
+976,D_AFTERSHOCK,AFTERSHOCK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_LIGHT,dragon_aftershock,dragon_aftershock_baby|dragon_aftershock,false
+977,D_ANCIENT_WIND_LIGHT,ANCIENT WIND LIGHT,ANCIENT,SUPREME,E_ANCIENT|E_WIND|E_LIGHT,dragon_ancient_wind_light,dragon_ancient_wind_light_baby|dragon_ancient_wind_light,false
+978,D_ANCIENT_WATER_ENERGY_UPD64,ANCIENT WATER ENERGY UPD64,ANCIENT,SUPREME,E_ANCIENT|E_ENERGY|E_WATER,dragon_ancient_water_energy_upd64,dragon_ancient_water_energy_upd64_baby|dragon_ancient_water_energy_upd64,false
+979,D_ZEZASH,ZEZASH,EPIC,EPIC,E_VOID|E_EARTH|E_SHADOW,dragon_zezash,dragon_zezash_baby|dragon_zezash,false
+980,D_HOT_PEPPER,HOT PEPPER,EPIC,EPIC,E_ENERGY|E_FIRE|E_PLANT,dragon_hot_pepper,dragon_hot_pepper_baby|dragon_hot_pepper,false
+981,D_FOREST_FIRE,FOREST FIRE,EPIC,EPIC,E_PLANT|E_FIRE|E_LIGHT,dragon_forest_fire,dragon_forest_fire_baby|dragon_forest_fire,false
+982,D_KING_MIDAS,KING MIDAS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_LIGHT,dragon_king_midas,dragon_king_midas_baby|dragon_king_midas,false
+983,D_ELEMENTAL_ALPHA,ELEMENTAL ALPHA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_ENERGY,dragon_elemental_alpha,dragon_elemental_alpha_baby|dragon_elemental_alpha,false
+984,D_FACTORY,FACTORY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_METAL,dragon_factory,dragon_factory_baby|dragon_factory,false
+985,D_HANSEL_GRETEL,HANSEL GRETEL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_LIGHT,dragon_hansel_gretel,dragon_hansel_gretel_baby|dragon_hansel_gretel,false
+986,D_SCARLET_FLAME,SCARLET FLAME,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_FIRE,dragon_scarlet_flame,dragon_scarlet_flame_baby|dragon_scarlet_flame,false
+987,D_DARK_PALADIN,DARK PALADIN,EPIC,EPIC,E_SHADOW|E_ENERGY|E_VOID,dragon_dark_paladin,dragon_dark_paladin_baby|dragon_dark_paladin,false
+988,D_NASCAR,NASCAR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_FIRE,dragon_nascar,dragon_nascar_baby|dragon_nascar,false
+989,D_HARBINGER,HARBINGER,PRIMAL,LEGENDARY,E_PRIMAL|E_VOID|E_SHADOW,dragon_harbinger,dragon_harbinger_baby|dragon_harbinger,false
+990,D_CALAMITY,CALAMITY,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_FIRE,dragon_calamity,dragon_calamity_baby|dragon_calamity,false
+991,D_RUBY_02,RUBY 02,PRIMAL,LEGENDARY,E_PRIMAL|E_EARTH|E_METAL,dragon_ruby_02,dragon_ruby_02_baby|dragon_ruby_02,false
+992,D_CASTLE_RTXT_BASTILLE,CASTLE RTXT BASTILLE,EPIC,EPIC,E_EARTH|E_METAL|E_PLANT,dragon_castle_rtxt_bastille,dragon_castle_rtxt_bastille_baby|dragon_castle_rtxt_bastille,false
+993,D_HARLEQUIN_TOAD_GGJ,HARLEQUIN TOAD GGJ,RARE,EPIC,E_WATER|E_PLANT|E_EARTH,dragon_harlequin_toad_ggj,dragon_harlequin_toad_ggj_baby|dragon_harlequin_toad_ggj,false
+994,D_MANTA_RAY_GGJ,MANTA RAY GGJ,EPIC,EPIC,E_WATER|E_VOID|E_SHADOW,dragon_manta_ray_ggj,dragon_manta_ray_ggj_baby|dragon_manta_ray_ggj,false
+995,D_PUSS_IN_BOOTS,PUSS IN BOOTS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_PLANT,dragon_puss_in_boots,dragon_puss_in_boots_baby|dragon_puss_in_boots,false
+996,D_ALI_BABA,ALI BABA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_FIRE,dragon_ali_baba,dragon_ali_baba_baby|dragon_ali_baba,false
+997,D_UGLY_DUCKLING,UGLY DUCKLING,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_LIGHT,dragon_ugly_duckling,dragon_ugly_duckling_baby|dragon_ugly_duckling,false
+998,D_SPARTAN,SPARTAN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_FIRE,dragon_spartan,dragon_spartan_baby|dragon_spartan,false
+999,D_ALBINO,ALBINO,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WIND,dragon_albino,dragon_albino_baby|dragon_albino,false
+1000,D_TYRANT_LEGENDARY_WATER,TYRANT LEGENDARY WATER,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_WATER,dragon_tyrant_legendary_water,dragon_tyrant_legendary_water_baby|dragon_tyrant_legendary_water,false
+1001,D_TYRANT_WATER_EARTH,TYRANT WATER EARTH,TYRANT,SUPREME,E_TYRANT|E_WATER|E_EARTH,dragon_tyrant_water_earth,dragon_tyrant_water_earth_baby|dragon_tyrant_water_earth,false
+1002,D_TYRANT_WATER_ENERGY,TYRANT WATER ENERGY,TYRANT,SUPREME,E_TYRANT|E_WATER|E_ENERGY,dragon_tyrant_water_energy,dragon_tyrant_water_energy_baby|dragon_tyrant_water_energy,false
+1003,D_TYRANT_WATER_VOID,TYRANT WATER VOID,TYRANT,SUPREME,E_TYRANT|E_WATER|E_VOID,dragon_tyrant_water_void,dragon_tyrant_water_void_baby|dragon_tyrant_water_void,false
+1004,D_TYRANT_WATER_SHADOW,TYRANT WATER SHADOW,TYRANT,SUPREME,E_TYRANT|E_WATER|E_SHADOW,dragon_tyrant_water_shadow,dragon_tyrant_water_shadow_baby|dragon_tyrant_water_shadow,false
+1005,D_SUPERNOVA,SUPERNOVA,EPIC,EPIC,E_VOID|E_LIGHT|E_SHADOW,dragon_supernova,dragon_supernova_baby|dragon_supernova,false
+1006,D_STEGOSAURUS,STEGOSAURUS,EPIC,EPIC,E_EARTH|E_PLANT|E_FIRE,dragon_stegosaurus,dragon_stegosaurus_baby|dragon_stegosaurus,false
+1007,D_BLIZZARD,BLIZZARD,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_WIND,dragon_blizzard,dragon_blizzard_baby|dragon_blizzard,false
+1008,D_DILOPHOSAURUS,DILOPHOSAURUS,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_FIRE,dragon_dilophosaurus,dragon_dilophosaurus_baby|dragon_dilophosaurus,false
+1009,D_FOXBIRD,FOXBIRD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WIND,dragon_foxbird,dragon_foxbird_baby|dragon_foxbird,false
+1010,D_JAPANESE_OBON,JAPANESE OBON,EPIC,EPIC,E_FIRE|E_LIGHT|E_SHADOW,dragon_japanese_obon,dragon_japanese_obon_baby|dragon_japanese_obon,false
+1011,D_TRUE_JADE,TRUE JADE,RARE,EPIC,E_EARTH|E_METAL|E_LIGHT,dragon_true_jade,dragon_true_jade_baby|dragon_true_jade,false
+1012,D_BACK_TO_SCHOOL_2023,BACK TO SCHOOL 2023,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_LIGHT,dragon_back_to_school_2023,dragon_back_to_school_2023_baby|dragon_back_to_school_2023,false
+1013,D_AUTUMN_FOREST,AUTUMN FOREST,RARE,EPIC,E_PLANT|E_EARTH|E_LIGHT,dragon_autumn_forest,dragon_autumn_forest_baby|dragon_autumn_forest,false
+1014,D_ASH_MOTH,ASH MOTH,EPIC,EPIC,E_SHADOW|E_WIND|E_PLANT,dragon_ash_moth,dragon_ash_moth_baby|dragon_ash_moth,false
+1015,D_SIR_GIRAFFE,SIR GIRAFFE,EPIC,EPIC,E_FIRE|E_LIGHT|E_ENERGY,dragon_sir_giraffe,dragon_sir_giraffe_baby|dragon_sir_giraffe,false
+1016,D_UKRAINE_INDEPENDENCE,UKRAINE INDEPENDENCE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_PLANT,dragon_ukraine_independence,dragon_ukraine_independence_baby|dragon_ukraine_independence,false
+1017,D_SNOW_LEOPARD_GGJ,SNOW LEOPARD GGJ,EPIC,EPIC,E_EARTH|E_WIND|E_LIGHT,dragon_snow_leopard_ggj,dragon_snow_leopard_ggj_baby|dragon_snow_leopard_ggj,false
+1018,D_GOLDEN_THORNS_RTXT_BLUE_RHOMBUS,GOLDEN THORNS RTXT BLUE RHOMBUS,EPIC,EPIC,E_SHADOW|E_METAL|E_VOID,dragon_retexture_01,dragon_retexture_01_baby|dragon_retexture_01,false
+1019,D_GARDENER_RTXT_FRUITER,GARDENER RTXT FRUITER,EPIC,EPIC,E_ENERGY|E_SHADOW|E_PLANT,dragon_retexture_02,dragon_retexture_02_baby|dragon_retexture_02,false
+1020,D_VOID_VIPER_RTXT_WATER_VIPER,VOID VIPER RTXT WATER VIPER,RARE,EPIC,E_VOID|E_WATER|E_PLANT,dragon_retexture_03,dragon_retexture_03_baby|dragon_retexture_03,false
+1021,D_AXOLOTL_LUCY_AND_LEMON,AXOLOTL LUCY AND LEMON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_LIGHT,dragon_lucy_and_lemon,dragon_lucy_and_lemon_baby|dragon_lucy_and_lemon,false
+1022,D_NEBUCHADNEZZAR,NEBUCHADNEZZAR,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_PLANT,dragon_nebuchadnezzar,dragon_nebuchadnezzar_baby|dragon_nebuchadnezzar,false
+1023,D_ANCIENT_VOID,ANCIENT VOID,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_SHADOW,dragon_ancient_void,dragon_ancient_void_baby|dragon_ancient_void,false
+1024,D_TOTAL_VOID,TOTAL VOID,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_VOID,dragon_total_void,dragon_total_void_baby|dragon_total_void,false
+1025,D_ALPACA,ALPACA,EPIC,EPIC,E_LIGHT|E_WIND|E_EARTH,dragon_alpaca,dragon_alpaca_baby|dragon_alpaca,false
+1026,D_LIONFISH,LIONFISH,EPIC,EPIC,E_WATER|E_PLANT|E_SHADOW,dragon_lionfish,dragon_lionfish_baby|dragon_lionfish,false
+1027,D_HAMSA,HAMSA,EPIC,EPIC,E_LIGHT|E_METAL|E_WATER,dragon_hamsa,dragon_hamsa_baby|dragon_hamsa,false
+1028,D_AIRPLANE,AIRPLANE,EPIC,EPIC,E_WIND|E_METAL|E_LIGHT,dragon_airplane,dragon_airplane_baby|dragon_airplane,false
+1029,D_CYBERPUNK,CYBERPUNK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_LIGHT,dragon_cyberpunk,dragon_cyberpunk_baby|dragon_cyberpunk,false
+1030,D_GECKO,GECKO,EPIC,EPIC,E_LIGHT|E_EARTH|E_FIRE,dragon_gecko,dragon_gecko_baby|dragon_gecko,false
+1031,D_RED_HOOD,RED HOOD,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_WATER,dragon_red_hood,dragon_red_hood_baby|dragon_red_hood,false
+1032,D_COBRA,COBRA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_LIGHT,dragon_cobra,dragon_cobra_baby|dragon_cobra,false
+1033,D_DETECTIVE,DETECTIVE,RARE,EPIC,E_FIRE|E_SHADOW|E_EARTH,dragon_detective,dragon_detective_baby|dragon_detective,false
+1034,D_EVIL_MUSHROOM,EVIL MUSHROOM,EPIC,EPIC,E_PLANT|E_EARTH|E_VOID,dragon_evil_mushroom,dragon_evil_mushroom_baby|dragon_evil_mushroom,false
+1035,D_SEA_SHEEP,SEA SHEEP,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_PLANT,dragon_sea_sheep,dragon_sea_sheep_baby|dragon_sea_sheep,false
+1036,D_THANKSGIVING,THANKSGIVING,EPIC,EPIC,E_PLANT|E_EARTH|E_LIGHT,dragon_thanksgiving,dragon_thanksgiving_baby|dragon_thanksgiving,false
+1037,D_STEREOPHILE,STEREOPHILE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_ENERGY,dragon_stereophile,dragon_stereophile_baby|dragon_stereophile,false
+1038,D_MEGALODON,MEGALODON,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_SHADOW,dragon_megalodon,dragon_megalodon_baby|dragon_megalodon,false
+1039,D_CASSOWARY,CASSOWARY,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_PLANT,dragon_cassowary,dragon_cassowary_baby|dragon_cassowary,false
+1040,D_GHOST_KNIGHT,GHOST KNIGHT,EPIC,EPIC,E_SHADOW|E_WIND|E_METAL,dragon_ghost_knight,dragon_ghost_knight_baby|dragon_ghost_knight,false
+1041,D_COLDNEON,COLDNEON,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_LIGHT,dragon_coldneon,dragon_coldneon_baby|dragon_coldneon,false
+1042,D_TYRANT_ENERGY_EARTH,TYRANT ENERGY EARTH,TYRANT,SUPREME,E_TYRANT|E_ENERGY|E_EARTH,dragon_tyrant_energy_earth,dragon_tyrant_energy_earth_baby|dragon_tyrant_energy_earth,false
+1043,D_TYRANT_ENERGY_VOID,TYRANT ENERGY VOID,TYRANT,SUPREME,E_TYRANT|E_ENERGY|E_VOID,dragon_tyrant_energy_void,dragon_tyrant_energy_void_baby|dragon_tyrant_energy_void,false
+1044,D_TYRANT_LEGENDARY_ENERGY,TYRANT LEGENDARY ENERGY,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_ENERGY,dragon_tyrant_legendary_energy,dragon_tyrant_legendary_energy_baby|dragon_tyrant_legendary_energy,false
+1045,D_TYRANT_ENERGY_SHADOW,TYRANT ENERGY SHADOW,TYRANT,SUPREME,E_TYRANT|E_ENERGY|E_SHADOW,dragon_tyrant_energy_shadow,dragon_tyrant_energy_shadow_baby|dragon_tyrant_energy_shadow,false
+1046,D_TYRANT_ENERGY_WIND,TYRANT ENERGY WIND,TYRANT,SUPREME,E_TYRANT|E_ENERGY|E_WIND,dragon_tyrant_energy_wind,dragon_tyrant_energy_wind_baby|dragon_tyrant_energy_wind,false
+1047,D_FROG_PRINCE,FROG PRINCE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_EARTH,dragon_dom_frog_prince,dragon_dom_frog_prince_baby|dragon_dom_frog_prince,false
+1048,D_BLIND,BLIND,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_FIRE,dragon_blind,dragon_blind_baby|dragon_blind,false
+1049,D_OLD_ROBOT,OLD ROBOT,EPIC,EPIC,E_METAL|E_VOID|E_WATER,dragon_old_robot,dragon_old_robot_baby|dragon_old_robot,false
+1050,D_LIANA,LIANA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_PLANT,dragon_liana,dragon_liana_baby|dragon_liana,false
+1051,D_LIQUID,LIQUID,EPIC,EPIC,E_FIRE|E_LIGHT|E_WATER,dragon_liquid,dragon_liquid_baby|dragon_liquid,false
+1052,D_ECOROBOT,ECOROBOT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_ENERGY,dragon_ecorobot,dragon_ecorobot_baby|dragon_ecorobot,false
+1053,D_HOCKEY_PLAYER,HOCKEY PLAYER,EPIC,EPIC,E_ENERGY|E_LIGHT|E_FIRE,dragon_hockey_player,dragon_hockey_player_baby|dragon_hockey_player,false
+1054,D_SKIER,SKIER,EPIC,EPIC,E_WIND|E_PLANT|E_WATER,dragon_skier,dragon_skier_baby|dragon_skier,false
+1055,D_SKI_ELEVATOR,SKI ELEVATOR,EPIC,EPIC,E_SHADOW|E_METAL|E_EARTH,dragon_ski_elevator,dragon_ski_elevator_baby|dragon_ski_elevator,false
+1056,D_SNOWBOARDER,SNOWBOARDER,EPIC,EPIC,E_WIND|E_ENERGY|E_VOID,dragon_snowboarder,dragon_snowboarder_baby|dragon_snowboarder,false
+1057,D_GRIFFIN,GRIFFIN,PRIMAL,LEGENDARY,E_PRIMAL|E_WIND|E_VOID,dragon_griffin,dragon_griffin_baby|dragon_griffin,false
+1058,D_SNOW_QUEEN23,SNOW QUEEN23,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WIND,dragon_snow_queen23,dragon_snow_queen_baby23|dragon_snow_queen23,false
+1059,D_BLACK_WATER_RABBIT,BLACK WATER RABBIT,EPIC,EPIC,E_WATER|E_EARTH|E_SHADOW,dragon_black_water_rabbit,dragon_black_water_rabbit_baby|dragon_black_water_rabbit,false
+1060,D_ANCIENT_WIND_WATER,ANCIENT WIND WATER,ANCIENT,SUPREME,E_ANCIENT|E_WIND|E_WATER,dragon_wind_water,dragon_ancient_wind_water_baby|dragon_wind_water,false
+1061,D_ANCIENT_WATER_SHADOW,ANCIENT WATER SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_WATER|E_SHADOW,dragon_ancient_water_shadow,dragon_ancient_water_shadow_baby|dragon_ancient_water_shadow,false
+1062,D_ANCIENT_DIVINE_WATER_UPD68,ANCIENT DIVINE WATER UPD68,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_WATER,dragon_ancient_divine_water_upd68,dragon_ancient_divine_water_upd68_baby|dragon_ancient_divine_water_upd68,false
+1063,D_GOLDEN_GOOSE,GOLDEN GOOSE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WIND,dragon_golden_goose,dragon_golden_goose_baby|dragon_golden_goose,false
+1064,D_BEANSTALK,BEANSTALK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_VOID,dragon_beanstalk,dragon_beanstalk_baby|dragon_beanstalk,false
+1065,D_9TH_BIRTHDAY,9TH BIRTHDAY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_EARTH,dragon_9th_birthday,dragon_9th_birthday_baby|dragon_9th_birthday,false
+1066,D_CHINESE_NEW_YEAR_2024,CHINESE NEW YEAR 2024,EPIC,EPIC,E_EARTH|E_PLANT|E_WATER,dragon_chinese_new_year_2024,dragon_chinese_new_year_2024_baby|dragon_chinese_new_year_2024,false
+1067,D_SHARP_VOID,SHARP VOID,PRIMAL,LEGENDARY,E_PRIMAL|E_ENERGY|E_VOID,dragon_sharp_void,dragon_sharp_void_baby|dragon_sharp_void,false
+1068,D_ONE_EYE,ONE EYE,PRIMAL,LEGENDARY,E_PRIMAL|E_METAL|E_LIGHT,dragon_one_eye,dragon_one_eye_baby|dragon_one_eye,false
+1069,D_PAPER_BAG,PAPER BAG,EPIC,EPIC,E_FIRE|E_SHADOW|E_WIND,dragon_paper_bag,dragon_paper_bag_baby|dragon_paper_bag,false
+1070,D_CHESHIR,CHESHIR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_VOID,dragon_cheshir,dragon_cheshir_baby|dragon_cheshir,false
+1071,D_VALENTINE_2024M,VALENTINE 2024M,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_EARTH,dragon_valentine_2024m,dragon_valentine_2024m_baby|dragon_valentine_2024m,false
+1072,D_VALENTINE_2024F,VALENTINE 2024F,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WIND,dragon_valentine_2024f,dragon_valentine_2024f_baby|dragon_valentine_2024f,false
+1073,D_CANDLE,CANDLE,EPIC,EPIC,E_FIRE|E_METAL|E_VOID,dragon_candle,dragon_candle_baby|dragon_candle,false
+1074,D_GARDEN_GNOME,GARDEN GNOME,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_FIRE,dragon_garden_gnome,dragon_garden_gnome_baby|dragon_garden_gnome,false
+1075,D_SOCK,SOCK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_LIGHT,dragon_sock,dragon_sock_baby|dragon_sock,false
+1076,D_COMMUNITY,COMMUNITY,EPIC,EPIC,E_LIGHT|E_ENERGY|E_METAL,dragon_community,dragon_community_baby|dragon_community,false
+1077,D_YOUTUBER_DRAW,YOUTUBER DRAW,EPIC,EPIC,E_FIRE|E_WATER|E_LIGHT,dragon_youtuber_draw,dragon_youtuber_draw_baby|dragon_youtuber_draw,false
+1078,D_TYRANT_ANCIENT_PLANT,TYRANT ANCIENT PLANT,TYRANT,SUPREME,E_TYRANT|E_ANCIENT|E_PLANT,dragon_tyrant_ancient_plant,dragon_tyrant_ancient_plant_baby|dragon_tyrant_ancient_plant,false
+1079,D_TYRANT_PLANT_WATER,TYRANT PLANT WATER,TYRANT,SUPREME,E_TYRANT|E_PLANT|E_WATER,dragon_tyrant_plant_water,dragon_tyrant_plant_water_baby|dragon_tyrant_plant_water,false
+1080,D_TYRANT_PLANT_LIGHT,TYRANT PLANT LIGHT,TYRANT,SUPREME,E_TYRANT|E_PLANT|E_LIGHT,dragon_tyrant_plant_light,dragon_tyrant_plant_light_baby|dragon_tyrant_plant_light,false
+1081,D_TYRANT_PLANT_METAL,TYRANT PLANT METAL,TYRANT,SUPREME,E_TYRANT|E_PLANT|E_METAL,dragon_tyrant_plant_metal,dragon_tyrant_plant_metal_baby|dragon_tyrant_plant_metal,false
+1082,D_TYRANT_PLANT_WIND,TYRANT PLANT WIND,TYRANT,SUPREME,E_TYRANT|E_PLANT|E_WIND,dragon_tyrant_plant_wind,dragon_tyrant_plant_wind_baby|dragon_tyrant_plant_wind,false
+1083,D_TYRANT_PLANT_VOID,TYRANT PLANT VOID,TYRANT,SUPREME,E_TYRANT|E_PLANT|E_VOID,dragon_tyrant_plant_void,dragon_tyrant_plant_void_baby|dragon_tyrant_plant_void,false
+1084,D_ROCKER,ROCKER,PRIMAL,LEGENDARY,E_PRIMAL|E_METAL|E_FIRE,dragon_rocker,dragon_rocker_baby|dragon_rocker,false
+1085,D_PREHISTORIC,PREHISTORIC,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_EARTH,dragon_prehistoric,dragon_prehistoric_baby|dragon_prehistoric,false
+1086,D_DIAMOND_DOM,DIAMOND DOM,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WIND,dragon_diamond_dom,dragon_diamond_dom_baby|dragon_diamond_dom,false
+1087,D_AQUAMARINE,AQUAMARINE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_METAL,dragon_aquamarine,dragon_aquamarine_baby|dragon_aquamarine,false
+1088,D_PEARL,PEARL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_ENERGY,dragon_pearl,dragon_pearl_baby|dragon_pearl,false
+1089,D_MUSICIAN,MUSICIAN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_VOID,dragon_musician,dragon_musician_baby|dragon_musician,false
+1090,D_MODEL,MODEL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_LIGHT,dragon_model,dragon_model_baby|dragon_model,false
+1091,D_EASTER_2024,EASTER 2024,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_PLANT,dragon_easter_2024,dragon_easter_2024_baby|dragon_easter_2024,false
+1092,D_MOTHERS_DAY_2024,MOTHERS DAY 2024,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_WIND,dragon_mothers_day_2024,dragon_mothers_day_2024_baby|dragon_mothers_day_2024,false
+1093,D_OWLBEAR,OWLBEAR,EPIC,EPIC,E_EARTH|E_VOID|E_SHADOW,dragon_owlbear,dragon_owlbear_baby|dragon_owlbear,false
+1094,D_ROSESHIP,ROSESHIP,EPIC,EPIC,E_FIRE|E_VOID|E_PLANT,dragon_roseship,dragon_roseship_baby|dragon_roseship,false
+1095,D_POP_STAR,POP STAR,EPIC,EPIC,E_ENERGY|E_LIGHT|E_METAL,dragon_pop_star,dragon_pop_star_baby|dragon_pop_star,false
+1096,D_ANCIENT_FIRE_METAL,ANCIENT FIRE METAL,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_METAL,dragon_ancient_fire_metal,dragon_ancient_fire_metal_baby|dragon_ancient_fire_metal,false
+1097,D_ANCIENT_ENERGY_SHADOW,ANCIENT ENERGY SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_ENERGY|E_SHADOW,dragon_ancient_energy_shadow,dragon_ancient_energy_shadow_baby|dragon_ancient_energy_shadow,false
+1098,D_ANCIENT_FIRE_LIGHT,ANCIENT FIRE LIGHT,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_LIGHT,dragon_ancient_fire_light,dragon_ancient_fire_light_baby|dragon_ancient_fire_light,false
+1099,D_ANCIENT_TYRANT_FIRE,ANCIENT TYRANT FIRE,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_FIRE,dragon_ancient_tyrant_fire,dragon_ancient_tyrant_fire_baby|dragon_ancient_tyrant_fire,false
+1100,D_AMETHYST,AMETHYST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_VOID,dragon_amethyst,dragon_amethyst_baby|dragon_amethyst,false
+1101,D_YELLOW_TOPAZ,YELLOW TOPAZ,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_SHADOW,dragon_yellow_topaz,dragon_yellow_topaz_baby|dragon_yellow_topaz,false
+1102,D_MONSTRO_CAT,MONSTRO CAT,EPIC,EPIC,E_FIRE|E_VOID|E_SHADOW,dragon_monstro_cat,dragon_monstro_cat_baby|dragon_monstro_cat,false
+1103,D_AFROBOT,AFROBOT,EPIC,EPIC,E_EARTH|E_PLANT|E_METAL,dragon_afrobot,dragon_afrobot_baby|dragon_afrobot,false
+1104,D_VOLCANO,VOLCANO,PRIMAL,LEGENDARY,E_PRIMAL|E_VOID|E_FIRE,dragon_volcano,dragon_volcano_baby|dragon_volcano,false
+1105,D_TIKI_2024,TIKI 2024,PRIMAL,LEGENDARY,E_PRIMAL|E_PLANT|E_WATER,dragon_tiki_2024,dragon_tiki_2024_baby|dragon_tiki_2024,false
+1106,D_DANCER,DANCER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_EARTH,dragon_dancer,dragon_dancer_baby|dragon_dancer,false
+1107,D_PHRYGE,PHRYGE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_ENERGY,dragon_phryge,dragon_phryge_baby|dragon_phryge,false
+1108,D_HAWAII,HAWAII,EPIC,EPIC,E_LIGHT|E_FIRE|E_PLANT,dragon_hawaii,dragon_hawaii_baby|dragon_hawaii,false
+1109,D_STRANGE,STRANGE,EPIC,EPIC,E_ENERGY|E_WIND|E_VOID,dragon_strange,dragon_strange_baby|dragon_strange,false
+1110,D_HIGH_FASH,HIGH FASH,EPIC,EPIC,E_LIGHT|E_WATER|E_WIND,dragon_high_fash,dragon_high_fash_baby|dragon_high_fash,false
+1111,D_USA_2024,USA 2024,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_METAL,dragon_usa_2024,dragon_usa_2024_baby|dragon_usa_2024,false
+1112,D_BLUE_SEA,BLUE SEA,EPIC,EPIC,E_WATER|E_VOID|E_SHADOW,dragon_blue_sea,dragon_blue_sea_baby|dragon_blue_sea,false
+1113,D_LIGHTBRINGER,LIGHTBRINGER,EPIC,EPIC,E_METAL|E_LIGHT|E_ENERGY,dragon_agave,dragon_agave_baby|dragon_agave,false
+1114,D_TAEKWONDO,TAEKWONDO,PRIMAL,LEGENDARY,E_PRIMAL|E_EARTH|E_ENERGY,dragon_taekwondo,dragon_taekwondo_baby|dragon_taekwondo,false
+1115,D_INSUSRER_01,INSUSRER 01,EPIC,EPIC,E_EARTH|E_ENERGY|E_METAL,dragon_einstein,dragon_einstein_baby|dragon_einstein,false
+1116,D_INSUSRER_02,INSUSRER 02,RARE,EPIC,E_FIRE|E_EARTH|E_WATER,dragon_agave,dragon_agave_baby|dragon_agave,false
+1117,D_INSUSRER_03,INSUSRER 03,RARE,EPIC,E_FIRE|E_EARTH|E_WATER,dragon_agave,dragon_agave_baby|dragon_agave,false
+1118,D_TYRANT_VOID_WIND,TYRANT VOID WIND,TYRANT,SUPREME,E_TYRANT|E_VOID|E_WIND,dragon_tyrant_void_wind,dragon_tyrant_void_wind_baby|dragon_tyrant_void_wind,false
+1119,D_TYRANT_VOID_EARTH,TYRANT VOID EARTH,TYRANT,SUPREME,E_TYRANT|E_VOID|E_EARTH,dragon_tyrant_void_earth,dragon_tyrant_void_earth_baby|dragon_tyrant_void_earth,false
+1120,D_TYRANT_VOID_SHADOW,TYRANT VOID SHADOW,TYRANT,SUPREME,E_TYRANT|E_VOID|E_SHADOW,dragon_tyrant_void_shadow,dragon_tyrant_void_shadow_baby|dragon_tyrant_void_shadow,false
+1121,D_TYRANT_VOID_LIGHT,TYRANT VOID LIGHT,TYRANT,SUPREME,E_TYRANT|E_VOID|E_LIGHT,dragon_tyrant_void_light,dragon_tyrant_void_light_baby|dragon_tyrant_void_light,false
+1122,D_TYRANT_LEGENDARY_VOID,TYRANT LEGENDARY VOID,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_VOID,dragon_tyrant_legendary_void,dragon_tyrant_legendary_void_baby|dragon_tyrant_legendary_void,false
+1123,D_TYRANT_VOID_FIRE,TYRANT VOID FIRE,TYRANT,SUPREME,E_TYRANT|E_VOID|E_FIRE,dragon_tyrant_void_fire,dragon_tyrant_void_fire_baby|dragon_tyrant_void_fire,false
+1124,D_TANZANITE,TANZANITE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_VOID,dragon_tanzanite,dragon_tanzanite_baby|dragon_tanzanite,false
+1125,D_GARNET_2,GARNET 2,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_SHADOW,dragon_garnet2,dragon_garnet2_baby|dragon_garnet2,false
+1126,D_PALULUKAN,PALULUKAN,PRIMAL,LEGENDARY,E_PRIMAL|E_LIGHT|E_VOID,dragon_palulukan,dragon_palulukan_baby|dragon_palulukan,false
+1127,D_SCIENTIST,SCIENTIST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_METAL,dragon_scientist,dragon_scientist_baby|dragon_scientist,false
+1128,D_HOGWARTS,HOGWARTS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_WIND,dragon_hogwarts,dragon_hogwarts_baby|dragon_hogwarts,false
+1129,D_GLOBE,GLOBE,EPIC,EPIC,E_WATER|E_EARTH|E_PLANT,dragon_globe,dragon_globe_baby|dragon_globe,false
+1130,D_BOMBER,BOMBER,EPIC,EPIC,E_ENERGY|E_WIND|E_LIGHT,dragon_bomber,dragon_bomber_baby|dragon_bomber,false
+1131,D_MAGIC_DEER,MAGIC DEER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_VOID,dragon_magic_deer,dragon_magic_deer_baby|dragon_magic_deer,false
+1132,D_FLUFFY,FLUFFY,EPIC,EPIC,E_SHADOW|E_FIRE|E_EARTH,dragon_fluffy,dragon_fluffy_baby|dragon_fluffy,false
+1133,D_BATTERY,BATTERY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_METAL,dragon_battery,dragon_battery_baby|dragon_battery,false
+1134,D_ANCIENT_EARTH_METAL_72,ANCIENT EARTH METAL 72,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_METAL,dragon_ancient_earth_metal_72,dragon_ancient_earth_metal_72_baby|dragon_ancient_earth_metal_72,false
+1135,D_ANCIENT_LIGHT_PLANT,ANCIENT LIGHT PLANT,ANCIENT,SUPREME,E_ANCIENT|E_LIGHT|E_PLANT,dragon_ancient_light_plant,dragon_ancient_light_plant_baby|dragon_ancient_light_plant,false
+1136,D_ANCIENT_WATER_METAL,ANCIENT WATER METAL,ANCIENT,SUPREME,E_ANCIENT|E_WATER|E_METAL,dragon_ancient_water_metal,dragon_ancient_water_metal_baby|dragon_ancient_water_metal,false
+1137,D_ANCIENT_LIGHT_VOID,ANCIENT LIGHT VOID,ANCIENT,SUPREME,E_ANCIENT|E_LIGHT|E_VOID,dragon_ancient_light_void,dragon_ancient_light_void_baby|dragon_ancient_light_void,false
+1138,D_OPAL,OPAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_EARTH,dragon_opal,dragon_opal_baby|dragon_opal,false
+1139,D_HEART_QUEEN,HEART QUEEN,EPIC,EPIC,E_FIRE|E_ENERGY|E_SHADOW,dragon_heart_queen,dragon_heart_queen_baby|dragon_heart_queen,false
+1140,D_BRIONY,BRIONY,EPIC,EPIC,E_LIGHT|E_WATER|E_PLANT,dragon_briony,dragon_briony_baby|dragon_briony,false
+1141,D_LIGHT_FISH,LIGHT FISH,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_WATER,dragon_light_fish,dragon_light_fish_baby|dragon_light_fish,false
+1142,D_SABERTOOTH_PRIMAL,SABERTOOTH PRIMAL,PRIMAL,LEGENDARY,E_PRIMAL|E_FIRE|E_EARTH,dragon_sabertooth_primal,dragon_sabertooth_primal_baby|dragon_sabertooth_primal,false
+1143,D_SHOPAHOLIC,SHOPAHOLIC,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WIND,dragon_shopaholic,dragon_shopaholic_baby|dragon_shopaholic,false
+1144,D_CLOWN,CLOWN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_SHADOW,dragon_clown,dragon_clown_baby|dragon_clown,false
+1145,D_EINSTEIN,EINSTEIN,EPIC,EPIC,E_EARTH|E_ENERGY|E_METAL,dragon_einstein,dragon_einstein_baby|dragon_einstein,false
+1146,D_DISCOUNT,DISCOUNT,EPIC,EPIC,E_WIND|E_PLANT|E_VOID,dragon_discount,dragon_discount_baby|dragon_discount,false
+1147,D_MONEY,MONEY,EPIC,EPIC,E_METAL|E_LIGHT|E_SHADOW,dragon_money,dragon_money_baby|dragon_money,false
+1148,D_YO_KAI,YO KAI,DIVINE,SUPREME,E_FIRE|E_EARTH|E_WATER,dragon_yo_kai,dragon_yo_kai_baby|dragon_yo_kai,false
+1149,D_SAKURA,SAKURA,EPIC,EPIC,E_PLANT|E_LIGHT|E_WIND,dragon_sakura,dragon_sakura_baby|dragon_sakura,false
+1150,D_FLAME_WOLF,FLAME WOLF,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_VOID,dragon_flame_wolf,dragon_flame_wolf_baby|dragon_flame_wolf,false
+1151,D_PARALYMPIC,PARALYMPIC,EPIC,EPIC,E_METAL|E_WIND|E_EARTH,dragon_paralympic,dragon_paralympic_baby|dragon_paralympic,false
+1152,D_BRAIN_DRAGON,BRAIN DRAGON,EPIC,EPIC,E_VOID|E_ENERGY|E_LIGHT,dragon_brain_dragon,dragon_brain_dragon_baby|dragon_brain_dragon,false
+1153,D_TYRANT_SHADOW_PLANT,TYRANT SHADOW PLANT,TYRANT,SUPREME,E_TYRANT|E_SHADOW|E_PLANT,dragon_tyrant_shadow_plant,dragon_tyrant_shadow_plant_baby|dragon_tyrant_shadow_plant,false
+1154,D_TYRANT_SHADOW_WIND,TYRANT SHADOW WIND,TYRANT,SUPREME,E_TYRANT|E_SHADOW|E_WIND,dragon_tyrant_shadow_wind,dragon_tyrant_shadow_wind_baby|dragon_tyrant_shadow_wind,false
+1155,D_TYRANT_SHADOW_EARTH,TYRANT SHADOW EARTH,TYRANT,SUPREME,E_TYRANT|E_SHADOW|E_EARTH,dragon_tyrant_shadow_earth,dragon_tyrant_shadow_earth_baby|dragon_tyrant_shadow_earth,false
+1156,D_TYRANT_SHADOW_FIRE,TYRANT SHADOW FIRE,TYRANT,SUPREME,E_TYRANT|E_SHADOW|E_FIRE,dragon_tyrant_shadow_fire,dragon_tyrant_shadow_fire_baby|dragon_tyrant_shadow_fire,false
+1157,D_TYRANT_FABLED_SHADOW,TYRANT FABLED SHADOW,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_SHADOW,dragon_tyrant_fabled_shadow,dragon_tyrant_fabled_shadow_baby|dragon_tyrant_fabled_shadow,false
+1158,D_TYRANT_SHADOW_METAL,TYRANT SHADOW METAL,TYRANT,SUPREME,E_TYRANT|E_SHADOW|E_METAL,dragon_tyrant_shadow_metal,dragon_tyrant_shadow_metal_baby|dragon_tyrant_shadow_metal,false
+1159,D_SHANGDI,SHANGDI,DIVINE,SUPREME,E_DIVINE|E_PLANT|E_ENERGY,dragon_shangdi,dragon_shangdi_baby|dragon_shangdi,false
+1160,D_PERIDOT,PERIDOT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_PLANT,dragon_peridot,dragon_peridot_baby|dragon_peridot,false
+1161,D_SAPPHIRE,SAPPHIRE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WATER,dragon_sapphire,dragon_sapphire_baby|dragon_sapphire,false
+1162,D_MRS_CLAUS,MRS CLAUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_ENERGY,dragon_mrs_claus,dragon_mrs_claus_baby|dragon_mrs_claus,false
+1163,D_XMAS_COCOA,XMAS COCOA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WIND,dragon_xmas_cocoa,dragon_xmas_cocoa_baby|dragon_xmas_cocoa,false
+1164,D_XMAS_WREATH,XMAS WREATH,EPIC,EPIC,E_PLANT|E_EARTH|E_SHADOW,dragon_xmas_wreath,dragon_xmas_wreath_baby|dragon_xmas_wreath,false
+1165,D_HOBGOBBLER,HOBGOBBLER,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_EARTH,dragon_hobgobbler,dragon_hobgobbler_baby|dragon_hobgobbler,false
+1166,D_XMAS_GNOME,XMAS GNOME,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_LIGHT,dragon_xmas_gnome,dragon_xmas_gnome_baby|dragon_xmas_gnome,false
+1167,D_CHRISTMAS_CANDLE,CHRISTMAS CANDLE,EPIC,EPIC,E_FIRE|E_LIGHT|E_METAL,dragon_christmas_candle,dragon_christmas_candle_baby|dragon_christmas_candle,false
+1168,D_PRISM,PRISM,COMMON,RARE,E_PRISM,dragon_prism,dragon_prism_baby|dragon_prism,false
+1169,D_ANCIENT_WIND_ENERGY,ANCIENT WIND ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_WIND|E_ENERGY,dragon_ancient_wind_energy,dragon_ancient_wind_energy_baby|dragon_ancient_wind_energy,false
+1170,D_ANCIENT_PLANT_ENERGY,ANCIENT PLANT ENERGY,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_ENERGY,dragon_ancient_plant_energy,dragon_ancient_plant_energy_baby|dragon_ancient_plant_energy,false
+1171,D_ANCIENT_LIGHT_WIND,ANCIENT LIGHT WIND,ANCIENT,SUPREME,E_ANCIENT|E_LIGHT|E_WIND,dragon_ancient_light_wind,dragon_ancient_light_wind_baby|dragon_ancient_light_wind,false
+1172,D_ANCIENT_PLANT_WIND,ANCIENT PLANT WIND,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_WIND,dragon_ancient_plant_wind,dragon_ancient_plant_wind_baby|dragon_ancient_plant_wind,false
+1173,D_TURQUOISE_2,TURQUOISE 2,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_LIGHT,dragon_turquoise_2,dragon_turquoise_2_baby|dragon_turquoise_2,false
+1174,D_TOURMALINE,TOURMALINE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_WIND,dragon_tourmaline,dragon_tourmaline_baby|dragon_tourmaline,false
+1175,D_10THANNIVERSARY,10THANNIVERSARY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_LIGHT,dragon_10thanniversary,dragon_10thanniversary_baby|dragon_10thanniversary,false
+1176,D_PIZZA,PIZZA,EPIC,EPIC,E_ENERGY|E_FIRE|E_PLANT,dragon_pizza,dragon_pizza_baby|dragon_pizza,false
+1177,D_BROCCOLI,BROCCOLI,EPIC,EPIC,E_PLANT|E_SHADOW|E_VOID,dragon_broccoli,dragon_broccoli_baby|dragon_broccoli,false
+1178,D_YELLOW_LIGHT,YELLOW LIGHT,PRIMAL,LEGENDARY,E_PRIMAL|E_LIGHT|E_ENERGY,dragon_yellow_light,dragon_yellow_light_baby|dragon_yellow_light,false
+1179,D_COTTON_CANDY,COTTON CANDY,EPIC,EPIC,E_LIGHT|E_WIND|E_WATER,dragon_cotton_candywool,dragon_cotton_candywool_baby|dragon_cotton_candywool,false
+1180,D_SERAPH,SERAPH,DIVINE,SUPREME,E_DIVINE|E_LIGHT|E_WIND,dragon_seraph,dragon_seraph_baby|dragon_seraph,false
+1181,D_ULTIMATUS,ULTIMATUS,DIVINE,SUPREME,E_PRISM|E_FIRE|E_LIGHT,dragon_ultimatus,dragon_ultimatus_baby|dragon_ultimatus,false
+1182,D_CRYSTAL_CARNIVAL,CRYSTAL CARNIVAL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PRISM|E_LIGHT,dragon_crystal_carnival,dragon_crystal_carnival_baby|dragon_crystal_carnival,false
+1183,D_METAL_SEAHORSE,METAL SEAHORSE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_PRISM,dragon_metal_seahorse,dragon_metal_seahorse_baby|dragon_metal_seahorse,false
+1184,D_CRYSTAL_WATER,CRYSTAL WATER,PRIMAL,LEGENDARY,E_PRIMAL|E_PRISM|E_WATER,dragon_crystal_water,dragon_crystal_water_baby|dragon_crystal_water,false
+1185,D_BELL_FLOWER,BELL FLOWER,EPIC,EPIC,E_PLANT|E_PRISM|E_LIGHT,dragon_bell_flower,dragon_bell_flower_baby|dragon_bell_flower,false
+1186,D_FOX_STATUE,FOX STATUE,EPIC,EPIC,E_PRISM|E_PLANT|E_SHADOW,dragon_fox_statue,dragon_fox_statue_baby|dragon_fox_statue,false
+1187,D_ULTIMATUS_FAKE,ULTIMATUS FAKE,DIVINE,SUPREME,E_VOID|E_FIRE|E_LIGHT,dragon_ultimatus,dragon_ultimatus_baby|dragon_ultimatus,false
+1188,D_TYRANT_EARTH_FIRE,TYRANT EARTH FIRE,TYRANT,SUPREME,E_TYRANT|E_EARTH|E_FIRE,dragon_tyrant_earth_fire,dragon_tyrant_earth_fire_baby|dragon_tyrant_earth_fire,false
+1189,D_TYRANT_EARTH_METAL,TYRANT EARTH METAL,TYRANT,SUPREME,E_TYRANT|E_EARTH|E_METAL,dragon_tyrant_earth_metal,dragon_tyrant_earth_metal_baby|dragon_tyrant_earth_metal,false
+1190,D_TYRANT_EARTH_LIGHT,TYRANT EARTH LIGHT,TYRANT,SUPREME,E_TYRANT|E_EARTH|E_LIGHT,dragon_tyrant_earth_light,dragon_tyrant_earth_light_baby|dragon_tyrant_earth_light,false
+1191,D_TYRANT_EARTH_WIND,TYRANT EARTH WIND,TYRANT,SUPREME,E_TYRANT|E_EARTH|E_WIND,dragon_tyrant_earth_wind,dragon_tyrant_earth_wind_baby|dragon_tyrant_earth_wind,false
+1192,D_TYRANT_EARTH_PRISM,TYRANT EARTH PRISM,TYRANT,SUPREME,E_TYRANT|E_EARTH|E_PRISM,dragon_tyrant_earth_prism,dragon_tyrant_earth_prism_baby|dragon_tyrant_earth_prism,false
+1193,D_TYRANT_LEGENDARY_EARTH,TYRANT LEGENDARY EARTH,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_EARTH,dragon_tyrant_legendary_earth,dragon_tyrant_legendary_earth_baby|dragon_tyrant_legendary_earth,false
+1194,D_MANTICORE,MANTICORE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_EARTH,dragon_manticore,dragon_manticore_baby|dragon_manticore,false
+1195,D_BASILISK,BASILISK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WIND,dragon_basilisk,dragon_basilisk_baby|dragon_basilisk,false
+1196,D_CRYSTAL_LADY,CRYSTAL LADY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_PRISM,dragon_crystal_lady,dragon_crystal_lady_baby|dragon_crystal_lady,false
+1197,D_EASTER_BUNNY,EASTER BUNNY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_VOID,dragon_easter_bunny,dragon_easter_bunny_baby|dragon_easter_bunny,false
+1198,D_SPIKES,SPIKES,EPIC,EPIC,E_EARTH|E_METAL|E_WATER,dragon_spikes,dragon_spikes_baby|dragon_spikes,false
+1199,D_PRIMAL_GECKO,PRIMAL GECKO,PRIMAL,LEGENDARY,E_PRIMAL|E_ENERGY|E_LIGHT,dragon_primal_gecko,dragon_primal_gecko_baby|dragon_primal_gecko,false
+1200,D_CRYSTAL_LOTUS,CRYSTAL LOTUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PRISM|E_WIND,dragon_crystal_lotus,dragon_crystal_lotus_baby|dragon_crystal_lotus,false
+1201,D_PYRORAPTOR,PYRORAPTOR,EPIC,EPIC,E_VOID|E_FIRE|E_SHADOW,dragon_pyroraptor,dragon_pyroraptor_baby|dragon_pyroraptor,false
+1202,D_GIRL_KID,GIRL KID,EPIC,EPIC,E_LIGHT|E_ENERGY|E_PLANT,dragon_girl_kid,dragon_girl_kid_baby|dragon_girl_kid,false
+1203,D_COLORFUL_GLOW,COLORFUL GLOW,DIVINE,SUPREME,E_PRISM|E_VOID|E_ENERGY,dragon_colorful_glow,dragon_colorful_glow_baby|dragon_colorful_glow,false
+1204,D_ANCIENT_PRISM_VOID,ANCIENT PRISM VOID,ANCIENT,SUPREME,E_ANCIENT|E_PRISM|E_VOID,dragon_ancient_prism_void,dragon_ancient_prism_void_baby|dragon_ancient_prism_void,false
+1205,D_ANCIENT_PRISM_SHADOW,ANCIENT PRISM SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_PRISM|E_SHADOW,dragon_ancient_prism_shadow,dragon_ancient_prism_shadow_baby|dragon_ancient_prism_shadow,false
+1206,D_ANCIENT_PRISM_WATER,ANCIENT PRISM WATER,ANCIENT,SUPREME,E_ANCIENT|E_PRISM|E_WATER,dragon_ancient_prism_water,dragon_ancient_prism_water_baby|dragon_ancient_prism_water,false
+1207,D_ANCIENT_DIVINE_PRISM,ANCIENT DIVINE PRISM,ANCIENT,SUPREME,E_ANCIENT|E_DIVINE|E_PRISM,dragon_ancient_divine_prism,dragon_ancient_divine_prism_baby|dragon_ancient_divine_prism,false
+1208,D_KRAKEN,KRAKEN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WATER,dragon_kraken,dragon_kraken_baby|dragon_kraken,false
+1209,D_PHOENIX_DOM,PHOENIX DOM,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_LIGHT,dragon_phoenix_dom,dragon_phoenix_dom_baby|dragon_phoenix_dom,false
+1210,D_SCOUT_TEACHER,SCOUT TEACHER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_ENERGY,dragon_scout_teacher,dragon_scout_teacher_baby|dragon_scout_teacher,false
+1211,D_SEASHELL,SEASHELL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_VOID,dragon_seashell,dragon_seashell_baby|dragon_seashell,false
+1212,D_PINK_METAL,PINK METAL,EPIC,EPIC,E_METAL|E_VOID|E_LIGHT,dragon_pink_metal,dragon_pink_metal_baby|dragon_pink_metal,false
+1213,D_GREEN_ARMOR,GREEN ARMOR,EPIC,EPIC,E_PLANT|E_WATER|E_PRISM,dragon_green_armor,dragon_green_armor_baby|dragon_green_armor,false
+1214,D_PRIMAL_SHADOW,PRIMAL SHADOW,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_WIND,dragon_primal_shadow,dragon_primal_shadow_baby|dragon_primal_shadow,false
+1215,D_TRICERATOPS,TRICERATOPS,PRIMAL,LEGENDARY,E_PRIMAL|E_PRISM|E_EARTH,dragon_triceratops,dragon_triceratops_baby|dragon_triceratops,false
+1216,D_ONE_EYE_CAT,ONE EYE CAT,EPIC,EPIC,E_VOID|E_LIGHT|E_ENERGY,dragon_one_eye_cat,dragon_one_eye_cat_baby|dragon_one_eye_cat,false
+1217,D_SHARP_HORN,SHARP HORN,EPIC,EPIC,E_FIRE|E_WATER|E_EARTH,dragon_sharp_horn,dragon_sharp_horn_baby|dragon_sharp_horn,false
+1218,D_USA_2025,USA 2025,EPIC,EPIC,E_VOID|E_SHADOW|E_FIRE,dragon_usa_2025,dragon_usa_2025_baby|dragon_usa_2025,false
+1219,D_PRINCE,PRINCE,DIVINE,SUPREME,E_PLANT|E_LIGHT|E_METAL,dragon_prince,dragon_prince_baby|dragon_prince,false
+1220,D_DEVASTATOR,DEVASTATOR,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_SHADOW,dragon_devastator,dragon_devastator_baby|dragon_devastator,false
+1221,D_TYRANT_METAL_FIRE,TYRANT METAL FIRE,TYRANT,SUPREME,E_TYRANT|E_METAL|E_FIRE,dragon_tyrant_metal_fire,dragon_tyrant_metal_fire_baby|dragon_tyrant_metal_fire,false
+1222,D_TYRANT_METAL_ENERGY,TYRANT METAL ENERGY,TYRANT,SUPREME,E_TYRANT|E_METAL|E_ENERGY,dragon_tyrant_metal_energy,dragon_tyrant_metal_energy_baby|dragon_tyrant_metal_energy,false
+1223,D_TYRANT_METAL_LIGHT,TYRANT METAL LIGHT,TYRANT,SUPREME,E_TYRANT|E_METAL|E_LIGHT,dragon_tyrant_metal_light,dragon_tyrant_metal_light_baby|dragon_tyrant_metal_light,false
+1224,D_TYRANT_METAL_SHADOW,TYRANT METAL SHADOW,TYRANT,SUPREME,E_TYRANT|E_METAL|E_SHADOW,dragon_tyrant_metal_shadow,dragon_tyrant_metal_shadow_baby|dragon_tyrant_metal_shadow,false
+1225,D_TYRANT_METAL_PRISM,TYRANT METAL PRISM,TYRANT,SUPREME,E_TYRANT|E_METAL|E_PRISM,dragon_tyrant_metal_prism,dragon_tyrant_metal_prism_baby|dragon_tyrant_metal_prism,false
+1226,D_TYRANT_LEGENDARY_METAL,TYRANT LEGENDARY METAL,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_METAL,dragon_tyrant_legendary_metal,dragon_tyrant_legendary_metal_baby|dragon_tyrant_legendary_metal,false
+1227,D_TYRANT_METAL_VOID,TYRANT METAL VOID,TYRANT,SUPREME,E_TYRANT|E_METAL|E_VOID,dragon_tyrant_metal_void,dragon_tyrant_metal_void_baby|dragon_tyrant_metal_void,false
+1228,D_LOCH_NESS,LOCH NESS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_ENERGY,dragon_loch_ness,dragon_loch_ness_baby|dragon_loch_ness,false
+1229,D_KAPPA,KAPPA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WATER,dragon_kappa,dragon_kappa_baby|dragon_kappa,false
+1230,D_BOOK,BOOK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_VOID,dragon_book,dragon_book_baby|dragon_book,false
+1231,D_BLANKET,BLANKET,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_SHADOW,dragon_blanket,dragon_blanket_baby|dragon_blanket,false
+1232,D_BONE_GECKO,BONE GECKO,EPIC,EPIC,E_VOID|E_PRISM|E_WIND,dragon_bone_gecko,dragon_bone_gecko_baby|dragon_bone_gecko,false
+1233,D_OKTOBERFEST_2025,OKTOBERFEST 2025,EPIC,EPIC,E_PLANT|E_EARTH|E_LIGHT,dragon_oktoberfest_2025,dragon_oktoberfest_2025_baby|dragon_oktoberfest_2025,false
+1234,D_GREEN_FIRE,GREEN FIRE,PRIMAL,LEGENDARY,E_PRIMAL|E_FIRE|E_PLANT,dragon_green_fire,dragon_green_fire_baby|dragon_green_fire,false
+1235,D_LISA_FRANK,LISA FRANK,DIVINE,SUPREME,E_WIND|E_VOID|E_LIGHT,dragon_lisa_frank,dragon_lisa_frank_baby|dragon_lisa_frank,false
+1236,D_LISA_FRANK_RAINBOW,LISA FRANK RAINBOW,EPIC,EPIC,E_ENERGY|E_PLANT|E_WATER,dragon_lisa_frank_rainbow,dragon_lisa_frank_rainbow_baby|dragon_lisa_frank_rainbow,false
+1237,D_SUNFLOWER_GIRL,SUNFLOWER GIRL,EPIC,EPIC,E_VOID|E_FIRE|E_PRISM,dragon_sunflower_girl,dragon_sunflower_girl_baby|dragon_sunflower_girl,false
+1238,D_SUPREME_BUTTERFLY,SUPREME BUTTERFLY,DIVINE,SUPREME,E_SHADOW|E_VOID|E_EARTH,dragon_supreme_butterfly,dragon_supreme_butterfly_baby|dragon_supreme_butterfly,false
+1239,D_ANCIENT_VOID_WIND,ANCIENT VOID WIND,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_WIND,dragon_ancient_void_wind,dragon_ancient_void_wind_baby|dragon_ancient_void_wind,false
+1240,D_ANCIENT_SHADOW_EARTH,ANCIENT SHADOW EARTH,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_EARTH,dragon_ancient_shadow_earth,dragon_ancient_shadow_earth_baby|dragon_ancient_shadow_earth,false
+1241,D_ANCIENT_VOID_PLANT,ANCIENT VOID PLANT,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_PLANT,dragon_ancient_void_plant,dragon_ancient_void_plant_baby|dragon_ancient_void_plant,false
+1242,D_ANCIENT_SHADOW_FIRE,ANCIENT SHADOW FIRE,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_FIRE,dragon_ancient_shadow_fire,dragon_ancient_shadow_fire_baby|dragon_ancient_shadow_fire,false
+1243,D_ANCIENT_SHADOW_LIGHT,ANCIENT SHADOW LIGHT,ANCIENT,SUPREME,E_ANCIENT|E_SHADOW|E_LIGHT,dragon_ancient_shadow_light,dragon_ancient_shadow_light_baby|dragon_ancient_shadow_light,false
+1244,D_MAVKA,MAVKA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_PLANT,dragon_mavka,dragon_mavka_baby|dragon_mavka,false
+1245,D_BANSHEE,BANSHEE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_SHADOW,dragon_banshee,dragon_banshee_baby|dragon_banshee,false
+1246,D_KIWI,KIWI,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WIND,dragon_kiwi,dragon_kiwi_baby|dragon_kiwi,false
+1247,D_JACK_O_LANTERN,JACK O LANTERN,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_LIGHT,dragon_jack_o_lantern,dragon_jack_o_lantern_baby|dragon_jack_o_lantern,false
+1248,D_SPINOSAURUS,SPINOSAURUS,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_EARTH,dragon_spinosaurus,dragon_spinosaurus_baby|dragon_spinosaurus,false
+1249,D_FROG,FROG,PRIMAL,LEGENDARY,E_PRIMAL|E_WIND|E_FIRE,dragon_frog,dragon_frog_baby|dragon_frog,false
+1250,D_DRAGON_FRUIT,DRAGON FRUIT,EPIC,EPIC,E_PLANT|E_LIGHT|E_EARTH,dragon_dragon_fruit,dragon_dragon_fruit_baby|dragon_dragon_fruit,false
+1251,D_RACCOON,RACCOON,EPIC,EPIC,E_PRISM|E_FIRE|E_WATER,dragon_raccoon,dragon_raccoon_baby|dragon_raccoon,false
+1252,D_COSMIC_SHEEP,COSMIC SHEEP,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_VOID,dragon_cosmic_sheep,dragon_cosmic_sheep_baby|dragon_cosmic_sheep,false
+1253,D_SLIME,SLIME,EPIC,EPIC,E_METAL|E_WATER|E_ENERGY,dragon_slime,dragon_slime_baby|dragon_slime,false
+1254,D_DODO_BIRD,DODO BIRD,EPIC,EPIC,E_WIND|E_LIGHT|E_WATER,dragon_dodo_bird,dragon_dodo_bird_baby|dragon_dodo_bird,false
+1255,D_SPIDER,SPIDER,EPIC,EPIC,E_SHADOW|E_VOID|E_METAL,dragon_spider,dragon_spider_baby|dragon_spider,false
+1256,D_HOLY_KNIGHT,HOLY KNIGHT,DIVINE,SUPREME,E_LIGHT|E_WIND|E_METAL,dragon_holy_knight,dragon_holy_knight_baby|dragon_holy_knight,false
+1257,D_LION,LION,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_FIRE,dragon_lion,dragon_lion_baby|dragon_lion,false
+1258,D_MAYA,MAYA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_PLANT,dragon_maya,dragon_maya_baby|dragon_maya,false
+1259,D_TYRANT_PRISM_FIRE,TYRANT PRISM FIRE,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_FIRE,dragon_tyrant_prism_fire,dragon_tyrant_prism_fire_baby|dragon_tyrant_prism_fire,false
+1260,D_TYRANT_PRISM_PLANT,TYRANT PRISM PLANT,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_PLANT,dragon_tyrant_prism_plant,dragon_tyrant_prism_plant_baby|dragon_tyrant_prism_plant,false
+1261,D_TYRANT_PRISM_SHADOW,TYRANT PRISM SHADOW,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_SHADOW,dragon_tyrant_prism_shadow,dragon_tyrant_prism_shadow_baby|dragon_tyrant_prism_shadow,false
+1262,D_TYRANT_PRISM_VOID,TYRANT PRISM VOID,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_VOID,dragon_tyrant_prism_void,dragon_tyrant_prism_void_baby|dragon_tyrant_prism_void,false
+1263,D_TYRANT_PRISM_LIGHT,TYRANT PRISM LIGHT,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_LIGHT,dragon_tyrant_prism_light,dragon_tyrant_prism_light_baby|dragon_tyrant_prism_light,false
+1264,D_TYRANT_PRISM_METAL,TYRANT PRISM METAL,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_METAL,dragon_tyrant_prism_metal,dragon_tyrant_prism_metal_baby|dragon_tyrant_prism_metal,false
+1265,D_TYRANT_PRISM_ENERGY,TYRANT PRISM ENERGY,TYRANT,SUPREME,E_TYRANT|E_PRISM|E_ENERGY,dragon_tyrant_prism_energy,dragon_tyrant_prism_energy_baby|dragon_tyrant_prism_energy,false
+1266,D_YULE_CAT,YULE CAT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_LIGHT|E_VOID,dragon_yule_cat,dragon_yule_cat_baby|dragon_yule_cat,false
+1267,D_JACK_FROST,JACK FROST,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_WIND,dragon_jack_frost,dragon_jack_frost_baby|dragon_jack_frost,false
+1268,D_HOUSEWIFE,HOUSEWIFE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_EARTH,dragon_housewife,dragon_housewife_baby|dragon_housewife,false
+1269,D_FELT_TOY,FELT TOY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WIND,dragon_felt_toy,dragon_felt_toy_baby|dragon_felt_toy,false
+1270,D_WHITE_FUR,WHITE FUR,PRIMAL,LEGENDARY,E_PRIMAL|E_EARTH|E_SHADOW,dragon_white_fur,dragon_white_fur_baby|dragon_white_fur,false
+1271,D_MAMMOTH,MAMMOTH,PRIMAL,LEGENDARY,E_PRIMAL|E_PRISM|E_WATER,dragon_mammoth,dragon_mammoth_baby|dragon_mammoth,false
+1272,D_CAPYBARA,CAPYBARA,EPIC,EPIC,E_METAL|E_EARTH|E_PLANT,dragon_capybara,dragon_capybara_baby|dragon_capybara,false
+1273,D_HALF,HALF,EPIC,EPIC,E_LIGHT|E_SHADOW|E_ENERGY,dragon_half,dragon_half_baby|dragon_half,false
+1274,D_NUTCRACKER,NUTCRACKER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PRISM|E_METAL,dragon_nutcracker,dragon_nutcracker_baby|dragon_nutcracker,false
+1275,D_CONE,CONE,EPIC,EPIC,E_VOID|E_PLANT|E_SHADOW,dragon_cone,dragon_cone_baby|dragon_cone,false
+1276,D_COMMUNITY_2025,COMMUNITY 2025,EPIC,EPIC,E_PLANT|E_WATER|E_LIGHT,dragon_community_2025,dragon_community_2025_baby|dragon_community_2025,false
+1277,D_CROSHET,CROSHET,DIVINE,SUPREME,E_PLANT|E_FIRE|E_EARTH,dragon_croshet,dragon_croshet_baby|dragon_croshet,false
+1278,D_FIRE_HORSE,FIRE HORSE,DIVINE,SUPREME,E_FIRE|E_METAL|E_LIGHT,dragon_fire_horse,dragon_fire_horse_baby|dragon_fire_horse,false
+1279,D_ANCIENT_PLANT_FIRE_UPD80,ANCIENT PLANT FIRE UPD80,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_FIRE,dragon_ancient_plant_fire_upd80,dragon_ancient_plant_fire_upd80_baby|dragon_ancient_plant_fire_upd80,false
+1280,D_ANCIENT_PLANT_SHADOW,ANCIENT PLANT SHADOW,ANCIENT,SUPREME,E_ANCIENT|E_PLANT|E_SHADOW,dragon_ancient_plant_shadow,dragon_ancient_plant_shadow_baby|dragon_ancient_plant_shadow,false
+1281,D_ANCIENT_PRISM_EARTH,ANCIENT PRISM EARTH,ANCIENT,SUPREME,E_ANCIENT|E_PRISM|E_EARTH,dragon_ancient_prism_earth,dragon_ancient_prism_earth_baby|dragon_ancient_prism_earth,false
+1282,D_ANCIENT_PRISM_LIGHT,ANCIENT PRISM LIGHT,ANCIENT,SUPREME,E_ANCIENT|E_PRISM|E_LIGHT,dragon_ancient_prism_light,dragon_ancient_prism_light_baby|dragon_ancient_prism_light,false
+1283,D_ANCIENT_PRISM_WIND,ANCIENT PRISM WIND,ANCIENT,SUPREME,E_ANCIENT|E_PRISM|E_WIND,dragon_ancient_prism_wind_upd80,dragon_ancient_prism_wind_baby_upd80|dragon_ancient_prism_wind_upd80,false
+1284,D_JIUTIAN_XUANNU,JIUTIAN XUANNU,DIVINE,SUPREME,E_DIVINE|E_PRISM|E_WIND,dragon_jiutian_xuannu,dragon_jiutian_xuannu_baby|dragon_jiutian_xuannu,false
+1285,D_STAR_WITCH,STAR WITCH,DIVINE,SUPREME,E_SHADOW|E_LIGHT|E_VOID,dragon_star_witch,dragon_star_witch_baby|dragon_star_witch,false
+1286,D_CHINESE_OPERA,CHINESE OPERA,DIVINE,SUPREME,E_FIRE|E_EARTH|E_ENERGY,dragon_chinese_opera,dragon_chinese_opera_baby|dragon_chinese_opera,false
+1287,D_CHAIN_MONSTER,CHAIN MONSTER,EPIC,EPIC,E_METAL|E_VOID|E_SHADOW,dragon_chain_monster,dragon_chain_monster_baby|dragon_chain_monster,false
+1288,D_ROSE_KNIGHT,ROSE KNIGHT,EPIC,EPIC,E_METAL|E_FIRE|E_LIGHT,dragon_rose_knight,dragon_rose_knight_baby|dragon_rose_knight,false
+1289,D_SIREN_EVIL,SIREN EVIL,EPIC,EPIC,E_METAL|E_WATER|E_EARTH,dragon_siren_evil,dragon_siren_evil_baby|dragon_siren_evil,false
+1290,D_NIXIE,NIXIE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_VOID,dragon_nixie,dragon_nixie_baby|dragon_nixie,false
+1291,D_BABA_YAGA,BABA YAGA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_LIGHT,dragon_baba_yaga,dragon_baba_yaga_baby|dragon_baba_yaga,false
+1292,D_PAPER_BIRTHDAY,PAPER BIRTHDAY,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_ENERGY,dragon_paper_birthday,dragon_paper_birthday_baby|dragon_paper_birthday,false
+1293,D_BROCADE,BROCADE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_WATER,dragon_brocade,dragon_brocade_baby|dragon_brocade,false
+1294,D_SORBIAN_EASTER,SORBIAN EASTER,LEGENDARY,LEGENDARY,E_NONELEMENT|E_VOID|E_LIGHT,dragon_sorbian_easter,dragon_sorbian_easter_baby|dragon_sorbian_easter,false
+1295,D_SHEEP_UPD80,SHEEP UPD80,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_ENERGY,dragon_sheep_upd80,dragon_sheep_upd80_baby|dragon_sheep_upd80,false
+1296,D_11THANNIVERSARY,11THANNIVERSARY,EPIC,EPIC,E_FIRE|E_WIND|E_WATER,dragon_11thanniversary,dragon_11thanniversary_baby|dragon_11thanniversary,false
+1297,D_TRAVELER_RABBIT,TRAVELER RABBIT,EPIC,EPIC,E_PLANT|E_LIGHT|E_WATER,dragon_traveler_rabbit,dragon_traveler_rabbit_baby|dragon_traveler_rabbit,false
+1298,D_LITTLE_GIRL,LITTLE GIRL,EPIC,EPIC,E_FIRE|E_ENERGY|E_WIND,dragon_little_girl,dragon_little_girl_baby|dragon_little_girl,false
+1299,D_WHITE_LILY,WHITE LILY,EPIC,EPIC,E_EARTH|E_WIND|E_PLANT,dragon_white_lily,dragon_white_lily_baby|dragon_white_lily,false
+1300,D_LITTLE_CLOWN,LITTLE CLOWN,EPIC,EPIC,E_WATER|E_EARTH|E_SHADOW,dragon_little_clown,dragon_little_clown_baby|dragon_little_clown,false
+1301,D_JAPANESE_DOLL,JAPANESE DOLL,EPIC,EPIC,E_EARTH|E_PLANT|E_ENERGY,dragon_japanese_doll,dragon_japanese_doll_baby|dragon_japanese_doll,false
+1302,D_COMMUNITY_LION,COMMUNITY LION,EPIC,EPIC,E_FIRE|E_LIGHT|E_WIND,dragon_community_lion,dragon_community_lion_baby|dragon_community_lion,false
+1303,D_TYRANT_WIND_METAL,TYRANT WIND METAL,TYRANT,SUPREME,E_TYRANT|E_WIND|E_METAL,dragon_tyrant_wind_metal,dragon_tyrant_wind_metal_baby|dragon_tyrant_wind_metal,false
+1304,D_TYRANT_WIND_WATER,TYRANT WIND WATER,TYRANT,SUPREME,E_TYRANT|E_WIND|E_WATER,dragon_tyrant_wind_water,dragon_tyrant_wind_water_baby|dragon_tyrant_wind_water,false
+1305,D_TYRANT_WIND_ENERGY,TYRANT WIND ENERGY,TYRANT,SUPREME,E_TYRANT|E_WIND|E_ENERGY,dragon_tyrant_wind_energy,dragon_tyrant_wind_energy_baby|dragon_tyrant_wind_energy,false
+1306,D_TYRANT_WIND_FIRE,TYRANT WIND FIRE,TYRANT,SUPREME,E_TYRANT|E_WIND|E_FIRE,dragon_tyrant_wind_fire,dragon_tyrant_wind_fire_baby|dragon_tyrant_wind_fire,false
+1307,D_TYRANT_FABLED_WIND,TYRANT FABLED WIND,TYRANT,SUPREME,E_TYRANT|E_NONELEMENT|E_WIND,dragon_tyrant_fabled_wind,dragon_tyrant_fabled_wind_baby|dragon_tyrant_fabled_wind,false
+1308,D_TYRANT_WIND_LIGHT,TYRANT WIND LIGHT,TYRANT,SUPREME,E_TYRANT|E_WIND|E_LIGHT,dragon_tyrant_wind_light,dragon_tyrant_wind_light_baby|dragon_tyrant_wind_light,false
+1309,D_TYRANT_WIND_PLANT,TYRANT WIND PLANT,TYRANT,SUPREME,E_TYRANT|E_WIND|E_PLANT,dragon_tyrant_wind_plant,dragon_tyrant_wind_plant_baby|dragon_tyrant_wind_plant,false
+1310,D_LITTLE_PILOT,LITTLE PILOT,EPIC,EPIC,E_WIND|E_EARTH|E_LIGHT,dragon_little_pilot,dragon_little_pilot_baby|dragon_little_pilot,false
+1311,D_SHAOLIN_CAT,SHAOLIN CAT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_FIRE,dragon_shaolin_cat,dragon_shaolin_cat_baby|dragon_shaolin_cat,false
+1312,D_MONGOLIA_HUNTER,MONGOLIA HUNTER,DIVINE,SUPREME,E_LIGHT|E_EARTH|E_FIRE,dragon_mongolia_hunter,dragon_mongolia_hunter_baby|dragon_mongolia_hunter,false
+1313,D_EASTER_EGG_UPD81,EASTER EGG UPD81,EPIC,EPIC,E_LIGHT|E_WIND|E_EARTH,dragon_easter_egg_upd81,dragon_easter_egg_upd81_baby|dragon_easter_egg_upd81,false
+1314,D_PIROT,PIROT,DIVINE,SUPREME,E_ENERGY|E_WIND|E_FIRE,dragon_pirot,dragon_pirot_baby|dragon_pirot,false
+1315,D_PIRATE_COOK,PIRATE COOK,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WATER|E_WIND,dragon_pirate_cook,dragon_pirate_cook_baby|dragon_pirate_cook,false
+1316,D_SEA_MONSTER,SEA MONSTER,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_SHADOW,dragon_sea_monster,dragon_sea_monster_baby|dragon_sea_monster,false
+1317,D_EVIL_SEAWEED,EVIL SEAWEED,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_PLANT,dragon_evil_seaweed,dragon_evil_seaweed_baby|dragon_evil_seaweed,false
+1318,D_PIRATE_MUSICIAN,PIRATE MUSICIAN,EPIC,EPIC,E_EARTH|E_LIGHT|E_METAL,dragon_pirate_musician,dragon_pirate_musician_baby|dragon_pirate_musician,false
+1319,D_HERBALIST_RABBIT,HERBALIST RABBIT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_FIRE,dragon_herbalist_rabbit,dragon_herbalist_rabbit_baby|dragon_herbalist_rabbit,false
+1320,D_HIPPIE_ROBOT,HIPPIE ROBOT,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WIND,dragon_hippie_robot,dragon_hippie_robot_baby|dragon_hippie_robot,false
+1321,D_CRYSTAL_KEYCHAIN,CRYSTAL KEYCHAIN,EPIC,EPIC,E_PRISM|E_SHADOW|E_VOID,dragon_crystal_keychain,dragon_crystal_keychain_baby|dragon_crystal_keychain,false
+1322,D_HIPPIE_GIRL,HIPPIE GIRL,EPIC,EPIC,E_EARTH|E_METAL|E_ENERGY,dragon_hippie_girl,dragon_hippie_girl_baby|dragon_hippie_girl,false
+1323,D_ANCIENT_EARTH_WATER_UPD82,ANCIENT EARTH WATER UPD82,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_WATER,dragon_ancient_earth_water_upd82,dragon_ancient_earth_water_upd82_baby|dragon_ancient_earth_water_upd82,false
+1324,D_ANCIENT_EARTH_VOID,ANCIENT EARTH VOID,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_VOID,dragon_ancient_earth_void,dragon_ancient_earth_void_baby|dragon_ancient_earth_void,false
+1325,D_ANCIENT_EARTH_PLANT,ANCIENT EARTH PLANT,ANCIENT,SUPREME,E_ANCIENT|E_EARTH|E_PLANT,dragon_ancient_earth_plant,dragon_ancient_earth_plant_baby|dragon_ancient_earth_plant,false
+1326,D_ANCIENT_FIRE_ENERGY_UPD82,ANCIENT FIRE ENERGY UPD82,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_ENERGY,dragon_ancient_fire_energy_upd82,dragon_ancient_fire_energy_upd82_baby|dragon_ancient_fire_energy_upd82,false
+1327,D_ANCIENT_FIRE_WIND_UPD82,ANCIENT FIRE WIND UPD82,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_WIND,dragon_ancient_fire_wind_upd82,dragon_ancient_fire_wind_upd82_baby|dragon_ancient_fire_wind_upd82,false
+1328,D_ANCIENT_FIRE_PRISM,ANCIENT FIRE PRISM,ANCIENT,SUPREME,E_ANCIENT|E_FIRE|E_PRISM,dragon_ancient_fire_prism,dragon_ancient_fire_prism_baby|dragon_ancient_fire_prism,false
+1329,D_PRIMROSE,PRIMROSE,EPIC,EPIC,E_PRISM|E_LIGHT|E_PLANT,dragon_primrose,dragon_primrose_baby|dragon_primrose,false
+1330,D_WATERPOT,WATERPOT,EPIC,EPIC,E_METAL|E_FIRE|E_WATER,dragon_waterpot,dragon_waterpot_baby|dragon_waterpot,false
+1331,D_PAPER_LANTERN,PAPER LANTERN,DIVINE,SUPREME,E_FIRE|E_METAL|E_LIGHT,dragon_paper_lantern,dragon_paper_lantern_baby|dragon_paper_lantern,false
+1332,D_HISTORICAL_FROG,HISTORICAL FROG,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_WATER,dragon_historical_frog,dragon_historical_frog_baby|dragon_historical_frog,false
+1333,D_BBQ_GRILL,BBQ GRILL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_METAL,dragon_bbq_grill,dragon_bbq_grill_baby|dragon_bbq_grill,false
+1334,D_DESERT,DESERT,EPIC,EPIC,E_EARTH|E_LIGHT|E_SHADOW,dragon_desert,dragon_desert_baby|dragon_desert,false
+1335,D_COCKTAIL,COCKTAIL,EPIC,EPIC,E_WATER|E_PLANT|E_ENERGY,dragon_cocktail,dragon_cocktail_baby|dragon_cocktail,false
+1336,D_LACE,LACE,DIVINE,SUPREME,E_PRISM|E_LIGHT|E_PLANT,dragon_lace,dragon_lace_baby|dragon_lace,false
+1337,D_HITORICAL_OWL,HITORICAL OWL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_EARTH|E_METAL,dragon_hitorical_owl,dragon_hitorical_owl_baby|dragon_hitorical_owl,false
+1338,D_FLYTRAP,FLYTRAP,PRIMAL,LEGENDARY,E_PRIMAL|E_VOID|E_PLANT,dragon_flytrap,dragon_flytrap_baby|dragon_flytrap,false
+1339,D_TOOTH_FAIRY,TOOTH FAIRY,PRIMAL,LEGENDARY,E_PRIMAL|E_SHADOW|E_VOID,dragon_tooth_fairy,dragon_tooth_fairy_baby|dragon_tooth_fairy,false
+1340,D_USA_2026,USA 2026,EPIC,EPIC,E_ENERGY|E_LIGHT|E_EARTH,dragon_usa_2026,dragon_usa_2026_baby|dragon_usa_2026,false
+1341,D_FLYING_MACHINE,FLYING MACHINE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_METAL,dragon_flying_machine,dragon_flying_machine_baby|dragon_flying_machine,false
+1342,D_MEDIEVAL,MEDIEVAL,EPIC,EPIC,E_METAL|E_LIGHT|E_FIRE,dragon_medieval,dragon_medieval_baby|dragon_medieval,false
+1343,D_FOOTBALL_3,FOOTBALL 3,LEGENDARY,LEGENDARY,E_NONELEMENT|E_ENERGY|E_EARTH,dragon_football_3,dragon_football_3_baby|dragon_football_3,false
+1344,D_TYRANT_WATER_LIGHT,TYRANT WATER LIGHT,TYRANT,SUPREME,E_TYRANT|E_WATER|E_LIGHT,dragon_tyrant_water_light,dragon_tyrant_water_light_baby|dragon_tyrant_water_light,false
+1345,D_TYRANT_WATER_EARTH_UPD83,TYRANT WATER EARTH UPD83,TYRANT,SUPREME,E_TYRANT|E_WATER|E_EARTH,dragon_tyrant_water_earth_upd83,dragon_tyrant_water_earth_upd83_baby|dragon_tyrant_water_earth_upd83,false
+1346,D_TYRANT_WATER_ENERGY_UPD83,TYRANT WATER ENERGY UPD83,TYRANT,SUPREME,E_TYRANT|E_WATER|E_ENERGY,dragon_tyrant_water_energy_upd83,dragon_tyrant_water_energy_upd83_baby|dragon_tyrant_water_energy_upd83,false
+1347,D_TYRANT_WATER_SHADOW_UPD83,TYRANT WATER SHADOW UPD83,TYRANT,SUPREME,E_TYRANT|E_WATER|E_SHADOW,dragon_tyrant_water_shadow_upd83,dragon_tyrant_water_shadow_upd83_baby|dragon_tyrant_water_shadow_upd83,false
+1348,D_TYRANT_WATER_PRISM,TYRANT WATER PRISM,TYRANT,SUPREME,E_TYRANT|E_WATER|E_PRISM,dragon_tyrant_water_prism,dragon_tyrant_water_prism_baby|dragon_tyrant_water_prism,false
+1349,D_TYRANT_WATER_VOID_UPD83,TYRANT WATER VOID UPD83,TYRANT,SUPREME,E_TYRANT|E_WATER|E_VOID,dragon_tyrant_water_void_upd83,dragon_tyrant_water_void_upd83_baby|dragon_tyrant_water_void_upd83,false
+1350,D_TYRANT_WATER_METAL,TYRANT WATER METAL,TYRANT,SUPREME,E_TYRANT|E_WATER|E_METAL,dragon_tyrant_water_metal,dragon_tyrant_water_metal_baby|dragon_tyrant_water_metal,false
+1351,D_TOXIC_CHEMICAL,TOXIC CHEMICAL,PRIMAL,LEGENDARY,E_PRIMAL|E_VOID|E_PLANT,dragon_toxic_chemical,dragon_toxic_chemical_baby|dragon_toxic_chemical,false
+1352,D_MESSENGER,MESSENGER,EPIC,EPIC,E_WIND|E_FIRE|E_EARTH,dragon_messenger,dragon_messenger_baby|dragon_messenger,false
+1353,D_BEE_KEEPER,BEE KEEPER,EPIC,EPIC,E_EARTH|E_PLANT|E_WIND,dragon_bee_keeper,dragon_bee_keeper_baby|dragon_bee_keeper,false
+1354,D_KITSUNE,KITSUNE,DIVINE,SUPREME,E_FIRE|E_SHADOW|E_LIGHT,dragon_kitsune,dragon_kitsune_baby|dragon_kitsune,false
+1355,D_TAROT_MOTH,TAROT MOTH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_SHADOW|E_WIND,dragon_tarot_moth,dragon_tarot_moth_baby|dragon_tarot_moth,false
+1356,D_VAN_GOGH,VAN GOGH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_WATER,dragon_van_gogh,dragon_van_gogh_baby|dragon_van_gogh,false
+1357,D_DOODLE,DOODLE,EPIC,EPIC,E_WATER|E_ENERGY|E_LIGHT,dragon_doodle,dragon_doodle_baby|dragon_doodle,false
+1358,D_SLAVIC,SLAVIC,DIVINE,SUPREME,E_EARTH|E_METAL|E_FIRE,dragon_slavic,dragon_slavic_baby|dragon_slavic,false
+1359,D_STAINED_GLASS,STAINED GLASS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PRISM|E_LIGHT,dragon_stained_glass,dragon_stained_glass_baby|dragon_stained_glass,false
+1360,D_CRANE,CRANE,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_WATER,dragon_crane,dragon_crane_baby|dragon_crane,false
+1361,D_MATCHA,MATCHA,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_ENERGY,dragon_matcha,dragon_matcha_baby|dragon_matcha,false
+1362,D_HOST,HOST,EPIC,EPIC,E_WATER|E_SHADOW|E_METAL,dragon_host,dragon_host_baby|dragon_host,false
+1363,D_SOBEK,SOBEK,DIVINE,SUPREME,E_DIVINE|E_EARTH|E_WATER,dragon_sobek,dragon_sobek_baby|dragon_sobek,false
+1364,D_OSMANTHUS,OSMANTHUS,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_LIGHT,dragon_osmanthus,dragon_osmanthus_baby|dragon_osmanthus,false
+1365,D_DEER,DEER,DIVINE,SUPREME,E_PRISM|E_WIND|E_SHADOW,dragon_deer,dragon_deer_baby|dragon_deer,false
+1366,D_LANTERN_WOLF,LANTERN WOLF,LEGENDARY,LEGENDARY,E_NONELEMENT|E_FIRE|E_EARTH,dragon_lantern_wolf,dragon_lantern_wolf_baby|dragon_lantern_wolf,false
+1367,D_ANCIENT_VOID_ENERGY_UPD84,ANCIENT VOID ENERGY UPD84,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_ENERGY,dragon_ancient_void_energy_upd84,dragon_ancient_void_energy_upd84_baby|dragon_ancient_void_energy_upd84,false
+1368,D_ANCIENT_VOID_WATER_UPD84,ANCIENT VOID WATER UPD84,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_WATER,dragon_ancient_void_water_upd84,dragon_ancient_void_water_upd84_baby|dragon_ancient_void_water_upd84,false
+1369,D_ANCIENT_VOID_FIRE_UPD84,ANCIENT VOID FIRE UPD84,ANCIENT,SUPREME,E_ANCIENT|E_VOID|E_FIRE,dragon_ancient_void_fire_upd84,dragon_ancient_void_fire_upd84_baby|dragon_ancient_void_fire_upd84,false
+1370,D_ANCIENT_METAL_WIND_UPD84,ANCIENT METAL WIND UPD84,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_WIND,dragon_ancient_metal_wind_upd84,dragon_ancient_metal_wind_upd84_baby|dragon_ancient_metal_wind_upd84,false
+1371,D_ANCIENT_METAL_PLANT_UPD84,ANCIENT METAL PLANT UPD84,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_PLANT,dragon_ancient_metal_plant_upd84,dragon_ancient_metal_plant_upd84_baby|dragon_ancient_metal_plant_upd84,false
+1372,D_ANCIENT_METAL_PRISM_UPD84,ANCIENT METAL PRISM UPD84,ANCIENT,SUPREME,E_ANCIENT|E_METAL|E_PRISM,dragon_ancient_metal_prism_upd84,dragon_ancient_metal_prism_upd84_baby|dragon_ancient_metal_prism_upd84,false
+1373,D_DANDELION_WEASEL,DANDELION WEASEL,LEGENDARY,LEGENDARY,E_NONELEMENT|E_WIND|E_PLANT,dragon_dandelion_weasel,dragon_dandelion_weasel_baby|dragon_dandelion_weasel,false
+1374,D_WISTERIA,WISTERIA,EPIC,EPIC,E_PLANT|E_EARTH|E_WATER,dragon_wisteria,dragon_wisteria_baby|dragon_wisteria,false
+1375,D_NAPOLEON,NAPOLEON,EPIC,EPIC,E_METAL|E_ENERGY|E_VOID,dragon_napoleon,dragon_napoleon_baby|dragon_napoleon,false
+1376,D_CATRINA,CATRINA,DIVINE,SUPREME,E_PLANT|E_ENERGY|E_FIRE,dragon_catrina,dragon_catrina_baby|dragon_catrina,false
+1377,D_BIRCH,BIRCH,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PLANT|E_EARTH,dragon_birch,dragon_birch_baby|dragon_birch,false
+1378,D_BAVARIAN,BAVARIAN,EPIC,EPIC,E_ENERGY|E_EARTH|E_METAL,dragon_bavarian,dragon_bavarian_baby|dragon_bavarian,false
+1379,D_BEAST,BEAST,PRIMAL,LEGENDARY,E_PRIMAL|E_EARTH|E_SHADOW,dragon_beast,dragon_beast_baby|dragon_beast,false
+1380,D_CODRILLE,CODRILLE,PRIMAL,LEGENDARY,E_PRIMAL|E_WATER|E_VOID,dragon_codrille,dragon_codrille_baby|dragon_codrille,false
+1381,D_HEDGEHOG,HEDGEHOG,LEGENDARY,LEGENDARY,E_NONELEMENT|E_PRISM|E_FIRE,dragon_hedgehog,dragon_hedgehog_baby|dragon_hedgehog,false
+1382,D_PUPPET,PUPPET,LEGENDARY,LEGENDARY,E_NONELEMENT|E_METAL|E_SHADOW,dragon_puppet,dragon_puppet_baby|dragon_puppet,false
+1383,D_NOCTIS,NOCTIS,EPIC,EPIC,E_VOID|E_WIND|E_SHADOW,dragon_noctis,dragon_noctis_baby|dragon_noctis,false
