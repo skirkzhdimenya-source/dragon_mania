@@ -7,7 +7,7 @@
 - `structures_catalog.csv` — полный табличный каталог с UID, внутренним ID, параметрами и локализованными именами EN/RU.
 - `event_generators.csv` — все 158 записей с `OBJECT_TYPE = EVENT_CURRENCY_GENERATOR`, включая локализованные имена.
 - `structure_names_unmatched.csv` — записи, для которых не найдено надёжного ключа названия в секции `STRUCTURE` локализаций.
-- `resource_ids_catalog.csv` — символьные ключи ресурсов с именами EN/RU; где точное совпадение найдено в runtime enum, заполнен `NUMERIC_UID`.
+- `resource_ids_catalog.csv` — символьные ключи ресурсов с именами EN/RU; где точное совпадение найдено в runtime enum, заполнен `NUMERIC_ID`.
 - `resource_numeric_ids.csv` — 148 числовых enum ID (0–147) и их строковые ключи, извлечённые из работающего `libDML.so`; включает валюты, расходники, билеты, event-токены и вспомогательные счётчики.
 
 ## Как сопоставлялись имена
