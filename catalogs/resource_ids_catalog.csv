@@ -1,4 +1,4 @@
-RESOURCE_ID,DISPLAY_NAME_EN,DISPLAY_NAME_RU,CATEGORY,NUMERIC_UID
+RESOURCE_ID,DISPLAY_NAME_EN,DISPLAY_NAME_RU,CATEGORY,NUMERIC_ID
 ANCIENT_TICKET,Ancient Ticket,Древний билет,Ticket,
 ARENA_GEM,Arena Energy,Энергия арены,Battle energy alias,7
 BBB_BOSS_ENERGY_MULTIPLIER,Catalyst Shard,Фрагмент Катализатора,Boss-event resource,143
