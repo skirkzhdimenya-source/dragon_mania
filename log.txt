@@ -1,1 +1,1585 @@
-7
+Spawning `com.gameloft.android.NWGG.Gloft86080`...
+[CHEATUI-ROUTE] HOOK_OK: fread_unlocked @ 0x748ab1ffd8
+[CHEATUI-ROUTE] READY: waiting for the original Dragon.dat FWS read.
+Spawned `com.gameloft.android.NWGG.Gloft86080`. Resuming main thread!
+[Remote::com.gameloft.android.NWGG.Gloft86080 ]-> [CHEATUI-ROUTE] HOOK_OK: fread_unlocked @ 0x748ab1ffd8
+[CHEATUI-ROUTE] READY: waiting for the original Dragon.dat FWS read.
+[CHEATUI-ROUTE] FWS confirmed: bytes=32663720, version=31
+[CHEATUI-ROUTE] Read-only scan; no memory or SWF bytes are modified.
+[CHEATUI-ROUTE] SWF tag stream starts at 0x15 (RECT=9 bytes)
+[CHEATUI-ROUTE] TAG #1 type=69 len=4 @0x15
+[CHEATUI-ROUTE] TAG #2 type=77 len=374 @0x1b
+[CHEATUI-ROUTE] TAG #3 type=9 len=3 @0x197
+[CHEATUI-ROUTE] TAG #4 type=65 len=4 @0x19c
+[CHEATUI-ROUTE] TAG #5 type=82 len=810 @0x1a2
+[CHEATUI-ROUTE] TAG #6 type=82 len=31857 @0x4d2
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:898/first=string | multinames:437/first=object | classes:1/first=object | methods:132/first=object | bodies:132/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#122=Cheat_Menu | #338=onButtonEvent | #526=btnCheat
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#75=name=ScreenManager | multinames#106=name=registerButtons | multinames#130=name=pushScreen | multinames#252=name=push | multinames#361=name=showCheatButton
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon visited=968 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #2 tag@0x4d2; classes=1; methods=132
+[CHEATUI-ROUTE]   STRINGS: #122=Cheat_Menu | #236=_isCheatVersion | #237=canEnableCheat | #288=Cheat_Square_Button | #526=btnCheat | #699=showCheatButton
+[CHEATUI-ROUTE]   CLASS Dragon
+[CHEATUI-ROUTE]   MULTINAMES: #5=SCREENS_NOTHING_INTOP | #6=SCREENS_CUSTOM_TOPBAR | #7=SCREENS_REMOVE_X | #8=SCREENS_WITHOUT_TOPBAR | #10=SCREENS_IGNORE_TOPBAR | #12=RECONNECT_SCREEN_NAME | #29=instance | #38=addEventListener | #50=getInstance | #75=ScreenManager | #78=canEnableCheat | #79=setScreenInfo | #92=name | #93=addChild | #100=topLayer | #104=getChildByName | #106=registerButtons | #109=visible | #111=MouseEvent | #112=CLICK | #113=traceStageClick | #114=MOUSE_UP | #115=ScreenTestUtil | #118=showClickLogs | #119=Cheat_Square_Button | #120=activate | #121=isShowCheatButton | #130=pushScreen | #141=addChildAt | #143=setTarget | #148=COVER_NAME | #150=setTopbarVisible | #156=currentTarget | #161=screenLayer | #165=name | #166=showIconLayer | #167=hideIconLayer | #169=screenStack | #172=AddTLESideBarForNoesisScreen | #173=RemoveTLESideBarForNoesisScreen | #174=iconLayer | #176=hideScreen | #177=WINDOWS_CLOSED_ON_BG_CLICK | #180=fightMapVipWasVisible | #181=playerInfoGroup | #183=fightMapPlayerInfoVipWasVisible | #184=popScreenUntil | #185=popScreen | #186=hideScreenUntil | #188=removeFadingScreens | #189=hideTutorialArrow | #190=hideTutorialArrowOnCoordinate | #191=hideTutorialHand | #192=setClickDisabled | #195=hideQuestDesciption | #196=localizeScreen | #197=hideReconnectScreen | #198=ReconnectScreen | #199=createAndAlignScreenBgCover | #200=removeChild | #203=registerButton | #206=showArrow | #207=hideArrow | #208=showTutorialArrowOnCoordinate | #217=tutorialHandTarget | #226=addChild | #242=textClanName | #251=unregisterButton | #252=push | #261=visible | #274=addEventListener | #277=clickDisabled | #278=setTutorialButton | #279=addTutorialWhitelistButton | #280=clearTutorialWhitelistButton | #282=isShown | #285=isScreenInStack | #287=btnCheat | #289=debugText | #293=getShortenedDisplayName | #295=getBottomTextName | #296=text_NOCLICK | #297=setEvoFightCardProgressVisible | #299=showTooltip | #319=target | #323=show | #325=hideTutorialButton | #326=showTutorialButton | #332=CORNER_BUTTON_WIDTH | #337=scrollScreenWithMouseWheel | #338=scrollScreenWithControllerInDirection | #348=IsEnterKeyHandlerImplClassName | #349=LabelButton | #350=getQualifiedClassName | #360=setShowClickLogs | #361=showCheatButton | #369=showScreen | #370=removeEveryScreen | #371=showReconnectScreen | #372=showPauseButton | #373=showSkipTutorialButton | #374=showTutorialArrow | #375=showTutorialHand | #376=showTutorialHandLeft | #377=showDoubleSwipeTutorialHand | #378=showTutorialHandVertical | #379=showAndMoveTutorialHand | #380=showFightTutorialHand | #381=showClanFoodTutorialHand | #382=showHappyDragonTutorialHand | #384=onPopupWindowClicked | #385=updateClanName | #387=showNotifications | #391=showOverlayText | #393=showStackableText | #395=isClickDisabled | #396=getTutorialButton | #397=isTopbarVisible | #399=showText | #400=hideText
+[CHEATUI-ROUTE]     METHOD Dragon.initializeApplication#11 (instance) codeOffset=0x4fca len=789 : d0 30 21 82 d7 d0 24 01 68 38 5d 39 66 39 5d 30 66 30 46 3a 01 29 5d 3b 5d 30 66 30 66 3c 5d 30 66 30 66 3d 5d 30 66 30 66 3c 5d 30 66 30 66 3d 4a 3b 04 80 3b d5 d0 2c d8 01 46 3e 01 12 a5 00 00 5d 39 66 39 26 61 3f d0 2c d8 01 66 40 d0 46 41 01 82 d7 5d 42 66 42 d3 46 43 01 29 d1 d3 2c de 01 66 40 61 44 d1 d3 2c e0 01 66 40 61 45 d1 d3 2c e2 01 66 40 61 46 d1 d3 2c e4 01 66 40 61 47 d0 5d 48 66 48 d1 66 44 5d 30 66 30 66 3c a3 d1 66 45 5d 30 66 30 66 3d a3 46 49 02 68 38 5d 42 66 42 66 4a 12 34 00 00 d1 66 44 d1 66 46 0e 10 00 00 5d 4b 66 4b d1 66 44 d1 66 46 a1 24 02 a3 61 4c d1 66 45 d1 66 47 0e 10 00 00 5d 4b 66 4b d1 66 45 d1 66 47 a1 24 02 a3 61 4d d0 d3 2c ec 01 66 40 68 4e 5d 42 66 42 66 4a 12 27 00 00 5d 4b 66 4b d1 66 44 d1 66 45 46 4f 02 29 5d 50 2c f0 01 5d 4b 66 4b 66 51 a0 46 50 01 29 d0 5d 4b 66 4b 66 51 68 38 d0 66 38 24 01 13 3e 00 00 d1 d1 66 44 d0 66 38 a3 61 44 d1 d1 66 45 d0 66 38 a3 61 45 d1 d1 66 46 d0 66 38 a3 61 46 d1 d1 66 47 d0 66 38 a3 61 47 5d 30 66 30 5d 30 66 30 d0 66 38 2a 63 04 61 52 62 04 08 04 61 53 5d 54 5d 27 66 27 66 28 d0 66 29 46 54 02 29 5d 4b 66 4b d0 66 38 61 51 2c f5 01 70 5d 4b 66 4b 66 55 5d 4b 66 4b 66 56 a9 2c f8 01 70 5d 4b 66 4b 66 57 5d 4b 66 4b 66 55 a9 2c fa 01 70 5d 4b 66 4b 66 55 5d 4b 66 4b 66 57 a9 2c fb 01 70 5d 4b 66 4b 66 55 5d 4b 66 4b 66 57 a9 2c fc 01 70 5d 4b 66 4b 66 56 2c fd 01 70 5d 4b 66 4b 66 58 5d 4b 66 4b 66 56 a9 2c ff 01 70 5d 4b 66 4b 66 58 5d 4b 66 4b 66 56 a9 2c 80 02 70 5d 4b 66 4b 66 55 5d 4b 66 4b 66 56 a9 55 08 82 d6 5d 4b 66 4b 5d 30 66 30 d2 d1 46 59 03 29 d0 5d 5a 4a 5a 00 68 5b d0 66 5b 2c 84 02 61 5c 5d 30 66 30 d0 66 5b 46 5d 01 29 d0 5d 5e 4a 5e 00 68 5f d0 5d 4b 66 4b 66 60 d0 66 5f 66 61 66 47 a0 5d 4b 66 4b 66 60 24 02 a2 a0 68 62 d0 5d 4b 66 4b 66 60 24 3f a0 68 63 5d 4b 66 4b 66 64 d0 66 5f 46 5d 01 29 d0 66 5f 2c 88 02 61 5c d0 66 5f 5d 4b 66 4b 66 65 5d 4b 66 4b 66 66 a1 24 02 a3 61 44 d0 66 5f d0 66 5f 66 47 90 61 45 d0 66 5f d0 66 5b 46 67 01 29 d0 d0 66 5f 2c 91 02 46 68 01 5d 1a 66 1a 87 68 69 5d 4b 66 4b d0 66 5f 46 6a 01 29 d0 5d 6b 4a 6b 00 68 6c d0 66 6c 2c 95 02 61 5c d0 66 6c 27 61 6d 5d 4b 66 4b 66 64 d0 66 6c 46 5d 01 29 d0 46 6e 00 29 5d 30 66 30 5d 6f 66 6f 66 70 d0 66 71 27 24 00 26 46 26 05 29 5d 30 66 30 5d 6f 66 6f 66 72 d0 66 71 27 24 00 26 46 26 05 29 5d 39 66 39 66 3f 27 14 09 00 00 5d 73 66 73 d0 46 74 01 29 47
+[CHEATUI-ROUTE]     METHOD Dragon.showCheatButton#15 (instance) codeOffset=0x531a len=31 : d0 30 5d 77 66 77 46 32 00 d1 76 2a 76 12 05 00 00 29 d0 66 4e 76 46 78 01 29 d0 d1 68 79 47
+[CHEATUI-ROUTE]     METHOD Dragon.showScreen#25 (instance) codeOffset=0x5754 len=349 : d0 30 21 82 63 04 21 82 63 05 27 63 06 5d 4b 66 4b d1 d2 46 82 01 02 82 d7 d0 46 a4 01 00 29 d3 66 a5 01 2c 33 ab 76 2a 76 11 09 00 00 29 d3 66 a5 01 2c 67 ab 76 2a 76 11 0a 00 00 29 d3 66 a5 01 2c e3 02 ab 76 12 0a 00 00 d0 46 a6 01 00 29 10 06 00 00 d0 46 a7 01 00 29 5d 0a 66 0a d3 66 a5 01 46 a8 01 01 24 00 0c ef 00 00 5d 4b 66 4b 66 a9 01 5d 4b 66 4b 66 a9 01 66 aa 01 24 01 a1 66 40 82 63 04 5d 4b 66 4b 66 a9 01 5d 4b 66 4b 66 a9 01 66 aa 01 24 02 a1 66 40 82 63 05 62 04 76 12 08 00 00 62 04 66 a5 01 82 63 04 62 05 76 12 08 00 00 62 05 66 a5 01 82 63 05 62 05 2c 6e ab 76 2a 76 12 08 00 00 29 62 04 2c e9 02 ab 76 12 02 00 00 d3 48 62 04 2c ea 02 14 01 00 00 47 5d 42 66 42 66 a0 01 76 2a 76 11 09 00 00 29 5d 42 66 42 66 86 01 76 12 1a 00 00 62 05 2c 2f ab 76 2a 76 12 08 00 00 29 62 04 2c eb 02 ab 76 12 02 00 00 d3 48 5d 08 66 08 d3 66 a5 01 46 a8 01 01 24 00 ad 76 63 06 62 06 76 2a 76 12 08 00 00 29 62 04 2c ec 02 ab 76 2a 76 12 07 00 00 29 62 05 2c 2f ab 76 12 01 00 00 47 d0 66 5f 62 06 62 04 2c ed 02 ab 96 46 ab 01 02 29 d3 48
+[CHEATUI-ROUTE] TAG #7 type=82 len=553 @0x8149
+[CHEATUI-ROUTE] TAG #8 type=82 len=652 @0x8378
+[CHEATUI-ROUTE] TAG #9 type=82 len=431 @0x860a
+[CHEATUI-ROUTE] TAG #10 type=82 len=674 @0x87bf
+[CHEATUI-ROUTE] TAG #11 type=82 len=593 @0x8a67
+[CHEATUI-ROUTE] TAG #12 type=82 len=1585 @0x8cbe
+[CHEATUI-ROUTE] TAG #13 type=82 len=452 @0x92f5
+[CHEATUI-ROUTE] TAG #14 type=82 len=5566 @0x94bf
+[CHEATUI-ROUTE] TAG #15 type=82 len=461 @0xaa83
+[CHEATUI-ROUTE] TAG #16 type=82 len=417 @0xac56
+[CHEATUI-ROUTE] TAG #17 type=82 len=417 @0xadfd
+[CHEATUI-ROUTE] TAG #18 type=82 len=470 @0xafa4
+[CHEATUI-ROUTE] TAG #19 type=82 len=431 @0xb180
+[CHEATUI-ROUTE] TAG #20 type=82 len=4991 @0xb335
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_BookOfDragons_Entry ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:59/first=string | multinames:19/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_BookOfDragons_Entry visited=53 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Clan_Dragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:65/first=string | multinames:23/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Clan_Dragon visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Clan_Dragon_Power ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:59/first=string | multinames:19/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Clan_Dragon_Power visited=53 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BookOfDragonsTabToggleButton ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:53/first=string | multinames:25/first=object | classes:1/first=object | methods:9/first=object | bodies:9/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BookOfDragonsTabToggleButton visited=67 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Collections_Tab_DragonCodex ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:60/first=string | multinames:20/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Collections_Tab_DragonCodex visited=54 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Dragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:76/first=string | multinames:30/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#9=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Dragon visited=64 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #143 tag@0x36002; classes=1; methods=6
+[CHEATUI-ROUTE]   STRINGS: #30=CheatMenuLayoutGroup
+[CHEATUI-ROUTE] ABC #144 tag@0x36611; classes=1; methods=3
+[CHEATUI-ROUTE]   STRINGS: #1=CheatMenuLayoutGroup
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivinePartsProgressBarDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:22/first=string | multinames:13/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivinePartsProgressBarDragon visited=31 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCardEvoStar ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:71/first=string | multinames:44/first=object | classes:1/first=object | methods:9/first=object | bodies:9/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCardEvoStar visited=86 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCardEvoStar ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:22/first=string | multinames:13/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCardEvoStar visited=31 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonLevelBadge ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:59/first=string | multinames:30/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonLevelBadge visited=64 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonLevelBadge ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:18/first=string | multinames:11/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonLevelBadge visited=29 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCardText ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:14/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCardText visited=32 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_ClanDragonCare_ClanDragonPower_1638 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:70/first=string | multinames:24/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_ClanDragonCare_ClanDragonPower_1638 visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_ClanDragonCare_Inventory_1636 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:64/first=string | multinames:21/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_ClanDragonCare_Inventory_1636 visited=55 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_ClanDragonCare_NextEvent_1635 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:64/first=string | multinames:21/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_ClanDragonCare_NextEvent_1635 visited=55 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Dragon_Pieces_Long_3649 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:65/first=string | multinames:22/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Dragon_Pieces_Long_3649 visited=60 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Dungeon_Dragons_2271 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:70/first=string | multinames:24/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Dungeon_Dragons_2271 visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Fountain_Select_Dragon_2610 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:64/first=string | multinames:21/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Fountain_Select_Dragon_2610 visited=55 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_HatchClanDragon_1645 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:67/first=string | multinames:23/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_HatchClanDragon_1645 visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Shop_DragonParts_3648 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:70/first=string | multinames:24/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Shop_DragonParts_3648 visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Shop_Dragon_3642 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:71/first=string | multinames:25/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Shop_Dragon_3642 visited=63 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Button_Toggle_Dragon_941 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:64/first=string | multinames:21/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Button_Toggle_Dragon_941 visited=55 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ClanDragonCare_FirstHatchPanel_1642 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:82/first=string | multinames:31/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ClanDragonCare_FirstHatchPanel_1642 visited=53 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ClanDragonPower_1840 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:70/first=string | multinames:24/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ClanDragonPower_1840 visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=CollectionUnlockedDragons_Panel_1967 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:81/first=string | multinames:31/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=CollectionUnlockedDragons_Panel_1967 visited=53 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCareFood_2170 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:33/first=string | multinames:17/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCareFood_2170 visited=39 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCareRevenue_2168 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:33/first=string | multinames:17/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCareRevenue_2168 visited=39 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCodexCard_BgDefaultImageByElement_2223 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCodexCard_BgDefaultImageByElement_2223 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCardUpd77_BackCard_2224 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCardUpd77_BackCard_2224 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCardUpd77_Background_2222 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:27/first=string | multinames:14/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCardUpd77_Background_2222 visited=36 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCardUpd77_Info_2225 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:76/first=string | multinames:28/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCardUpd77_Info_2225 visited=50 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonProperty_2009 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:90/first=string | multinames:36/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonProperty_2009 visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon_Info_Panel_Sigil_2155 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:39/first=string | multinames:20/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon_Info_Panel_Sigil_2155 visited=42 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon_Part_Box_Content_Panel_3167 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:81/first=string | multinames:31/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon_Part_Box_Content_Panel_3167 visited=53 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=EvoAndDragonTicket_1394 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=EvoAndDragonTicket_1394 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FightBossDragonSelect_2530 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:50/first=string | multinames:26/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FightBossDragonSelect_2530 visited=48 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FightDragonEnemyMultiWave_2533 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:37/first=string | multinames:19/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FightDragonEnemyMultiWave_2533 visited=41 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LeveledUpDragonEvoBgUpd68_2145 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LeveledUpDragonEvoBgUpd68_2145 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PlayerProfile_MostPowerfulDragon_Bg_3352 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PlayerProfile_MostPowerfulDragon_Bg_3352 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Referral_Dragon_Checkpoint_3376 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:36/first=string | multinames:19/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Referral_Dragon_Checkpoint_3376 visited=41 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ShopUpd68_DragonName_bgSmall_741 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ShopUpd68_DragonName_bgSmall_741 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ShopUpd68_DragonName_bg_815 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ShopUpd68_DragonName_bg_815 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TopbarDragonFood_ABTest_1707 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:70/first=string | multinames:24/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TopbarDragonFood_ABTest_1707 visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_ClanDragonCard_1754 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:13/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_ClanDragonCard_1754 visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_ClanDragonInventoryItem_Avatar_Effect_759 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:14/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_ClanDragonInventoryItem_Avatar_Effect_759 visited=40 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_DragonCard_Level_369 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_DragonCard_Level_369 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_DragonPartsCard_Back_2196 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_DragonPartsCard_Back_2196 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_DragonPartsShopCard_2685 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:13/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_DragonPartsShopCard_2685 visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_FriendDragonListContent_2636 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_FriendDragonListContent_2636 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=V_Bg_HappyDragonEvent_Play_3251 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:67/first=string | multinames:23/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=V_Bg_HappyDragonEvent_Play_3251 visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=bottombarHappyDragonDiceEvent_TLEHub_3263 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:91/first=string | multinames:37/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=bottombarHappyDragonDiceEvent_TLEHub_3263 visited=59 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=btnToggleClanDragonCareChat_1729 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:62/first=string | multinames:20/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#4=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=btnToggleClanDragonCareChat_1729 visited=54 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=happyDragonDiceBox_3232 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:48/first=string | multinames:25/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=happyDragonDiceBox_3232 visited=47 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FightOrderDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:24/first=string | multinames:13/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FightOrderDragon visited=31 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Fight_Dragon_Status ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:96/first=string | multinames:38/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Fight_Dragon_Status visited=60 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FriendDragonList_Item ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:71/first=string | multinames:39/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FriendDragonList_Item visited=61 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Icon_ClanDragon_Power ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Icon_ClanDragon_Power visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Icon_DragonPower ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:21/first=string | multinames:13/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Icon_DragonPower visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Icon_Dragon_Part ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Icon_Dragon_Part visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PanelSigilInfo_BBBDragonHeader ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:28/first=string | multinames:16/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PanelSigilInfo_BBBDragonHeader visited=38 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PanelSigilInfo_DragonProps ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:58/first=string | multinames:32/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PanelSigilInfo_DragonProps visited=54 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Shop_Item_DragonPart ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:66/first=string | multinames:35/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Shop_Item_DragonPart visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonEvent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:40/first=string | multinames:17/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonEvent visited=39 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AnimCompleted_DragonCollection ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:62/first=string | multinames:33/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AnimCompleted_DragonCollection visited=59 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BigBadBoss_DragonHead_Effects ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:56/first=string | multinames:29/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BigBadBoss_DragonHead_Effects visited=51 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BookOfDragons_Card ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:205/first=string | multinames:128/first=object | classes:1/first=object | methods:14/first=object | bodies:14/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BookOfDragons_Card visited=190 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ButtonDragonAssign ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:337/first=string | multinames:182/first=object | classes:1/first=object | methods:16/first=object | bodies:16/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#44=name=ScreenManager | multinames#145=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ButtonDragonAssign visited=252 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ClanDragonInventoryCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:196/first=string | multinames:114/first=object | classes:1/first=object | methods:11/first=object | bodies:11/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#44=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ClanDragonInventoryCard visited=164 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCard_OpponentSelector ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:227/first=string | multinames:127/first=object | classes:1/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#21=name=ScreenManager | multinames#96=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCard_OpponentSelector visited=181 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:97/first=string | multinames:51/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCard visited=81 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCardUpd68 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:99/first=string | multinames:52/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCardUpd68 visited=82 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsCardUpd77 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:105/first=string | multinames:58/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsCardUpd77 visited=88 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon_Evo_Star ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:21/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon_Evo_Star visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon_Info_Card_Sigil ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:103/first=string | multinames:57/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon_Info_Card_Sigil visited=83 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Fight_Dragon_Status_Effects_Wrapper ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:52/first=string | multinames:21/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Fight_Dragon_Status_Effects_Wrapper visited=43 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FramedDragonAssign ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:69/first=string | multinames:37/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FramedDragonAssign visited=63 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IH_BookOfDragonReward ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:101/first=string | multinames:54/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#37=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IH_BookOfDragonReward visited=88 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IH_ClanDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:53/first=string | multinames:24/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IH_ClanDragon visited=46 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IH_DragonPartsItemUpd77 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:90/first=string | multinames:52/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IH_DragonPartsItemUpd77 visited=82 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Inventory_Item_LeveledUpDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:121/first=string | multinames:63/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#2=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Inventory_Item_LeveledUpDragon visited=89 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AnimCompletedDragonCollectionModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:31/first=string | multinames:14/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AnimCompletedDragonCollectionModel visited=48 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IBookOfDragonsDataModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:26/first=string | multinames:12/first=object | classes:1/first=object | methods:9/first=object | bodies:9/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IBookOfDragonsDataModel visited=47 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BaseBookOfDragonsDataModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:47/first=string | multinames:29/first=object | classes:1/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BaseBookOfDragonsDataModel visited=83 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:213/first=string | multinames:154/first=object | classes:1/first=object | methods:51/first=object | bodies:51/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#7=name=push
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonModel visited=364 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsDataModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:33/first=string | multinames:17/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsDataModel visited=47 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BookOfDragonsModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:52/first=string | multinames:25/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BookOfDragonsModel visited=63 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BaseBookOfDragonsView ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:33/first=string | multinames:18/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BaseBookOfDragonsView visited=40 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCardEvoStars ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:80/first=string | multinames:39/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCardEvoStars visited=61 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BookOfDragonsCollectionsView ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:78/first=string | multinames:39/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BookOfDragonsCollectionsView visited=61 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DailyLoginDragonElementItem ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:50/first=string | multinames:29/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DailyLoginDragonElementItem visited=59 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineAltarChapterDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:196/first=string | multinames:120/first=object | classes:1/first=object | methods:27/first=object | bodies:27/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineAltarChapterDragon visited=234 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineAltarChapterDragonUpd77 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:198/first=string | multinames:120/first=object | classes:1/first=object | methods:28/first=object | bodies:28/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineAltarChapterDragonUpd77 visited=238 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonInfoUpd68 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:94/first=string | multinames:47/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#8=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonInfoUpd68 visited=73 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Shop_Item_DragonPartUpd68 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:192/first=string | multinames:100/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#40=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Shop_Item_DragonPartUpd68 visited=130 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ButtonBookOfDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:111/first=string | multinames:61/first=object | classes:1/first=object | methods:15/first=object | bodies:15/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#58=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ButtonBookOfDragons visited=127 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ButtonDragonsHoard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:82/first=string | multinames:46/first=object | classes:1/first=object | methods:10/first=object | bodies:10/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#48=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ButtonDragonsHoard visited=92 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCareActionButton ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:75/first=string | multinames:36/first=object | classes:1/first=object | methods:11/first=object | bodies:11/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCareActionButton visited=86 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AI_Test_Dragon_Selection ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:150/first=string | multinames:84/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#5=name=push | multinames#33=name=ScreenManager | multinames#46=name=registerButtons | multinames#49=name=showCheatButton
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AI_Test_Dragon_Selection visited=122 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #1671 tag@0x283192; classes=1; methods=8
+[CHEATUI-ROUTE]   STRINGS: #78=showCheatButton
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ArenaOpponentDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:67/first=string | multinames:32/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ArenaOpponentDragonCard visited=54 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Background_DragonCare ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:87/first=string | multinames:45/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Background_DragonCare visited=67 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BookOfDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:481/first=string | multinames:324/first=object | classes:1/first=object | methods:61/first=object | bodies:61/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#135=name=ScreenManager | multinames#175=name=sendButtonEvent | multinames#211=name=push
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BookOfDragons visited=574 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #1727 tag@0x2c2228; classes=1; methods=10
+[CHEATUI-ROUTE]   STRINGS: #48=Cheat_Button
+[CHEATUI-ROUTE]   CLASS Cheat_Button
+[CHEATUI-ROUTE]   MULTINAMES: #13=name | #22=Cheat_Button | #24=Cheat_Button
+[CHEATUI-ROUTE]     METHOD Cheat_Button.frame6#6 (instance) codeOffset=0x2c27be len=26 : d0 30 d0 2c 0f 66 0c 76 12 0d 00 00 d0 2c 0f 66 0c d0 d0 66 0d 46 0e 02 29 47
+[CHEATUI-ROUTE] ABC #1728 tag@0x2c2847; classes=1; methods=3
+[CHEATUI-ROUTE]   STRINGS: #26=Cheat_HackPosition
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Cheat_Menu ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:139/first=string | multinames:92/first=object | classes:1/first=object | methods:10/first=object | bodies:10/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#126=Cheat_Menu
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#39=name=push | multinames#46=name=ScreenManager | multinames#47=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Cheat_Menu visited=138 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #1729 tag@0x2c2b12; classes=1; methods=10
+[CHEATUI-ROUTE]   STRINGS: #23=Cheat_Button | #113=CheatMenuLayoutGroup | #126=Cheat_Menu
+[CHEATUI-ROUTE]   CLASS Cheat_Menu
+[CHEATUI-ROUTE]   MULTINAMES: #2=__setProp_scrollArea_Cheat_Menu_scrollArea_0 | #10=instance | #11=setTopbarVisible | #16=Cheat_Button | #27=name | #39=push | #43=visible | #46=ScreenManager | #47=registerButtons | #53=setTarget | #60=btnCheatBack | #61=btnCheatRepeat | #62=currentTarget | #63=name | #64=scrollScreenMouseWheel | #72=targetName | #75=Button_Back | #79=CheatMenuLayoutGroup | #84=Cheat_Menu
+[CHEATUI-ROUTE]     METHOD Cheat_Menu.addedToStageEventHandler#2 (instance) codeOffset=0x2c3541 len=37 : d0 30 d0 d1 45 03 01 29 5d 04 66 04 5d 05 66 05 66 06 d0 66 07 46 08 02 29 5d 09 66 09 66 0a 27 46 0b 01 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Menu.removedFromStageEventHandler#3 (instance) codeOffset=0x2c356e len=37 : d0 30 d0 d1 45 0e 01 29 5d 04 66 04 5d 05 66 05 66 06 d0 66 07 46 0f 02 29 5d 09 66 09 66 0a 26 46 0b 01 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Menu.init#4 (instance) codeOffset=0x2c359c len=551 : d0 30 20 80 10 d7 20 80 11 63 05 20 80 12 63 06 20 80 10 63 07 24 00 74 63 08 24 00 63 09 24 00 63 0a 24 00 63 0b 20 80 13 63 0c 5d 10 4a 10 00 80 10 d7 d0 66 14 24 14 61 15 d0 66 14 24 03 61 16 d0 66 14 d3 66 17 d0 66 14 66 16 a2 d0 66 14 66 15 d0 66 14 66 16 24 01 a1 a2 a0 61 18 d0 66 14 46 19 00 29 d0 56 00 68 1a d2 12 28 00 00 5d 11 4a 11 00 80 11 63 05 62 05 2c 23 61 1b 62 05 d3 66 17 24 02 a2 61 17 62 05 24 3c 61 1c d0 66 14 62 05 46 1d 01 29 24 00 73 63 04 10 27 01 00 09 d1 62 04 66 1e 80 12 63 06 5d 10 4a 10 00 80 10 63 07 62 07 2c 30 62 06 2c 31 66 1e a0 61 1b 5d 1f 66 1f 62 07 66 20 62 06 2c 34 66 1e 26 24 14 46 21 04 29 5d 1f 66 1f 62 07 66 20 46 22 01 29 62 06 2c 37 66 1e 76 12 76 00 00 62 06 2c 37 66 1e 74 63 08 62 08 25 ff 01 a8 73 63 09 62 08 24 08 a6 25 ff 01 a8 73 63 0a 62 08 24 10 a6 25 ff 01 a8 73 63 0b 62 0b 62 0a 62 09 56 03 80 13 63 0c d0 66 01 62 07 66 1b 62 0c 61 1e 62 07 66 23 66 24 5d 25 2f 01 2f 01 2f 01 24 01 62 0b 2f 02 a2 62 0a 2f 02 a2 62 09 2f 02 a2 4a 25 07 61 26 d0 66 1a 2c 3d 62 07 2c 3e 62 0c 55 02 46 27 01 29 62 06 2c 40 66 1e 76 12 1a 00 00 5d 1f 66 1f 62 07 66 28 66 29 66 2a 62 06 2c 40 66 1e 46 21 02 29 10 07 00 00 62 07 66 28 27 61 2b 62 06 2c 45 66 1e 76 12 1f 00 00 62 06 2c 45 66 1e 26 14 0c 00 00 62 07 2c 46 46 2c 01 29 10 08 00 00 62 07 2c 48 46 2c 01 29 d0 66 14 62 07 46 1d 01 29 62 04 c0 73 63 04 62 04 d1 66 2d 15 d0 fe ff 5d 2e 66 2e d0 66 14 46 2f 01 29 d0 66 14 46 30 00 29 d0 66 14 d0 66 31 66 32 d0 66 31 66 1c 24 02 a3 a1 62 07 66 1c 24 02 a3 a0 61 32 d0 66 14 d0 66 14 66 17 90 24 02 a3 61 33 d0 66 31 5d 2e 66 2e 66 34 61 17 d0 66 31 d0 66 14 46 35 01 29 d0 66 23 27 61 2b 47
+[CHEATUI-ROUTE]     METHOD Cheat_Menu.applicationRenderLoop#5 (instance) codeOffset=0x2c37cc len=182 : d0 30 20 80 12 d6 21 82 d7 20 80 13 63 04 24 00 63 05 24 00 63 06 24 00 63 07 24 00 63 08 d0 66 1a 82 63 09 10 53 00 00 09 62 09 62 08 23 80 12 d6 d2 66 37 82 d7 d2 66 38 80 13 63 04 62 04 24 02 66 1e 73 63 05 62 04 24 01 66 1e 73 63 06 62 04 24 00 66 1e 73 63 07 d3 66 39 66 3a 5d 25 2f 01 2f 01 2f 01 24 01 62 07 2f 02 a2 62 06 2f 02 a2 62 05 2f 02 a2 4a 25 07 61 3b 32 09 08 11 a6 ff ff 08 09 08 08 d0 66 3c 5d 2e 66 2e 66 34 24 02 a3 d0 66 3c 66 17 24 02 a3 a1 90 61 33 d0 66 3d 5d 2e 66 2e 66 34 24 02 a3 d0 66 3d 66 17 24 02 a3 a1 61 33 47
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Cheat_Square_Button ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:117/first=string | multinames:73/first=object | classes:1/first=object | methods:16/first=object | bodies:16/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#11=btnCheat | #63=CHEAT | #67=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#34=name=CommonProxy | multinames#35=name=sendButtonEvent | multinames#39=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Cheat_Square_Button visited=143 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #1730 tag@0x2c39b5; classes=1; methods=16
+[CHEATUI-ROUTE]   STRINGS: #5=Cheat_Square_Button | #11=btnCheat
+[CHEATUI-ROUTE]   CLASS Cheat_Square_Button
+[CHEATUI-ROUTE]   BUTTON_ALL_POOL_0_75: #0= | #1=com.gameloft.dragon:Cheat_Square_Button | #2= | #3=instance | #4=com.gameloft.dragon | #5=Cheat_Square_Button | #6=addFrameScript | #7=frame1 | #8=frame4 | #9=frame5 | #10=frame11 | #11=btnCheat | #12=name | #13=addedToStageEventHandler | #14=com.gameloft.dragon.view.base:BaseView | #15=CoreListener | #16=core.notification | #17=ApplicationController | #18=com.gameloft.dragon.controller | #19=NOTIFICATION_RENDER_LOOP | #20=applicationRenderLoop | #21=register | #22=MouseEvent | #23=flash.events | #24=MOUSE_DOWN | #25=btnPressed | #26=addEventListener | #27=void | #28=Event | #29=removedFromStageEventHandler | #30=unregister | #31=quickClick | #32=MOUSE_UP | #33=makeChoice | #34=MOUSE_OUT | #35=out | #36=setTimeout | #37=flash.utils | #38=changeClickStatus | #39=sto | #40=pressed | #41=gotoAndPlay | #42=removeEventListener | #43=clearTimeout | #44=CommonProxy | #45=sendButtonEvent | #46=stopDrag | #47=idle | #48=gotoAndStop | #49=startDrag | #50=ScreenManager | #51=topLayer | #52=contains | #53=addChild | #54=Width | #55=height | #56=x | #57=Height | #58=outline | #59=y | #60=removeChild | #61=Boolean | #62=textButton | #63=CHEAT | #64=text | #65=Object | #66=stop | #67=onButtonEvent | #68=Cheat_Square_Button.as$1199 | #69=http://adobe.com/AS3/2006/builtin | #70=core.base:CoreBaseMovieClip | #71=flash.display:MovieClip | #72=flash.display:Sprite | #73=flash.display:DisplayObjectContainer | #74=flash.display:InteractiveObject | #75=flash.display:DisplayObject
+[CHEATUI-ROUTE]   BUTTON_FULL_MULTINAMES: #1=instance | #2=Cheat_Square_Button | #3=addFrameScript | #4=frame1 | #5=frame4 | #6=frame5 | #7=frame11 | #8=name | #9=addedToStageEventHandler | #10=CoreListener | #11=ApplicationController | #12=NOTIFICATION_RENDER_LOOP | #13=applicationRenderLoop | #14=register | #15=MouseEvent | #16=MOUSE_DOWN | #17=btnPressed | #18=addEventListener | #19=void | #20=Event | #21=removedFromStageEventHandler | #22=unregister | #23=quickClick | #24=MOUSE_UP | #25=makeChoice | #26=MOUSE_OUT | #27=out | #28=setTimeout | #29=changeClickStatus | #30=sto | #31=gotoAndPlay | #32=removeEventListener | #33=clearTimeout | #34=CommonProxy | #35=sendButtonEvent | #36=stopDrag | #37=gotoAndStop | #38=startDrag | #39=ScreenManager | #40=topLayer | #41=contains | #42=addChild | #43=Width | #44=height | #45=x | #46=Height | #47=outline | #48=y | #49=removeChild | #50=Boolean | #51=textButton | #52=text | #53=Object | #54=stop | #56=call | #57=getInstance | #58=bg | #59=MovieClip | #60=TextField | #61=uint | #62=addedToStageEventHandler | #63=removedFromStageEventHandler | #64=activate | #65=BaseView | #66=Cheat_Square_Button | #67=EventDispatcher | #68=DisplayObject | #69=InteractiveObject | #70=DisplayObjectContainer | #71=Sprite | #72=CoreBaseMovieClip
+[CHEATUI-ROUTE]   BUTTON_ROUTE_STRINGS: #1=com.gameloft.dragon:Cheat_Square_Button | #5=Cheat_Square_Button | #11=btnCheat | #12=name | #13=addedToStageEventHandler | #22=MouseEvent | #23=flash.events | #24=MOUSE_DOWN | #25=btnPressed | #26=addEventListener | #28=Event | #29=removedFromStageEventHandler | #31=quickClick | #32=MOUSE_UP | #33=makeChoice | #34=MOUSE_OUT | #38=changeClickStatus | #40=pressed | #42=removeEventListener | #45=sendButtonEvent | #50=ScreenManager | #63=CHEAT | #67=onButtonEvent | #68=Cheat_Square_Button.as$1199 | #76=flash.events:EventDispatcher | #80=D:\DML\trunk\data\UI_Flash_CS\prj\dragon\src\com\gameloft\dragon\Cheat_Square_Button.as | #101=activate | #107=EventDispatcher
+[CHEATUI-ROUTE]   MULTINAMES: #1=instance | #2=Cheat_Square_Button | #8=name | #15=MouseEvent | #18=addEventListener | #23=quickClick | #24=MOUSE_UP | #29=changeClickStatus | #35=sendButtonEvent | #39=ScreenManager | #40=topLayer | #41=contains | #42=addChild | #49=removeChild | #51=textButton | #57=getInstance | #64=activate | #66=Cheat_Square_Button
+[CHEATUI-ROUTE]     METHOD Cheat_Square_Button.addedToStageEventHandler#3 (instance) codeOffset=0x2c4290 len=40 : d0 30 d0 d1 45 09 01 29 5d 0a 66 0a 5d 0b 66 0b 66 0c d0 66 0d 46 0e 02 29 d0 5d 0f 66 0f 66 10 d0 66 11 46 12 02 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Square_Button.removedFromStageEventHandler#4 (instance) codeOffset=0x2c42c0 len=26 : d0 30 d0 d1 45 15 01 29 5d 0a 66 0a 5d 0b 66 0b 66 0c d0 66 0d 46 16 02 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Square_Button.btnPressed#5 (instance) codeOffset=0x2c42e2 len=56 : d0 30 d0 26 68 17 d0 5d 0f 66 0f 66 18 d0 66 19 46 12 02 29 d0 5d 0f 66 0f 66 1a d0 66 1b 46 12 02 29 d0 5d 1c d0 66 1d 25 e8 07 46 1c 02 68 1e d0 2c 28 46 1f 01 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Square_Button.makeChoice#6 (instance) codeOffset=0x2c4322 len=61 : d0 30 d0 5d 0f 66 0f 66 18 d0 66 19 46 20 02 29 5d 21 d0 66 1e 46 21 01 29 d0 66 17 12 10 00 00 5d 22 66 22 2c 0b 2c 02 46 23 02 29 10 05 00 00 d0 46 24 00 29 d0 2c 2f 46 25 01 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Square_Button.changeClickStatus#8 (instance) codeOffset=0x2c43a7 len=12 : d0 30 d0 27 68 17 d0 46 26 00 29 47
+[CHEATUI-ROUTE]     METHOD Cheat_Square_Button.activate#9 (instance) codeOffset=0x2c43bc len=167 : d0 30 10 69 00 00 09 5d 27 66 27 66 28 d0 46 29 01 96 12 0b 00 00 5d 27 66 27 66 28 d0 46 2a 01 29 d0 5d 27 66 27 66 2b d0 66 2c a1 24 50 a1 61 2d d0 5d 27 66 27 66 2e 5d 27 66 27 66 2f a1 d0 66 2c 24 02 a3 a1 61 30 10 5a 00 00 09 5d 27 66 27 66 28 d0 46 29 01 12 0b 00 00 5d 27 66 27 66 28 d0 46 31 01 29 10 3c 00 00 09 10 37 00 00 d1 d6 26 d2 1a 06 00 00 25 00 10 19 00 00 27 d2 1a 06 00 00 25 01 10 0d 00 00 27 12 06 00 00 25 02 10 02 00 00 25 02 08 02 1b d2 ff ff 02 6e ff ff b4 ff ff d2 ff ff 47
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ClanDragonCare ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:1058/first=string | multinames:612/first=object | classes:1/first=object | methods:128/first=object | bodies:128/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#115=name=sendButtonEvent | multinames#146=name=ScreenManager | multinames#295=name=push | multinames#345=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ClanDragonCare visited=1130 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Clan_DragonPowerLevel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:43/first=string | multinames:18/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Clan_DragonPowerLevel visited=40 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Clan_Dragon_Inventory ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:188/first=string | multinames:125/first=object | classes:1/first=object | methods:17/first=object | bodies:17/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#96=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#20=name=ScreenManager | multinames#60=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Clan_Dragon_Inventory visited=199 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=CollectionUnlockedDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:105/first=string | multinames:73/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#24=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=CollectionUnlockedDragons visited=111 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCare ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:485/first=string | multinames:304/first=object | classes:1/first=object | methods:58/first=object | bodies:58/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#10=name=ScreenManagerProxy | multinames#73=name=sendButtonEvent | multinames#76=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCare visited=542 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCareMaxLevelRaiserPanel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:154/first=string | multinames:87/first=object | classes:1/first=object | methods:23/first=object | bodies:23/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#56=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCareMaxLevelRaiserPanel visited=184 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCareOverchargeTooltip ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:36/first=string | multinames:18/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCareOverchargeTooltip visited=44 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCare_Result ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:96/first=string | multinames:44/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCare_Result visited=70 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCollectorMilestones ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:232/first=string | multinames:144/first=object | classes:1/first=object | methods:10/first=object | bodies:10/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#19=name=ScreenManager | multinames#91=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCollectorMilestones visited=190 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCollectorSoftTutorialContent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:221/first=string | multinames:87/first=object | classes:1/first=object | methods:9/first=object | bodies:9/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#15=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCollectorSoftTutorialContent visited=129 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonExpeditionShop ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:144/first=string | multinames:95/first=object | classes:1/first=object | methods:13/first=object | bodies:13/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#4=name=ScreenManager | multinames#47=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonExpeditionShop visited=153 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonPartsInfo ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:32/first=string | multinames:17/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonPartsInfo visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRejoicer ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:78/first=string | multinames:40/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#7=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRejoicer visited=70 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerSoftTutorialContent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:98/first=string | multinames:46/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#27=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerSoftTutorialContent visited=84 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonSelect_Line ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:99/first=string | multinames:51/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#6=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonSelect_Line visited=81 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonSelectionFullscreen ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:153/first=string | multinames:101/first=object | classes:1/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#76=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#9=name=ScreenManager | multinames#47=name=push | multinames#55=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonSelectionFullscreen visited=155 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon_Info_Sigil ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:395/first=string | multinames:237/first=object | classes:1/first=object | methods:24/first=object | bodies:24/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#277=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#22=name=ScreenManager | multinames#30=name=sendButtonEvent | multinames#168=name=registerButtons | multinames#206=name=push
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon_Info_Sigil visited=339 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DungeonDragonSelector ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:160/first=string | multinames:102/first=object | classes:1/first=object | methods:10/first=object | bodies:10/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#4=name=ScreenManager | multinames#46=name=push | multinames#54=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DungeonDragonSelector visited=148 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FriendDragonList ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:146/first=string | multinames:95/first=object | classes:1/first=object | methods:11/first=object | bodies:11/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#2=name=ScreenManager | multinames#23=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FriendDragonList visited=145 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=GraphChallengeDragonPurchase ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:148/first=string | multinames:89/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#20=name=ScreenManager | multinames#69=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=GraphChallengeDragonPurchase visited=127 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=HappyDragonDiceSoftTutorialContent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:97/first=string | multinames:47/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#11=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=HappyDragonDiceSoftTutorialContent visited=77 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=HatchDragonEgg ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:163/first=string | multinames:92/first=object | classes:1/first=object | methods:17/first=object | bodies:17/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=HatchDragonEgg visited=166 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=HelpPage_DragonCare ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:46/first=string | multinames:24/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=HelpPage_DragonCare visited=46 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LanguageSelection ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:178/first=string | multinames:118/first=object | classes:1/first=object | methods:11/first=object | bodies:11/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#59=onCheatPressed | #67=onCheatEnabled | #68=btnCheat
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#32=name=ScreenManager | multinames#41=name=onCheatPressed | multinames#49=name=push | multinames#51=name=onCheatEnabled | multinames#54=name=showCheatButton | multinames#70=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LanguageSelection visited=168 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #1903 tag@0x387f37; classes=1; methods=11
+[CHEATUI-ROUTE]   STRINGS: #59=onCheatPressed | #67=onCheatEnabled | #68=btnCheat | #70=showCheatButton | #132=Cheat_Square_Button
+[CHEATUI-ROUTE]   CLASS LanguageSelection
+[CHEATUI-ROUTE]   MULTINAMES: #2=cheatSeq | #3=cheatArray | #4=CheatButton0 | #5=CheatButton1 | #6=CheatButton2 | #7=CheatButton3 | #8=cheatButtons | #10=addEventListener | #25=instance | #27=showHUDCorner | #29=getInstance | #31=name | #32=ScreenManager | #37=addChildAt | #39=MouseEvent | #40=MOUSE_UP | #41=onCheatPressed | #44=currentTarget | #46=name | #49=push | #51=onCheatEnabled | #52=btnCheat | #53=visible | #54=showCheatButton | #60=removeChild | #68=addChild | #70=registerButtons | #71=setTarget | #85=textButton | #93=getChildByName | #101=targetName | #102=Cheat_Square_Button | #104=Button_Green_3x1 | #110=BaseScreen
+[CHEATUI-ROUTE]     METHOD LanguageSelection.onAdded#2 (instance) codeOffset=0x388c65 len=152 : d0 30 20 80 16 63 04 5d 17 5d 0b 66 0b 66 0c d0 66 0d 46 17 02 29 5d 18 66 18 66 19 66 1a 27 46 1b 01 29 5d 1c 66 1c 2c 2f 46 1d 01 80 16 d6 5d 0e 66 0e 66 1e 12 05 00 00 d2 2c 2f 61 1f d2 5d 20 66 20 66 21 61 22 d2 5d 20 66 20 66 23 61 14 d2 2f 01 61 24 5d 25 d2 24 00 46 25 02 29 24 00 73 d7 10 27 00 00 09 d0 66 08 d3 66 26 5d 16 66 16 87 80 16 63 04 62 04 5d 27 66 27 66 28 d0 66 29 27 24 00 26 46 0a 05 29 d3 c0 73 d7 d3 d0 66 08 66 2a 15 cf ff ff 47
+[CHEATUI-ROUTE]     METHOD LanguageSelection.onCheatPressed#3 (instance) codeOffset=0x388d06 len=136 : d0 30 24 00 63 04 d1 66 2c 82 d6 5d 2d d2 66 2e d2 66 2e 66 2f 24 01 a1 46 30 01 46 2d 01 73 d7 d0 66 03 d3 46 31 01 29 10 0c 00 00 09 d0 66 03 24 00 24 01 46 32 02 29 d0 66 03 66 2a d0 66 02 66 2a 17 e6 ff ff d0 66 03 66 2a d0 66 02 66 2a 14 33 00 00 24 00 73 63 04 10 1a 00 00 09 d0 66 03 62 04 66 26 d0 66 02 62 04 66 26 13 01 00 00 47 62 04 c0 73 63 04 62 04 d0 66 03 66 2a 15 db ff ff d0 46 33 00 29 47
+[CHEATUI-ROUTE]     METHOD LanguageSelection.onCheatEnabled#4 (instance) codeOffset=0x388d96 len=32 : d0 30 5d 18 66 18 66 19 5d 18 66 18 66 19 66 34 66 35 96 46 36 01 29 5d 37 66 37 46 38 00 29 47
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_ClanDragonLeaderboard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:111/first=string | multinames:65/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#21=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_ClanDragonLeaderboard visited=91 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_Clan_Dragon_Pack_Info ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:105/first=string | multinames:62/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#29=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_Clan_Dragon_Pack_Info visited=88 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_DragonAcquired_Celebration ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:119/first=string | multinames:63/first=object | classes:1/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_DragonAcquired_Celebration visited=117 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_DragonLevelCap ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:73/first=string | multinames:38/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_DragonLevelCap visited=60 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_DragonList ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:77/first=string | multinames:40/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#23=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_DragonList visited=70 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_DragonVaultInfo ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:64/first=string | multinames:32/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_DragonVaultInfo visited=54 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_Dragon_Fury_Refill ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:54/first=string | multinames:24/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_Dragon_Fury_Refill visited=46 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_Dragon_Part_Box_Content ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:194/first=string | multinames:123/first=object | classes:1/first=object | methods:19/first=object | bodies:19/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#31=name=ScreenManager | multinames#41=name=push | multinames#76=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_Dragon_Part_Box_Content visited=205 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_DungeonSwapDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:76/first=string | multinames:35/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_DungeonSwapDragon visited=61 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_FindDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:98/first=string | multinames:63/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#54=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#24=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_FindDragon visited=93 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_HappyDragonDice ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:355/first=string | multinames:202/first=object | classes:1/first=object | methods:40/first=object | bodies:40/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#17=name=sendButtonEvent | multinames#39=name=ScreenManager | multinames#93=name=push | multinames#122=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_HappyDragonDice visited=368 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_HappyDragonDiceCollect ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:79/first=string | multinames:39/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_HappyDragonDiceCollect visited=65 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_HappyDragonDiceEvent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:214/first=string | multinames:135/first=object | classes:1/first=object | methods:18/first=object | bodies:18/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#6=name=ScreenManager | multinames#40=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_HappyDragonDiceEvent visited=213 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_HappyDragonDiceEvent_TLEHub ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:263/first=string | multinames:176/first=object | classes:1/first=object | methods:22/first=object | bodies:22/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#6=name=ScreenManager | multinames#35=name=sendButtonEvent | multinames#92=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_HappyDragonDiceEvent_TLEHub visited=270 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_MissingDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:82/first=string | multinames:42/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#24=name=ScreenManager | multinames#25=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_MissingDragon visited=68 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_Rename_Dragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:72/first=string | multinames:37/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_Rename_Dragon visited=71 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_ReviveDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:91/first=string | multinames:35/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_ReviveDragon visited=61 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PowerUpClanDragonsSoftTutorialContent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:111/first=string | multinames:54/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#13=name=ScreenManager | multinames#14=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PowerUpClanDragonsSoftTutorialContent visited=92 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ScreenManager ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:1043/first=string | multinames:378/first=object | classes:1/first=object | methods:102/first=object | bodies:102/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#411=Cheat_Menu | #625=onButtonEvent | #679=btnCheat
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#120=name=ScreenManager | multinames#174=name=registerButtons | multinames#184=name=push | multinames#220=name=unregisterButtons | multinames#338=name=pushScreen | multinames#377=name=ScreenManager
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ScreenManager visited=788 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ABC #2156 tag@0x42a187; classes=1; methods=102
+[CHEATUI-ROUTE]   STRINGS: #411=Cheat_Menu | #679=btnCheat
+[CHEATUI-ROUTE]   CLASS ScreenManager
+[CHEATUI-ROUTE]   FULL_MULTINAMES: #1=COVER_NAME | #2=FAKE_BG_NAME | #3=BOTTOM | #4=VCENTER | #5=TOP | #6=LEFT | #7=HCENTER | #8=RIGHT | #9=OUTLINE | #10=SCREENS_BOUNCE_IN | #11=SCREENS_WITHOUT_BG_COVER | #12=WINDOWS_CLOSED_ON_BG_CLICK | #13=SCREENS_WITH_FAKE_BG | #14=SCREENS_NO_FADE_IN | #15=EXCLUDE_FROM_FAKE_BG | #16=TLEHUB_SCREENS | #17=SCREENS_WITH_TRANSPARENT_BG_COVER | #18=BANNER_HEIGHT | #19=AD_HIDE | #20=AD_DISABLED | #21=AD_ENABLED | #22=SCALE_FACTOR | #23=FADE_IN_SPEED | #24=FADE_OUT_SPEED | #25=BOUNCE_SPEED | #26=outline | #27=Width | #28=Height | #29=deviceWidth | #30=deviceHeight | #31=isAdEnabled | #32=animationTargets | #33=Dictionary | #34=SCREENS_HANDLE_SCROLL | #35=SCREENS_ALIGN_CENTER | #36=IsShowClan_MemberList | #37=mousePos | #38=Point | #39=chatwidth | #40=alignchatwidthwithscale | #41=chatbgwidth | #42=oldchatbgwidth | #43=isDisableCall | #44=isSnap | #45=ScreenScale | #46=numListener | #47=cutoutX | #48=cutoutY | #49=REAL_WIDTH | #50=REAL_HEIGHT | #51=topLayer_CENTER | #52=screenLayer_CENTER | #53=iconLayer_CENTER | #54=fullHD_Ratio | #55=EXCEPTION_POPUP | #56=stage | #57=screenDescriptions | #58=width | #59=height | #60=x | #61=y | #62=isIphoneX | #63=stageWidth | #64=stageHeight | #65=xCenter | #66=yCenter | #67=trace | #68=pressedButtons | #69=screenStack | #70=evoFightCardStack | #71=iconLayer | #72=MovieClip | #73=name | #74=mouseEnabled | #75=addChild | #76=screenLayer | #77=topLayer | #78=fadeInScreens | #79=fadeOutScreens | #80=screenFadeInPos | #81=screenBounceInYDest | #82=screenFadeInStart | #83=scrollAreaStack | #84=tutorialWhitelist | #85=void | #86=Stage | #87=Object | #88=Rectangle | #89=Array | #90=Number | #91=Math | #92=getBounds | #93=bottom | #94=round | #95=hideTooltip | #96=traceFadeoutScreens | #97=lastIndexOf | #98=length | #99=substring | #101=name | #102=pop | #103=indexOf | #104=removeScreenFromFadeOutScreens | #105=splice | #106=DragonEvent | #107=HIDE | #108=dispatchEvent | #109=parent | #110=removeChild | #111=getChildByName | #112=CONFIG | #113=isAndroid | #114=Common | #115=getInstance | #116=call | #117=right | #118=left | #119=bg_image | #120=ScreenManager | #121=width | #122=height | #123=localizeScreen | #124=visible | #125=getChildIndex | #126=numChildren | #127=Dragon | #128=instance | #129=tleSideBarRedesign | #130=addChildAt | #131=MouseEvent | #132=MOUSE_UP | #133=onReleased | #134=addEventListener | #135=setPauseOrX | #136=SHOW | #137=alpha | #138=isWindow | #139=fadeIn | #140=longName | #141=String | #142=forceScreenDuplicate | #143=Boolean | #144=screenName | #145=dotPlace | #146=int | #147=alignment | #148=screen | #149=bounds | #150=overlayText | #151=sameScreen | #152=indexOfSameScreen | #153=fadeOutScreenIndex | #154=key | #155=prevScr | #156=btnX | #157=tlehubScreenIndex | #158=isNoesisTLEHubScreen | #159=contains | #160=Event | #161=ENTER_FRAME | #162=onScreenFadeOut | #163=removeEventListener | #164=setFakeBg | #165=PopupBounce | #166=easeOutElastic | #167=scaleX | #168=scaleY | #169=traceFadeinScreens | #170=getTimer | #171=removeScreenFadeIn | #172=onBounceIn | #173=removeScreenFadeOut | #174=registerButtons | #175=FADEIN_ENDED | #176=onScreenFadeIn | #177=getChildAt | #178=FADEOUT_ENDED | #179=Function | #180=scr | #181=i | #182=isContainTLEHubScreen | #183=Show | #184=push | #185=traceScreenStack | #186=createAndAlignScreenBgCover | #187=CLICK | #188=onCoverClicked | #189=createAndAlignScreenDecorations | #190=AUTO_SCALE | #191=decorations | #192=screenDecorations | #193=graphics | #194=beginFill | #195=drawRect | #196=isChristmasEnabled | #197=ChristmasDecorations | #198=InsertDecorations | #199=isAnniversaryEnabled | #200=AnniversaryDecorations | #201=currentTarget | #202=currentLabel | #203=tutorialMc | #204=isGameSwf | #205=fadeOut | #206=btnX | #207=visible | #208=parent | #209=removeChild | #210=showPauseButton | #211=FADEIN_BEGIN | #212=unregisterButton | #213=FADEOUT_BEGIN | #214=removeFakeBg | #215=addFakeBg | #216=fakeBg | #217=FightingMinigame_Fight | #218=substr | #219=registerButton | #220=unregisterButtons | #221=buttonAnimationTarget | #222=animationSettings | #223=MOUSE_DOWN | #224=onButtonDown | #225=DisplayObject | #226=IButtonAnimationSettings | #227=removePressedButtonListener | #228=split | #229=setTutorialMc | #230=tutorialArrowOnCoordinate | #231=tutorialLayer | #232=tutorialArrowOnCoordinateTarget | #233=tutorialArrowOnCoordinateDistance | #234=tutorialArrowOnCoordinateRotation | #235=centerArrow | #236=rotation | #237=GetdownArrow | #238=top | #239=tutorialMcPos | #240=localToGlobal | #241=tutorialMcForcedAngle | #242=checkTutorialMc | #243=tutorialArrow | #244=mouseChildren | #245=atan2 | #246=rad2deg | #247=deg2rad | #248=cos | #249=sin | #250=setMasking | #251=currentLabels | #252=clickDisabled | #253=getFullName | #254=enabled | #255=currentFrame | #256=hasLabel | #257=gotoAndPlay | #258=hasOwnProperty | #259=Animation | #260=buttonPressed | #261=onButtonReleased | #262=MOUSE_OUT | #263=onButtonReleasedOutside | #264=stopImmediatePropagation | #265=Social_Login_Menu | #266=textButton | #267=buttonTextCalibrate | #268=removePressedButtonListeners | #269=buttonReleased | #270=mc | #271=gotoAndStop | #272=Class | #273=btnPauseFight | #274=getQualifiedClassName | #275=getDefinitionByName | #276=SCREENS_REMOVE_X | #277=hudCorner | #278=questDescription | #279=setFakeBgName | #280=setProgressVisible | #281=initCustomBg | #282=tooltip | #283=SmallTooltip | #284=tooltipTarget | #285=Util | #286=resolvePath | #287=MODE_DURATION | #288=showTooltip | #289=MOUSE_MOVE | #290=onMouseMove | #291=GLTween | #292=killTweensOf | #293=to | #294=tooltipOBJ | #295=x | #296=y | #297=CoreServiceContainer | #298=TooltipController | #299=SERVICE_REMOVE_ALL_TOOLTIP | #300=getService | #301=execute | #302=removeTooltip | #303=target | #304=topbar | #305=visibleWidth | #306=alignElements | #307=log | #308=ORIGIN_WIDTH | #309=ORIGIN_HEIGHT | #310=min | #311=alignToScreenBottom | #312=getChildByName | #313=alignMsgBox | #314=alignBackground | #315=setSize | #316=numChildren | #317=rescale | #318=getStage | #319=setScreenInfo | #320=initStage | #321=alignFakeBg | #322=rescaleLayer | #323=chat | #324=setSize | #325=alignToolTip | #326=alignScreenDecorations | #327=scrollPage | #328=scrollDirection | #329=scrollPageKeyboard | #330=scrollScreenMouseWheel | #331=hitTestPoint | #332=getScrollOfButtonList | #333=Init | #334=GetScreenStack | #335=AddTLESideBarForNoesisScreen | #336=RemoveTLESideBarForNoesisScreen | #337=addToToplayer | #338=pushScreen | #339=localizeStage | #340=popScreen | #341=popScreenUntil | #342=hideScreen | #343=getFightButton | #344=addTutorialWhitelistButton | #345=clearTutorialWhitelistButton | #346=setTutorialButton | #347=showTutorialArrowOnCoordinate | #348=hideTutorialArrowOnCoordinate | #349=showArrow | #350=hideArrow | #351=clearMasking | #352=offsetTutorialArrows | #353=isScreenInStack | #354=removeFadingScreens | #355=getCurrentScreen | #356=registerEvoFightCard | #357=setEvoFightCardProgressVisible | #358=initCustomBgNoMove | #359=setTooltipPosition | #360=isSmallScreen | #361=getTopbarHeight | #362=getTopbarWidth | #363=addToExcludeFromFakeBg | #364=clearExcludeFromFakeBg | #365=showTutorialButton | #366=hideTutorialButton | #367=RatioScaleWH | #368=isWideScreen | #369=AutoScaleBaseOnResolution | #370=scrollAreaIsInStack | #371=registerScrollArea | #372=scrollSelectedScroll | #373=scrollScreenWithControllerInDirection | #374=scrollSelectedKeyBoardScroll | #375=scrollScreenWithMouseWheel | #376=getTooltipTargetTypeName | #377=ScreenManager
+[CHEATUI-ROUTE]   ROUTE_STRINGS: #1=com.gameloft.dragon:ScreenManager | #4=bgScreenCover | #14=SCREENS_BOUNCE_IN | #19=Scroll_Ingame_Menu | #85=SCREENS_WITHOUT_BG_COVER | #86=EmptyScreen | #112=Arena_WinLoseScreen | #114=FakeBgScreen | #148=EmptyScreenWithX | #187=ArenaRewardScreen | #189=ArenaMainScreen | #193=TycoonScreen | #196=DailyLoginRewardCelebrateScreen | #197=PuzzleGridLevelScreen | #198=DragonRunnerLevelScreen | #199=EarlyAccessRewardScreen | #201=SeasonalGachaScreen | #202=RewardClaimScreen_Redesign | #205=CollectorMilestoneRewardScreen_Redesign | #206=BadgeRewardScreen_Redesign | #207=LoveTicketRewardScreen_Redesign | #210=ArenaRewardScreen_Redesign | #219=WINDOWS_CLOSED_ON_BG_CLICK | #235=SCREENS_WITH_FAKE_BG | #246=DragonSelectionFullscreen | #261=FakeBgScreenWS | #263=ComboBundleWelcomeScreen | #266=LoadingScreen | #328=WelcomeScreen | #330=SigilCampaignLeaderboardScreen | #332=UnlockableLeaderboardScreen | #333=DailyLoginRewardScreen | #335=FarmScreen | #336=AutomaticWelcomeScreen | #340=PuzzleGridLoseScreen | #346=CaveOfTreasureScreen | #347=SpecialFlipperScreen | #348=Leaderboard_RedesignScreen | #349=SigilContest_TLEHubScreen | #350=ClanMain_NotJoined_Screen | #351=Clan_Setup_Screen | #353=SCREENS_NO_FADE_IN | #356=TLEHUB_SCREENS | #359=DragonRunnerLandingScreen | #360=CakeCrazeMainScreenView | #361=EventEntryPointScreen | #363=PuzzleGridLandingScreen | #364=DailyRewardScreen | #369=DragonRunnerLandingScreen_TLEHub | #370=CakeCrazeMainScreenView_TLEHub | #374=PuzzleGridLandingScreen_TLEHub | #379=UnlockableLeaderboardScreen_TLEHub | #385=SpecialFlipperScreen_TLEHub | #388=SCREENS_WITH_TRANSPARENT_BG_COVER | #390=AD_HIDE | #406=SCREENS_HANDLE_SCROLL | #407=SCREENS_ALIGN_CENTER | #411=Cheat_Menu | #423=ReconnectScreen | #429=IsShowClan_MemberList | #439=ScreenScale | #447=screenLayer_CENTER | #461=screenDescriptions | #472=[ScreenManager] Width, Height             :  | #474=[ScreenManager] deviceWidth, deviceHeight :  | #475=[ScreenManager] xCenter, yCenter          :  | #476=[ScreenManager] isIphoneX                 :  | #477=[ScreenManager] SCALE_FACTOR              :  | #478=pressedButtons | #479=screenStack | #487=screenLayer | #489=fadeInScreens | #490=fadeOutScreens | #491=screenFadeInPos | #492=screenBounceInYDest | #493=screenFadeInStart | #506=Show screen: | #507=hideTooltip | #508=traceFadeoutScreens | #514=ScreenManager.as$2438 | #517=*** ERROR! TRYING TO SHOW A SCREEN MULTIPLE TIMES:  | #519=removeScreenFromFadeOutScreens | #523=HIDE | #528=*** ERROR! TRYING TO SHOW A SCREEN, WHICH IS ALREADY IN THE SCREEN STACK:  | #540=ScreenManager | #541=localizeScreen | #542=btnX | #544=overlayText_NOCLICK | #557=SHOW | #563=forceScreenDuplicate | #565=screenName | #569=screen | #572=sameScreen | #573=indexOfSameScreen | #574=fadeOutScreenIndex | #577=tlehubScreenIndex | #578=isNoesisTLEHubScreen | #582=onScreenFadeOut | #589=traceFadeinScreens | #591=removeScreenFadeIn | #593=removeScreenFadeOut | #594=registerButtons | #596=onScreenFadeIn | #602=isContainTLEHubScreen | #603=Show | #605=traceScreenStack | #606=createAndAlignScreenBgCover | #607=CLICK | #608=onCoverClicked | #609=createAndAlignScreenDecorations | #612=screenDecorations | #625=onButtonEvent | #629=showPauseButton | #631=unregisterButton | #636=btn | #637=registerButton | #638=unregisterButtons | #639=buttonAnimationTarget | #642=onButtonDown | #644=com.gameloft.animation.button.base | #645=IButtonAnimationSettings | #647=removePressedButtonListener | #648=Added button to Tutorial whitelist:  | #649=Clear button in Tutorial whitelist. | #655=tutorialArrowOnCoordinate_NOCLICK | #668=tutorialArrow_NOCLICK | #678=...on button down | #679=btnCheat | #680=btnPause | #681=btnSkipTutorial | #682=btnAutoFeed | #683=clickDisabled | #685=btnOK | #686=btnTTC | #692=noclick | #702=buttonPressed | #703=onButtonReleased | #704=btnGPConnect | #706=onButtonReleasedOutside | #709=Social_Login_Menu | #710=textButton | #711=buttonTextCalibrate | #712=removePressedButtonListeners | #714=buttonReleased | #715=remove pressed button listener: | #717=remove pressed button listener from non movieclip object | #721=btnPauseFight | #724=SCREENS_REMOVE_X | #727=screenStack.length:  | #746=showTooltip | #748=HideByClick | #759=showTooltip  | #773=btnRedirect | #776=-- [ScreenManager]  | #783=setScreenInfo IS DUBPLICATE ....................................................... | #787=ALIGN SIMPLE SCREENS :  | #789=alignToScreenBottom | #799=setScreenInfo | #805=alignScreenDecorations | #809=scrollScreenMouseWheel | #811=getScrollOfButtonList | #814=D:\DML\trunk\data\UI_Flash_CS\prj\dragon\src\com\gameloft\dragon\ScreenManager.as | #879=GetScreenStack | #882=AddTLESideBarForNoesisScreen | #884=RemoveTLESideBarForNoesisScreen | #894=pushScreen | #902=popScreen | #904=popScreenUntil | #906=hideScreen | #912=getFightButton | #919=addTutorialWhitelistButton | #921=clearTutorialWhitelistButton | #923=setTutorialButton | #925=showTutorialArrowOnCoordinate | #927=hideTutorialArrowOnCoordinate | #930=showArrow | #932=hideArrow | #949=isScreenInStack | #957=removeFadingScreens | #959=getCurrentScreen | #976=isSmallScreen | #1008=showTutorialButton | #1010=hideTutorialButton | #1017=isWideScreen | #1034=scrollScreenWithControllerInDirection | #1038=scrollScreenWithMouseWheel
+[CHEATUI-ROUTE]   MULTINAMES: #1=COVER_NAME | #2=FAKE_BG_NAME | #10=SCREENS_BOUNCE_IN | #11=SCREENS_WITHOUT_BG_COVER | #12=WINDOWS_CLOSED_ON_BG_CLICK | #13=SCREENS_WITH_FAKE_BG | #14=SCREENS_NO_FADE_IN | #16=TLEHUB_SCREENS | #17=SCREENS_WITH_TRANSPARENT_BG_COVER | #19=AD_HIDE | #32=animationTargets | #34=SCREENS_HANDLE_SCROLL | #35=SCREENS_ALIGN_CENTER | #36=IsShowClan_MemberList | #45=ScreenScale | #51=topLayer_CENTER | #52=screenLayer_CENTER | #53=iconLayer_CENTER | #57=screenDescriptions | #68=pressedButtons | #69=screenStack | #71=iconLayer | #73=name | #75=addChild | #76=screenLayer | #77=topLayer | #78=fadeInScreens | #79=fadeOutScreens | #80=screenFadeInPos | #81=screenBounceInYDest | #82=screenFadeInStart | #95=hideTooltip | #96=traceFadeoutScreens | #101=name | #104=removeScreenFromFadeOutScreens | #107=HIDE | #110=removeChild | #111=getChildByName | #115=getInstance | #120=ScreenManager | #123=localizeScreen | #124=visible | #128=instance | #130=addChildAt | #131=MouseEvent | #132=MOUSE_UP | #134=addEventListener | #136=SHOW | #140=longName | #142=forceScreenDuplicate | #144=screenName | #148=screen | #151=sameScreen | #152=indexOfSameScreen | #153=fadeOutScreenIndex | #157=tlehubScreenIndex | #158=isNoesisTLEHubScreen | #159=contains | #162=onScreenFadeOut | #169=traceFadeinScreens | #171=removeScreenFadeIn | #173=removeScreenFadeOut | #174=registerButtons | #176=onScreenFadeIn | #182=isContainTLEHubScreen | #183=Show | #184=push | #185=traceScreenStack | #186=createAndAlignScreenBgCover | #187=CLICK | #188=onCoverClicked | #189=createAndAlignScreenDecorations | #192=screenDecorations | #201=currentTarget | #207=visible | #209=removeChild | #210=showPauseButton | #212=unregisterButton | #219=registerButton | #220=unregisterButtons | #221=buttonAnimationTarget | #224=onButtonDown | #226=IButtonAnimationSettings | #227=removePressedButtonListener | #231=tutorialLayer | #232=tutorialArrowOnCoordinateTarget | #252=clickDisabled | #253=getFullName | #260=buttonPressed | #261=onButtonReleased | #263=onButtonReleasedOutside | #265=Social_Login_Menu | #266=textButton | #267=buttonTextCalibrate | #268=removePressedButtonListeners | #269=buttonReleased | #274=getQualifiedClassName | #275=getDefinitionByName | #276=SCREENS_REMOVE_X | #279=setFakeBgName | #280=setProgressVisible | #284=tooltipTarget | #288=showTooltip | #303=target | #305=visibleWidth | #311=alignToScreenBottom | #312=getChildByName | #319=setScreenInfo | #322=rescaleLayer | #326=alignScreenDecorations | #330=scrollScreenMouseWheel | #332=getScrollOfButtonList | #334=GetScreenStack | #335=AddTLESideBarForNoesisScreen | #336=RemoveTLESideBarForNoesisScreen | #337=addToToplayer | #338=pushScreen | #340=popScreen | #341=popScreenUntil | #342=hideScreen
+[CHEATUI-ROUTE]     METHOD ScreenManager.Show#6 (static) codeOffset=0x42fd66 len=1541 : d0 30 57 2a d7 30 65 01 20 80 48 6d 09 65 01 24 00 6d 0a 65 01 24 00 6d 0b 65 01 21 82 6d 0c 65 01 20 80 48 6d 0d 65 01 20 80 48 6d 0e 65 01 24 00 6d 0f 65 01 d1 6d 01 65 01 d2 6d 02 5d 43 2c fa 03 65 01 6c 01 46 43 02 29 5d 5f 46 5f 00 29 5d 60 46 60 00 29 65 01 65 01 6c 01 85 6d 03 65 01 65 01 6c 03 2c fd 03 46 61 01 24 01 a0 73 6d 04 65 01 6c 04 24 00 0e 16 00 00 65 01 65 01 6c 03 65 01 6c 04 65 01 6c 03 66 62 46 63 02 85 6d 03 65 01 6c 02 96 82 76 2a 76 12 09 00 00 29 5d 45 66 45 66 62 82 76 2a 76 12 18 00 00 29 5d 45 66 45 5d 45 66 45 66 62 24 01 a1 66 64 66 65 65 01 6c 03 ab 76 12 97 00 00 65 01 5d 45 66 45 46 66 00 80 48 6d 09 5d 43 2c 85 04 65 01 6c 03 a0 46 43 01 29 65 01 5d 4f 66 4f 65 01 6c 09 46 67 01 73 6d 0a 65 01 6c 0a 24 00 0f 0a 00 00 5d 68 65 01 6c 0a 46 68 01 29 65 01 5d 4e 66 4e 65 01 6c 09 46 67 01 73 6d 0a 65 01 6c 0a 24 00 0f 0e 00 00 5d 4e 66 4e 65 01 6c 0a 24 01 46 69 02 29 65 01 6c 09 5d 6a 5d 6a 66 6a 66 6b 4a 6a 01 46 6c 01 29 65 01 6c 09 66 6d 76 12 0e 00 00 65 01 6c 09 66 6d 65 01 6c 09 46 6e 01 29 10 a5 00 00 65 01 5d 4c 66 4c 65 01 6c 03 46 6f 01 5d 48 66 48 87 80 48 6d 09 65 01 6c 02 96 76 2a 76 12 06 00 00 29 65 01 6c 09 76 12 79 00 00 5d 43 2c 90 04 65 01 6c 03 a0 46 43 01 29 65 01 5d 4f 66 4f 65 01 6c 09 46 67 01 73 6d 0b 65 01 6c 0b 24 00 0f 0a 00 00 5d 68 65 01 6c 0b 46 68 01 29 5d 45 66 45 65 01 6c 09 46 67 01 24 00 0f 15 00 00 5d 45 66 45 5d 45 66 45 65 01 6c 09 46 67 01 24 01 46 69 02 29 65 01 6c 09 5d 6a 5d 6a 66 6a 66 6b 4a 6a 01 46 6c 01 29 65 01 6c 09 66 6d 65 01 6c 09 46 6e 01 29 65 01 5d 39 66 39 65 01 6c 01 66 64 73 6d 05 5d 70 66 70 66 71 12 60 00 00 65 01 24 00 73 6d 05 24 00 63 04 5d 39 66 39 82 63 05 10 3f 00 00 09 65 01 62 05 62 04 1e 82 6d 0c 65 01 6c 0c 65 01 6c 01 14 28 00 00 5d 43 65 01 6c 01 2c 93 04 a0 5d 39 66 39 65 01 6c 01 66 64 a0 46 43 01 29 65 01 5d 39 66 39 65 01 6c 01 66 64 73 6d 05 32 05 04 11 ba ff ff 08 05 08 04 65 01 5d 72 66 72 65 01 6c 01 46 73 01 80 48 6d 06 65 01 65 01 6c 06 65 01 6c 06 46 5c 01 80 58 6d 07 65 01 6c 02 76 2a 76 12 06 00 00 29 65 01 6c 09 76 12 23 00 00 65 01 6c 06 65 01 6c 03 2c 96 04 a0 5d 38 66 38 2c 97 04 66 64 5d 38 66 38 46 74 01 a0 61 49 10 0a 00 00 65 01 6c 06 65 01 6c 03 61 49 65 01 6c 05 24 00 14 0e 00 00 65 01 5d 07 66 07 5d 04 66 04 a9 73 6d 05 65 01 6c 05 5d 07 66 07 a8 76 12 0e 00 00 65 01 6c 06 5d 41 66 41 61 3c 10 83 00 00 65 01 6c 05 5d 08 66 08 a8 76 12 42 00 00 65 01 6c 06 5d 5b 66 5b 5d 1b 66 1b 65 01 6c 07 66 75 65 01 6c 06 66 3c a1 a1 46 5e 01 61 3c 65 01 6c 05 5d 09 66 09 a8 76 12 11 00 00 65 01 6c 06 65 01 6c 06 66 3c 5d 1a 66 1a a1 61 3c 10 33 00 00 65 01 6c 06 5d 5b 66 5b 65 01 6c 07 66 76 90 46 5e 01 61 3c 65 01 6c 05 5d 09 66 09 a8 76 12 11 00 00 65 01 6c 06 65 01 6c 06 66 3c 5d 1a 66 1a a0 61 3c 65 01 6c 05 5d 04 66 04 a8 76 12 0e 00 00 65 01 6c 06 5d 42 66 42 61 3d 10 7b 00 00 65 01 6c 05 5d 03 66 03 a8 76 12 3b 00 00 65 01 6c 06 5d 5b 66 5b 5d 1c 66 1c 65 01 6c 07 66 5d a1 46 5e 01 61 3d 65 01 6c 05 5d 09 66 09 a8 76 12 11 00 00 65 01 6c 06 65 01 6c 06 66 3d 5d 1a 66 1a a1 61 3d 10 32 00 00 65 01 6c 06 5d 5b 66 5b 65 01 6c 07 66 5d 46 5e 01 61 3d 65 01 6c 05 5d 09 66 09 a8 76 12 11 00 00 65 01 6c 06 65 01 6c 06 66 3d 5d 1a 66 1a a0 61 3d 65 01 6c 06 2c 9b 04 46 6f 01 76 12 1c 00 00 65 01 6c 06 66 77 5d 78 66 78 66 1b 61 79 65 01 6c 06 66 77 5d 78 66 78 66 1c 61 7a 5d 7b 65 01 6c 06 46 7b 01 29 5d 45 66 45 66 62 76 12 3a 00 00 65 01 5d 45 66 45 5d 45 66 45 66 62 24 01 a1 66 64 80 48 6d 0d 65 01 65 01 6c 0d 2c 9e 04 46 6f 01 5d 48 66 48 87 80 48 6d 0e 65 01 6c 0e 76 12 07 00 00 65 01 6c 0e 27 61 7c 5d 4c 66 4c 65 01 6c 06 46 4b 01 29 65 01 5d 4c 66 4c 2c a0 04 46 6f 01 82 6d 08 65 01 6c 08 76 12 0c 00 00 5d 4c 66 4c 65 01 6c 08 46 4b 01 29 5d 10 66 10 65 01 6c 03 46 67 01 24 ff 13 58 00 00 65 01 5d 4c 66 4c 5d 4c 66 4c 65 01 6c 03 46 6f 01 46 7d 01 73 6d 0f 65 01 6c 0f 24 01 a0 5d 4c 66 4c 66 7e 0f 16 00 00 5d 4c 66 4c 5d 7f 66 7f 66 80 01 66 81 01 46 4b 01 29 10 1a 00 00 5d 4c 66 4c 5d 7f 66 7f 66 80 01 66 81 01 65 01 6c 0f 24 01 a0 46 82 01 02 29 5d 38 66 38 5d 83 01 66 83 01 66 84 01 5d 85 01 66 85 01 46 86 01 02 29 5d 87 01 65 01 6c 06 46 87 01 01 29 65 01 6c 06 5d 6a 5d 6a 66 6a 66 88 01 4a 6a 01 46 6c 01 29 5d 0a 66 0a 65 01 6c 06 66 49 46 67 01 24 00 0c 09 00 00 65 01 6c 06 2f 02 61 89 01 5d 70 66 70 66 8a 01 76 2a 76 12 12 00 00 29 5d 0a 66 0a 65 01 6c 06 66 49 46 67 01 24 00 b0 76 12 39 00 00 5d 51 66 51 65 01 6c 06 66 49 65 01 6c 05 5d 04 66 04 a8 76 12 07 00 00 40 03 82 10 18 00 00 65 01 6c 05 5d 03 66 03 a8 76 12 07 00 00 40 04 82 10 03 00 00 40 05 82 61 64 5d 8b 01 65 01 6c 06 46 8b 01 01 29 65 01 6c 06 48
+[CHEATUI-ROUTE]     METHOD ScreenManager.addToToplayer#16 (static) codeOffset=0x430794 len=75 : d0 30 24 00 d7 5d 72 66 72 d1 46 73 01 80 48 d6 d2 76 12 33 00 00 5d 4d 66 4d d2 46 4b 01 29 d1 2c fd 03 46 61 01 24 01 a0 73 d7 d3 24 00 0e 0a 00 00 d1 d3 d1 66 62 46 63 02 85 d5 d2 d1 61 49 5d ae 01 d2 46 ae 01 01 29 d2 48
+[CHEATUI-ROUTE]     METHOD ScreenManager.pushScreen#17 (static) codeOffset=0x4307e8 len=266 : d0 30 20 80 48 63 04 20 80 48 63 05 5d b7 01 d1 d2 46 b7 01 02 80 48 d7 d3 76 12 e2 00 00 5d 45 66 45 d3 46 b8 01 01 29 5d b9 01 46 b9 01 00 29 5d 0b 66 0b d3 66 49 46 67 01 24 ff 14 69 00 00 5d ba 01 d3 46 ba 01 01 80 48 63 05 5d 0c 66 0c d3 66 49 46 67 01 24 ff 0e 4d 00 00 5d 70 66 70 66 8a 01 12 28 00 00 d3 66 49 2c e2 01 13 1a 00 00 62 05 5d 83 01 66 83 01 66 bb 01 5d bc 01 66 bc 01 27 24 00 26 46 86 01 05 29 10 1a 00 00 62 05 5d 83 01 66 83 01 66 bb 01 5d bc 01 66 bc 01 27 24 00 26 46 86 01 05 29 5d bd 01 d3 46 bd 01 01 80 48 63 04 5d 0c 66 0c d3 66 49 46 67 01 24 ff 0e 21 00 00 62 04 20 13 1a 00 00 62 04 5d 83 01 66 83 01 66 bb 01 5d bc 01 66 bc 01 27 24 00 26 46 86 01 05 29 5d 70 66 70 66 be 01 12 0f 00 00 5e bf 01 62 04 61 bf 01 5e c0 01 d3 61 c0 01 5d a4 01 46 a4 01 00 29 d3 48
+[CHEATUI-ROUTE]     METHOD ScreenManager.registerButtons#31 (static) codeOffset=0x430f3e len=154 : d0 30 20 80 48 d7 5d 72 66 72 66 cc 01 12 13 00 00 5d 38 66 38 2c d2 04 66 64 5d 38 66 38 d1 46 74 02 29 47 d1 66 49 24 00 24 03 46 da 01 02 2c fc 04 14 09 00 00 5d db 01 d1 46 db 01 01 29 24 00 73 d6 10 4a 00 00 09 d1 d2 46 b1 01 01 5d 48 66 48 87 80 48 d7 d3 76 12 31 00 00 d3 66 7c 76 2a 76 12 11 00 00 29 d3 66 49 24 00 24 03 46 da 01 02 2c fc 04 ab 76 12 09 00 00 5d db 01 d3 46 db 01 01 29 5d ae 01 d3 46 ae 01 01 29 d2 c0 73 d6 d2 d1 66 7e 15 ae ff ff 47
+[CHEATUI-ROUTE]     METHOD ScreenManager.registerButton#33 (static) codeOffset=0x431045 len=70 : d0 30 d1 5d 48 66 48 b3 12 20 00 00 d2 76 12 0a 00 00 5d 48 d1 46 48 01 d2 61 dd 01 d3 76 12 0a 00 00 5d 48 d1 46 48 01 d3 61 de 01 d1 5d 83 01 66 83 01 66 df 01 5d e0 01 66 e0 01 27 24 00 26 46 86 01 05 29 47
+[CHEATUI-ROUTE]     METHOD ScreenManager.onButtonDown#49 (static) codeOffset=0x431992 len=767 : d0 30 5d 43 2c a6 05 46 43 01 29 d1 66 c9 01 5d e1 01 66 e1 01 87 80 e1 01 d6 d2 66 49 2c a7 05 46 61 01 24 00 ab 76 d7 d2 66 49 2c a8 05 46 61 01 24 00 ab 76 63 04 d2 66 49 2c a9 05 46 61 01 24 00 ab 76 63 05 d2 66 49 2c aa 05 46 61 01 24 00 ab 76 63 06 5d 7f 66 7f 66 80 01 66 fc 01 82 2a 76 11 08 00 00 29 5d 4f 66 4f 66 62 82 82 2a 76 11 08 00 00 29 5d 4e 66 4e 66 62 82 82 2a 76 12 05 00 00 29 d3 27 ab 82 82 2a 76 12 06 00 00 29 62 04 27 ab 82 82 76 2a 76 12 07 00 00 29 62 05 27 ab 82 76 2a 76 11 07 00 00 29 d2 66 7c 27 ab 76 12 0f 00 00 5d a9 01 46 a9 01 00 29 5d 60 46 60 00 29 47 d2 80 e1 01 63 07 5d 43 2c ac 05 d2 a0 46 43 01 29 5d cb 01 66 cb 01 76 2a 76 12 0b 00 00 29 5d cb 01 66 cb 01 d2 ab 96 76 12 7d 00 00 d3 96 76 2a 76 12 05 00 00 29 62 04 96 76 2a 76 12 05 00 00 29 62 05 96 76 2a 76 12 0a 00 00 29 d2 66 49 2c ad 05 ab 96 76 2a 76 12 0f 00 00 29 d2 66 49 2c ae 05 46 61 01 96 24 00 ab 76 2a 76 12 14 00 00 29 5d 54 66 54 5d fd 01 d2 46 fd 01 01 46 67 01 24 ff ab 76 12 21 00 00 5d 43 5d fd 01 d2 46 fd 01 01 2c b0 05 a0 5d fd 01 5d cb 01 66 cb 01 46 fd 01 01 a0 46 43 01 29 47 d2 5d 48 66 48 b3 12 4b 01 00 5d 43 2c b1 05 d2 a0 46 43 01 29 5d 43 2c b2 05 5d 48 d2 46 48 01 66 ca 01 a0 46 43 01 29 5d 48 d2 46 48 01 66 ca 01 2c ef 04 ab 96 76 2a 76 12 10 00 00 29 5d 48 d2 46 48 01 66 ca 01 2c b3 05 ab 96 76 2a 76 12 10 00 00 29 5d 48 d2 46 48 01 66 ca 01 2c b4 05 ab 96 76 2a 76 12 0b 00 00 29 5d 48 d2 46 48 01 66 fe 01 76 12 d9 00 00 5d 44 66 44 2c 86 05 d2 2c b6 05 5d 48 d2 46 48 01 66 ff 01 55 02 46 b8 01 01 29 5d 80 02 5d 48 d2 46 48 01 2c b9 05 46 80 02 02 12 12 00 00 5d 48 d2 46 48 01 2c b9 05 46 81 02 01 29 10 4c 00 00 5d 48 d2 46 48 01 2c ff 04 46 82 02 01 12 21 00 00 5d 83 02 66 83 02 5d 48 d2 46 48 01 66 dd 01 5d 48 d2 46 48 01 66 de 01 46 84 02 02 29 10 1a 00 00 5d 83 02 66 83 02 5d 48 d2 46 48 01 5d 48 d2 46 48 01 66 de 01 46 84 02 02 29 5d 48 d2 46 48 01 5d 83 01 66 83 01 66 84 01 5d 85 02 66 85 02 27 24 01 26 46 86 01 05 29 d2 66 49 2c c0 05 14 1e 00 00 5d 48 d2 46 48 01 5d 83 01 66 83 01 66 86 02 5d 87 02 66 87 02 27 24 01 26 46 86 01 05 29 d1 46 88 02 00 29 10 3a 00 00 5d 44 66 44 2c 86 05 d2 55 01 46 b8 01 01 29 5d 83 02 66 83 02 d2 46 84 02 01 29 d2 5d 83 01 66 83 01 66 84 01 5d 85 02 66 85 02 27 24 01 26 46 86 01 05 29 d1 46 88 02 00 29 47
+[CHEATUI-ROUTE]     METHOD ScreenManager.onButtonReleasedOutside#50 (static) codeOffset=0x431c99 len=71 : d0 30 d1 66 c9 01 5d 48 66 48 87 80 48 d6 5d 80 02 d2 2c c4 05 46 80 02 02 76 2a 76 12 0a 00 00 29 d2 66 ca 01 2c b9 05 ab 76 12 18 00 00 d2 2c c4 05 46 81 02 01 29 5d 89 02 66 89 02 d2 66 8a 02 46 8b 02 01 29 47
+[CHEATUI-ROUTE]     METHOD ScreenManager.onButtonReleased#51 (static) codeOffset=0x431ce9 len=370 : d0 30 d1 66 c9 01 5d e1 01 66 e1 01 87 80 e1 01 d6 24 00 73 d7 10 1a 00 00 09 5d 44 66 44 d3 66 64 2c 86 05 66 64 d2 14 04 00 00 10 0f 00 00 d3 c0 73 d7 d3 5d 44 66 44 66 62 15 db ff ff 5d 44 66 44 d3 24 01 46 69 02 29 5d 8c 02 46 8c 02 00 29 d2 5d 83 01 66 83 01 66 84 01 5d 85 02 66 85 02 46 a3 01 02 29 d2 66 49 2c c0 05 14 15 00 00 d2 5d 83 01 66 83 01 66 86 02 5d 87 02 66 87 02 46 a3 01 02 29 d2 5d 48 66 48 b3 12 a6 00 00 5d 80 02 5d 48 d2 46 48 01 2c c9 05 46 80 02 02 12 12 00 00 5d 48 d2 46 48 01 2c c9 05 46 81 02 01 29 10 7c 00 00 5d 48 d2 46 48 01 2c ff 04 46 82 02 01 12 21 00 00 5d 83 02 66 83 02 5d 48 d2 46 48 01 66 dd 01 5d 48 d2 46 48 01 66 de 01 46 8d 02 02 29 10 1a 00 00 5d 83 02 66 83 02 5d 48 d2 46 48 01 5d 48 d2 46 48 01 66 de 01 46 8d 02 02 29 5d 72 66 72 66 cc 01 12 25 00 00 5d 38 66 38 2c f1 04 66 64 d2 d2 66 49 d2 66 6d 76 12 0a 00 00 d2 66 6d 66 49 82 10 02 00 00 20 82 46 74 03 29 10 3c 00 00 5d 83 02 66 83 02 d2 46 8d 02 01 29 5d 72 66 72 66 cc 01 12 25 00 00 5d 38 66 38 2c f1 04 66 64 d2 d2 66 49 d2 66 6d 76 12 0a 00 00 d2 66 6d 66 49 82 10 02 00 00 20 82 46 74 03 29 47
+[CHEATUI-ROUTE]     METHOD ScreenManager.onReleased#52 (static) codeOffset=0x431e63 len=11 : d0 30 5d 8c 02 46 8c 02 00 29 47
+[CHEATUI-ROUTE]     METHOD ScreenManager.removePressedButtonListener#54 (static) codeOffset=0x431ea2 len=206 : d0 30 d1 2c 86 05 66 64 5d e1 01 66 e1 01 87 80 e1 01 d6 5d 43 2c cb 05 d1 66 8e 02 46 43 02 29 d2 5d 48 66 48 b3 12 79 00 00 5d 80 02 5d 48 d2 46 48 01 2c b9 05 46 80 02 02 12 15 00 00 5d 48 d2 46 48 01 d1 2c b6 05 66 64 46 8f 02 01 29 10 4c 00 00 5d 48 d2 46 48 01 2c ff 04 46 82 02 01 12 21 00 00 5d 83 02 66 83 02 5d 48 d2 46 48 01 66 dd 01 5d 48 d2 46 48 01 66 de 01 46 8d 02 02 29 10 1a 00 00 5d 83 02 66 83 02 5d 48 d2 46 48 01 5d 48 d2 46 48 01 66 de 01 46 8d 02 02 29 10 15 00 00 5d 43 2c cd 05 46 43 01 29 5d 83 02 66 83 02 d2 46 8d 02 01 29 d2 5d 83 01 66 83 01 66 84 01 5d 85 02 66 85 02 46 a3 01 02 29 47
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SelectHelperDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:93/first=string | multinames:58/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#32=name=ScreenManager | multinames#34=name=registerButtons
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SelectHelperDragon visited=84 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SellPlaceDragon_Info ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:77/first=string | multinames:41/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SellPlaceDragon_Info visited=75 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ruin_DRAGON_SKULL_GATE ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:13/first=string | multinames:5/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ruin_DRAGON_SKULL_GATE visited=23 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineAltarChapterDragonModel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:37/first=string | multinames:19/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineAltarChapterDragonModel visited=37 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_ButtonBookOfDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_ButtonBookOfDragons visited=30 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_ButtonDragonsHoard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:12/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_ButtonDragonsHoard visited=30 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonMaxLevelRaiserPanel ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:30/first=string | multinames:15/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonMaxLevelRaiserPanel visited=33 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=CommonProxy ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:155/first=string | multinames:92/first=object | classes:1/first=object | methods:43/first=object | bodies:43/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#54=name=sendButtonEvent | multinames#81=name=SendActionButtonEvent | multinames#90=name=CommonProxy | multinames#91=name=CommonProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=CommonProxy visited=270 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ScreenManagerProxy ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:69/first=string | multinames:37/first=object | classes:1/first=object | methods:25/first=object | bodies:25/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#7=name=registerButtons | multinames#35=name=ScreenManagerProxy | multinames#36=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ScreenManagerProxy visited=143 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonLevelBadge_13 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:20/first=string | multinames:14/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonLevelBadge_13 visited=36 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonNoClanIcon_7 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:69/first=string | multinames:29/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonNoClanIcon_7 visited=51 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCardWithButton ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:18/first=string | multinames:13/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCardWithButton visited=31 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonNameBadge ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:18/first=string | multinames:15/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonNameBadge visited=37 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerMilestoneIndicator ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:75/first=string | multinames:35/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerMilestoneIndicator visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsContainer ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:12/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsContainer visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ElementUnlockDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:95/first=string | multinames:46/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ElementUnlockDragonCard visited=72 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=GeneratorPurchaseDragonItem ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:76/first=string | multinames:32/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=GeneratorPurchaseDragonItem visited=54 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Icon_Dragon_Render ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:14/first=string | multinames:12/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Icon_Dragon_Render visited=30 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Dragon_Part_Box_Content_Panel_3 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:76/first=string | multinames:37/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Dragon_Part_Box_Content_Panel_3 visited=63 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PuzzleGridDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:78/first=string | multinames:35/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PuzzleGridDragonCard visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PuzzleGridDragonCardOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:70/first=string | multinames:31/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PuzzleGridDragonCardOverlay visited=57 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonInfo_timer_5 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:21/first=string | multinames:15/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonInfo_timer_5 visited=37 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Group_DragonInfo_32 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:83/first=string | multinames:39/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Group_DragonInfo_32 visited=61 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Group_DragonInfo_Chance_34 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:78/first=string | multinames:37/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Group_DragonInfo_Chance_34 visited=71 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=groupDragonTextHint_33 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:78/first=string | multinames:37/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=groupDragonTextHint_33 visited=71 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=GachaProbability_DragonReward_17 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:20/first=string | multinames:14/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=GachaProbability_DragonReward_17 visited=36 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Group_DragonInfo_20 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:85/first=string | multinames:42/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Group_DragonInfo_20 visited=64 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=Group_DragonInfo_Chance_21 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:20/first=string | multinames:14/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=Group_DragonInfo_Chance_21 visited=36 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRarytyBorder_25 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:12/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRarytyBorder_25 visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PageDragons_RightGroup_33 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:27/first=string | multinames:22/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PageDragons_RightGroup_33 visited=48 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PageDragons_dragonGroup_23 ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:20/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PageDragons_dragonGroup_23 visited=42 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunner321Overlay_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:81/first=string | multinames:34/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunner321Overlay_design visited=56 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunner321Overlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:30/first=string | multinames:21/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunner321Overlay visited=47 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerLoseOverlay_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:111/first=string | multinames:57/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerLoseOverlay_design visited=91 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerLoseOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:97/first=string | multinames:73/first=object | classes:1/first=object | methods:11/first=object | bodies:11/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#50=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerLoseOverlay visited=123 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerReviveOverlay_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:119/first=string | multinames:61/first=object | classes:1/first=object | methods:9/first=object | bodies:9/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerReviveOverlay_design visited=103 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerReviveOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:73/first=string | multinames:57/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#33=name=ScreenManagerProxy | multinames#38=name=CommonProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerReviveOverlay visited=91 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerWinOverlay_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:125/first=string | multinames:66/first=object | classes:1/first=object | methods:10/first=object | bodies:10/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerWinOverlay_design visited=112 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerWinOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:117/first=string | multinames:91/first=object | classes:1/first=object | methods:11/first=object | bodies:11/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#63=name=ScreenManagerProxy | multinames#67=name=CommonProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerWinOverlay visited=141 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PuzzleGridDragonUnlockOverlay_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:86/first=string | multinames:38/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PuzzleGridDragonUnlockOverlay_design visited=60 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PuzzleGridDragonUnlockOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:73/first=string | multinames:57/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#13=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PuzzleGridDragonUnlockOverlay visited=95 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonExchangeInfoPopup_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:111/first=string | multinames:55/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonExchangeInfoPopup_design visited=89 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonExchangeInfoPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:68/first=string | multinames:40/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#10=name=CommonProxy | multinames#25=name=ScreenManagerProxy | multinames#28=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonExchangeInfoPopup visited=66 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonLowLevelPopup_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:36/first=string | multinames:26/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonLowLevelPopup_design visited=48 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonLowLevelPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:135/first=string | multinames:80/first=object | classes:1/first=object | methods:8/first=object | bodies:8/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#47=name=push | multinames#52=name=CommonProxy | multinames#67=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonLowLevelPopup visited=118 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonSellWarningPopup_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:87/first=string | multinames:38/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonSellWarningPopup_design visited=64 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonSellWarningPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:43/first=string | multinames:28/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonSellWarningPopup visited=50 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsHoardCompletePopup_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:104/first=string | multinames:49/first=object | classes:1/first=object | methods:7/first=object | bodies:7/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsHoardCompletePopup_design visited=83 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsHoardCompletePopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:32/first=string | multinames:23/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsHoardCompletePopup visited=45 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=NewDragonCollectedPopup_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:105/first=string | multinames:48/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=NewDragonCollectedPopup_design visited=78 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=NewDragonCollectedPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:64/first=string | multinames:48/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=NewDragonCollectedPopup visited=74 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerLandingScreen_designTLEHub ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:100/first=string | multinames:47/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerLandingScreen_designTLEHub visited=77 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerLandingScreen_TLEHub ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:139/first=string | multinames:111/first=object | classes:1/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#41=name=ScreenManagerProxy | multinames#78=name=CommonProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerLandingScreen_TLEHub visited=165 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerLevelScreen_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:86/first=string | multinames:39/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerLevelScreen_design visited=65 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerLevelScreen ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:76/first=string | multinames:53/first=object | classes:1/first=object | methods:10/first=object | bodies:10/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#28=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerLevelScreen visited=99 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerMilestones_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:17/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerMilestones_design visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnerMilestones ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:117/first=string | multinames:83/first=object | classes:2/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnerMilestones visited=137 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonRunnnerMilestone ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:117/first=string | multinames:83/first=object | classes:2/first=object | methods:12/first=object | bodies:12/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonRunnnerMilestone visited=137 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsHoard_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:106/first=string | multinames:54/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsHoard_design visited=84 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsHoard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:161/first=string | multinames:120/first=object | classes:1/first=object | methods:21/first=object | bodies:21/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#45=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsHoard visited=210 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsHoard_designTLEHub ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:102/first=string | multinames:51/first=object | classes:1/first=object | methods:5/first=object | bodies:5/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsHoard_designTLEHub visited=77 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonsHoard_TLEHub ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:174/first=string | multinames:131/first=object | classes:1/first=object | methods:22/first=object | bodies:22/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#87=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonsHoard_TLEHub visited=225 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ElementUnlockDragons_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:81/first=string | multinames:36/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ElementUnlockDragons_design visited=58 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ElementUnlockDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:222/first=string | multinames:174/first=object | classes:2/first=object | methods:24/first=object | bodies:24/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#171=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#88=name=push
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ElementUnlockDragons visited=277 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ElementUnlockDragonCardComponent ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:222/first=string | multinames:174/first=object | classes:2/first=object | methods:24/first=object | bodies:24/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=#171=onButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#88=name=push
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ElementUnlockDragonCardComponent visited=277 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_Dragon_Part_Box_Content_RedesignScreen_design ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:25/first=string | multinames:18/first=object | classes:1/first=object | methods:4/first=object | bodies:4/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_Dragon_Part_Box_Content_RedesignScreen_design visited=40 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MsgBox_Dragon_Part_Box_Content_Redesign ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:185/first=string | multinames:123/first=object | classes:1/first=object | methods:18/first=object | bodies:18/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#49=name=ScreenManager | multinames#58=name=push | multinames#84=name=sendButtonEvent
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MsgBox_Dragon_Part_Box_Content_Redesign visited=201 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=dragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:22/first=string | multinames:17/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=dragonCard visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=rewardDragon ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:73/first=string | multinames:34/first=object | classes:1/first=object | methods:6/first=object | bodies:6/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=rewardDragon visited=64 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_BBBDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:16/first=string | multinames:11/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_BBBDragonCard visited=29 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_PuzzleGridDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:24/first=string | multinames:19/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_PuzzleGridDragonCard visited=37 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunner321Overlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:13/first=string | multinames:8/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunner321Overlay visited=26 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerLandingScreen ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:27/first=string | multinames:21/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerLandingScreen visited=39 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerLevelScreen ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:22/first=string | multinames:16/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerLevelScreen visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerLoseOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:18/first=string | multinames:12/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerLoseOverlay visited=30 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerMilestone ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:12/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerMilestone visited=30 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerMilestones ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:18/first=string | multinames:12/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerMilestones visited=30 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerReviveOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:21/first=string | multinames:15/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerReviveOverlay visited=33 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonRunnerWinOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:23/first=string | multinames:17/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonRunnerWinOverlay visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_ElementUnlockDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:24/first=string | multinames:19/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_ElementUnlockDragons visited=37 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonExchangeInfoPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:16/first=string | multinames:11/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonExchangeInfoPopup visited=29 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonLowLevelPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:18/first=string | multinames:13/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonLowLevelPopup visited=31 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonSellWarningPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:15/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonSellWarningPopup visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonsHoardCompletePopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:15/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonsHoardCompletePopup visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_NewDragonCollectedPopup ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:22/first=string | multinames:17/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_NewDragonCollectedPopup visited=35 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_PuzzleGridDragonUnlockOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:16/first=string | multinames:10/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_PuzzleGridDragonUnlockOverlay visited=28 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_DragonsHoard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:22/first=string | multinames:16/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_DragonsHoard visited=34 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AncientDragonCardDecoratorMiddleBottom ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AncientDragonCardDecoratorMiddleBottom visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AncientDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AncientDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BossDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BossDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=CommonDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=CommonDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCardOverlay ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCardOverlay visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DragonCry ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DragonCry visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=EpicDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=EpicDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IconShopDragons ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IconShopDragons visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LegendaryDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LegendaryDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PrimalDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PrimalDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=RareDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=RareDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SupremeDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SupremeDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TyrantDragonCardDecoratorCorner ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TyrantDragonCardDecoratorCorner visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TyrantDragonCardDecoratorMiddleBottom ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TyrantDragonCardDecoratorMiddleBottom visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TyrantDragonCardDecoratorMiddleTop ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TyrantDragonCardDecoratorMiddleTop visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TyrantDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TyrantDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=UncommonDragonCardFrame ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:17/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=UncommonDragonCardFrame visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AncientDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AncientDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AncientDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AncientDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BossDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BossDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BossDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BossDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=CommonDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=CommonDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=EarthDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=EarthDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=EnergyDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=EnergyDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=EpicDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=EpicDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=FireDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=FireDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LegendaryDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LegendaryDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LightDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LightDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=MetalDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=MetalDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=NonElementDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=NonElementDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PlantDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PlantDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PrimalDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PrimalDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PrimalDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PrimalDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=RareDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=RareDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ShadowDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ShadowDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SupremeDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SupremeDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TyrantDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TyrantDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=TyrantDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=TyrantDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=UncommonDragonCardBackground ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=UncommonDragonCardBackground visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VoidDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VoidDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=WaterDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=WaterDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=WindDragonCardBackgroundSmall ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=WindDragonCardBackgroundSmall visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AncientDragonCardDecoratorLeft ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AncientDragonCardDecoratorLeft visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=AncientDragonCardDecoratorRight ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=AncientDragonCardDecoratorRight visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineDragonCardDecoratorLeft ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineDragonCardDecoratorLeft visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=DivineDragonCardDecoratorRight ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=DivineDragonCardDecoratorRight visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=EpicDragonCardDecoratorCorner ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=EpicDragonCardDecoratorCorner visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LegendaryDragonCardDecoratorCorner ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LegendaryDragonCardDecoratorCorner visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=LegendaryDragonCardDecoratorTop ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=LegendaryDragonCardDecoratorTop visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PrimalDragonCardDecoratorLeft ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PrimalDragonCardDecoratorLeft visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=PrimalDragonCardDecoratorRight ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=PrimalDragonCardDecoratorRight visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SupremeDragonCardDecoratorBottom ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SupremeDragonCardDecoratorBottom visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SupremeDragonCardDecoratorCorner ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SupremeDragonCardDecoratorCorner visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SupremeDragonCardDecoratorSide ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SupremeDragonCardDecoratorSide visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=SupremeDragonCardDecoratorTop ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=SupremeDragonCardDecoratorTop visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IconArmoredDragonEgg ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IconArmoredDragonEgg visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=IconDragonPart ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:19/first=string | multinames:9/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=IconDragonPart visited=27 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=BreedingDenDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:321/first=string | multinames:195/first=object | classes:1/first=object | methods:17/first=object | bodies:17/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#41=name=push | multinames#86=name=ScreenManagerProxy
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=BreedingDenDragonCard visited=269 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=ShopDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:344/first=string | multinames:213/first=object | classes:4/first=object | methods:34/first=object | bodies:34/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=multinames#79=name=push
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=ShopDragonCard visited=358 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_BreedingDenDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:50/first=string | multinames:21/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_BreedingDenDragonCard visited=39 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] ROUTE_SCAN_CLASS=VM_ShopDragonCard ABC_KEYS=tagOffset,strings,multinames,classes,methods,bodies
+[CHEATUI-ROUTE] ROUTE_SCAN_ARRAYS=strings:58/first=string | multinames:33/first=object | classes:1/first=object | methods:3/first=object | bodies:3/first=object
+[CHEATUI-ROUTE] ROUTE_SCAN_STRINGS=
+[CHEATUI-ROUTE] ROUTE_SCAN_MULTINAMES=
+[CHEATUI-ROUTE] ROUTE_SCAN_SUMMARY class=VM_ShopDragonCard visited=51 methodMetadata=0 codeArrays=0 byteCandidates=0
+[CHEATUI-ROUTE] TAG_STREAM: total tags=34032, final offset=0x1f268a8
+[CHEATUI-ROUTE] SCAN_DONE: ABC blocks=4198, class records=4218, selected method bodies=27. No patches performed.
